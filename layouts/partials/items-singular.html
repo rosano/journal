@@ -14,11 +14,9 @@
 		</span>
 		{{ end }}
 
-		{{ with .Params.categories }}
-		<span>type:</span> 
-		<span>
-			{{ range . }}{{ with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) }}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end }}{{ end }}
-		</span>
-		{{ end }}
+		
 	</small>
+	{{ with .Params.categories }}
+		{{ range . }}{{ with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) }}<a class="type" href="{{ .Permalink }}">{{ .Title }}</a> {{ end }}{{ end }}
+	{{ end }}
 </div>

@@ -49,6 +49,8 @@ hr {
 	border-radius: 3px;
 	font-family: Lucida Grande, Helvetica Neue, Helvetica, Arial, sans-serif;
 	font-size: 90%;
+
+	position: relative;
 }
 
 @media (min-width: 450px) {
@@ -77,6 +79,18 @@ hr {
 
 .post ol, .post ul {
 	padding-left: 16px;
+}
+
+.post .type {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 10px;
+	color: unset;
+	opacity: 0.3;
+	font-weight: bold;
+	font-size: 90%;
+
 }
 
 .paginator {
