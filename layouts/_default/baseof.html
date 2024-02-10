@@ -10,11 +10,11 @@
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "css/_gather.scss" | resources.ToCSS $options }}
 <link rel="stylesheet" href="{{ $style.Permalink }}" />
-
-{{ range .AlternativeOutputFormats -}}
-  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ site.Title }}">
+{{ if not (and (eq .Kind "term") (or (eq .Data.Plural "years") (eq .Data.Plural "months") (eq .Data.Plural "days"))) }}
+	{{ range .AlternativeOutputFormats -}}
+	  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
+	{{ end }}
 {{ end }}
-
 
 </head>
 <body>
