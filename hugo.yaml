@@ -17,6 +17,8 @@ permalinks:
   page:
     posts: /:slugorfilename/
   term:
+    categories: /type/:slug/
+    tags: /tag/:slug/
     years: /:year/
     months: /:year/:month/
     days: /:year/:month/:day/
