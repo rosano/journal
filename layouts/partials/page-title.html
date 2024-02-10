@@ -6,6 +6,8 @@
 {{ else if (and (eq .Kind "term") (eq .Data.Plural "months")) }}
 	{{ $t := time.AsTime (delimit (slice .Data.Term "01") "-") }}
 	{{ time.Format "January 2006" $t }}
+{{ else if eq .Kind "page" -}}
+	entry for {{ .Date.Format "Monday, January 2, 2006" -}}
 {{ else }}
 	{{- .Title -}}
 {{ end -}}
