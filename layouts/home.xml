@@ -14,7 +14,20 @@
 <link>{{ site.BaseURL }}{{ $date }}</link>
 <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" $t | safeHTML }}</pubDate>
 <guid>{{ site.BaseURL }}{{ $date }}</guid>
-<description>entries for the day</description>
+
+{{ $tags := (slice) }}
+{{ $categories := (slice) }}
+{{ range .Pages }}
+  {{ if .Params.categories }}
+    {{ $categories = $categories | append .Params.categories | uniq }}
+  {{ end }}
+
+  {{ if .Params.tags }}
+    {{ $tags = $tags | append .Params.tags | uniq }}
+  {{ end }}
+{{ end }}
+<description>{{ .Pages.Len }} {{ cond (gt .Pages.Len 1) "entries" "entry" }}{{ with $categories }} in {{ delimit $categories ", " }}{{ end }}{{ with $tags }}; tagged: {{ delimit $tags ", " }}{{ end }}</description>
+
 <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
 {{ range $index, $element := .Pages }}
 <div class="post">
