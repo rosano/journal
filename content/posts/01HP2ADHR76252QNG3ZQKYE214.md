@@ -4,5 +4,6 @@ years: 2023
 months: 2023-12
 days: 2023-12-02
 tags: ["interop"]
+categories: ["thought"]
 ---
 Interoperability is people connecting, communicating, collaborating.
