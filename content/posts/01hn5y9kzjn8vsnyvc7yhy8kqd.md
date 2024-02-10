@@ -15,4 +15,4 @@ categories: ["article"]
 
 > The secret truth of business advice is that it's mostly about how to grimly extract residual value from the luck you already had, and the unearned love you were already unguardedly given, because there's really no method for making more of it.
 
-via [@bmann](https://twitter.com/bmann/status/1750370107673518241)
+via [twitter.com/bmann](https://twitter.com/bmann/status/1750370107673518241)

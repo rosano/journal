@@ -7,7 +7,7 @@ categories: ["article"]
 ---
 [Writing, Riffs & Relationships](https://tomcritchlow.com/2023/02/10/riffs)
 
-> [Share what you wrote with a deliberately small group of maybe five people: your metroc here is conversation and meaningful connection.]
+> [Share what you wrote with a deliberately small group of maybe five people: your metric here is conversation and meaningful connection.]
 
 > [Write for one person to focus the text and also guarantee there's at least one person you can share with via direct message.]
 

@@ -19,4 +19,4 @@ In the [design patterns library](https://wiki.hackerspaces.org/Design_Patterns) 
 
 > [Infrastructure first or projects first? By making everything infrastructure-driven, people will come up with contributions you would have never thought about.]
 
-via [Doug](https://mastodon.online/@douginamug@mastodon.xyz/111256404903842715)
+via [mastodon.xyz/@douginamug](https://mastodon.xyz/@douginamug/111256404862696232)
