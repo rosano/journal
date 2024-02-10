@@ -1,4 +1,4 @@
-{{- if (eq .Kind "term") }}entries for {{ end }}
+{{- if (eq .Kind "term") }}entries {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" "for") }} {{ end }}
 
 {{- if (and (eq .Kind "term") (eq .Data.Plural "days")) }}
 	{{ $t := time.AsTime .Data.Term }}
@@ -9,5 +9,7 @@
 {{ else if eq .Kind "page" -}}
 	entry for {{ .Date.Format "Monday, January 2, 2006" -}}
 {{ else }}
+	{{- if (or (eq .Data.Plural "categories") (eq .Data.Plural "tags")) }}"{{ end }}
 	{{- .Title -}}
+	{{- if (or (eq .Data.Plural "categories") (eq .Data.Plural "tags")) }}"{{ end }}
 {{ end -}}
