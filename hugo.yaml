@@ -10,6 +10,9 @@ taxonomies:
   month: months
   day: days
 
+disableKinds:
+- taxonomy
+
 permalinks:
   page:
     posts: /:slugorfilename/
