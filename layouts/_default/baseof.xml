@@ -57,9 +57,11 @@
       {{- $pages = $pctx.Pages }}
     {{- end }}
     {{- $limit := .Site.Config.Services.RSS.Limit }}
-    {{- if ge $limit 1 }}
-      {{- $pages = $pages | first $limit }}
-    {{- end }}
+    {{- if not .IsHome }}
+      {{- if ge $limit 1 }}
+        {{- $pages = $pages | first $limit }}
+      {{- end }}
+    {{ end }}
 
     {{ .Scratch.Set "rss-pages" $pages }}
 
