@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-08
 categories: ["project"]
+tags: ["idea"]
 ---
 I've been to the Hackerspace Wiki before to find local places while travelling. I didn't know they had [hackerspace apps listing](https://wiki.hackerspaces.org/Hackerspace_Software), [software wishlists](https://wiki.hackerspaces.org/Software_Wish_List).
 

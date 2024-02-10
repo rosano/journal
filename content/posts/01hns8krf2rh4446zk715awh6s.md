@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-04
 categories: ["article"]
+tags: ["idea"]
 ---
 [Send your users this welcome email](https://justinjackson.ca/welcome-email)
 

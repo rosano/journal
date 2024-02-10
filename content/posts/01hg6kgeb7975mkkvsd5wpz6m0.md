@@ -5,8 +5,6 @@ months: 2023-09
 days: 2023-09-11
 categories: ["notes"]
 ---
-Mount Kobo to a Mac
-
 Tried to understand why my Kobo doesn't mount to the computer when connecting via cable.
 
 ---

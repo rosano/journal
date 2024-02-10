@@ -3,6 +3,7 @@ date: 2024-02-09T14:26:00.020Z
 years: 2024
 months: 2024-02
 days: 2024-02-09
+tags: ["idea"]
 categories: ["thought"]
 ---
 [Frugly vs. Freemium](https://taylor.town/frugly)
