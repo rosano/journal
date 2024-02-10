@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{- $pages :=  .Scratch.Get "rss-pages" }}
-    {{ range $pages.GroupByParam "days" "desc" | first .Site.Config.Services.RSS.Limit }}
+    {{ range $pages.GroupByPublishDate "2006-01-02" "desc" | first .Site.Config.Services.RSS.Limit }}
       {{ $t := time.AsTime .Key }}
       {{ $date := time.Format "2006/01/02/" $t }}
 

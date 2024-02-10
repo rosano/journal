@@ -1,5 +1,5 @@
 <article class="post-list">
-{{ range .Paginator.Pages.GroupByParam "days" "desc" }}
+{{ range .Paginator.Pages.GroupByPublishDate "2006-01-02" "desc" }}
 	{{ $t := time.AsTime .Key }}
 	{{ $date := time.Format "/2006/01/02/" $t }}
 	<h3 class="day"><a href="{{ $date }}">{{ time.Format "Monday, January 2, 2006" $t }}</a></h3>
