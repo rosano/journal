@@ -1,8 +1,16 @@
 <article class="post-list">
+{{ $isDay := (and (eq .Kind "term") (eq .Data.Plural "days")) }}
+
 {{ range .Paginator.Pages.GroupByPublishDate "2006-01-02" "desc" }}
-	{{ $t := time.AsTime .Key }}
-	{{ $date := time.Format "/2006/01/02/" $t }}
-	<h3 class="day"><a href="{{ $date }}">{{ time.Format "Monday, January 2, 2006" $t }}</a></h3>
+
+	{{ if not $isDay }}
+
+		{{ $t := time.AsTime .Key }}
+		{{ $date := time.Format "/2006/01/02/" $t }}
+		<h3 class="day"><a href="{{ $date }}">{{ time.Format "Monday, January 2, 2006" $t }}</a></h3>
+
+	{{ end }}
+
 	<div class="content">
 		{{ range .Pages }}
 			{{ .Scratch.Set "kScope" "kScopeList" }}

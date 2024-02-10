@@ -1,0 +1,6 @@
+{{ if (and (eq .Kind "term") (eq .Data.Plural "days")) }}
+	{{ $t := time.AsTime .Data.Term }}
+	{{ time.Format "Monday, January 2, 2006" $t }}
+{{ else }}
+	{{ .Title }}
+{{ end }}
