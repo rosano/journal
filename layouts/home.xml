@@ -1,45 +1,52 @@
 {{ define "main" }}
-    {{- $pages :=  .Scratch.Get "rss-pages" }}
-    {{ range $pages.GroupByPublishDate "2006-01-02" "desc" | first .Site.Config.Services.RSS.Limit }}
-      {{ $t := time.AsTime .Key }}
-      {{ $date := time.Format "2006/01/02/" $t }}
 
-      <item>
-        <title>{{ time.Format "Monday, January 2, 2006" $t }}</title>
-        <link>{{ site.BaseURL }}{{ $date }}</link>
-        <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" $t | safeHTML }}</pubDate>
-        <guid>{{ site.BaseURL }}{{ $date }}</guid>
-        <description>entries for the day</description>
-        <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
+{{- $pages := .Scratch.Get "rss-pages" }}
+{{- $pages := $pages.GroupByPublishDate "2006-01-02" "desc" | first .Site.Config.Services.RSS.Limit }}
+{{/* exclude today from home feed */}}
+{{- $pages := where $pages "Key" "ne" (time.Now.Format "2006-01-02") }}
+
+{{ range $pages }}
+{{ $t := time.AsTime .Key }}
+{{ $date := time.Format "2006/01/02/" $t }}
+<item>
+
+<title>{{ time.Format "Monday, January 2, 2006" $t }}</title>
+<link>{{ site.BaseURL }}{{ $date }}</link>
+<pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" $t | safeHTML }}</pubDate>
+<guid>{{ site.BaseURL }}{{ $date }}</guid>
+<description>entries for the day</description>
+<content:encoded>{{ printf "<![CDATA[" | safeHTML }}
 {{ range $index, $element := .Pages }}
 <div class="post">
-  {{ if $index }}<hr />{{ end }}
-  <article class="content">{{ .Content }}</article>
-  <small>
-    <a href="{{ .Permalink }}"><time datetime="{{ .Params.date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Params.date.Format "3h04" }}{{else}}{{ .Params.date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
-    
-    {{ with .Params.tags }}
-    <span>tagged with:</span> 
-    <span>
-      {{ range $index, $element := . }}
-        {{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if not $index }}, {{ end }}
-        {{ end }}
-      {{ end }}
-    </span>
-    {{ end }}
+{{ if $index }}<hr />{{ end }}
+<article class="content">{{ .Content }}</article>
+<small>
+<a href="{{ .Permalink }}"><time datetime="{{ .Params.date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Params.date.Format "3h04" }}{{else}}{{ .Params.date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
 
-    {{ with .Params.categories }}
-    <span>type:</span> 
-    <span>
-      {{ range . }}{{ with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) }}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end }}{{ end }}
-    </span>
-    {{ end }}
-  </small>
+{{ with .Params.tags }}
+<span>tagged with:</span> 
+<span>
+{{ range $index, $element := . }}
+  {{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
+  <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if not $index }}, {{ end }}
+  {{ end }}
+{{ end }}
+</span>
+{{ end }}
+
+{{ with .Params.categories }}
+<span>type:</span> 
+<span>
+{{ range . }}{{ with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) }}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end }}{{ end }}
+</span>
+{{ end }}
+</small>
 </div>
 
 {{ end }}
 {{- printf "]]>" | safeHTML }}</content:encoded>
-      </item>
-    {{- end }}
+
+</item>
+{{- end }}
+
 {{ end }}
