@@ -1,0 +1,24 @@
+baseURL: https://journal.rosano.ca/
+languageCode: en-ca
+title: Journal
+canonifyURLs: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  year: years
+  month: months
+  day: days
+
+permalinks:
+  page:
+    posts: /:slugorfilename/
+  term:
+    years: /:year/
+    months: /:year/:month/
+    days: /:year/:month/:day/
+
+services:
+  rss:
+    limit: 90
+

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+{{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
+{{ $style := resources.Get "css/_gather.scss" | resources.ToCSS $options }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" />
+
+{{ range .AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ site.Title }}">
+{{ end }}
+
+
+</head>
+<body>
+
+<header>
+	<h2>
+		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	</h2>
+</header>
+
+{{- block "main" . }}{{- end }}
+
+<footer>
+</footer>
+
+</body>
+</html>

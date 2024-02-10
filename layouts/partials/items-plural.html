@@ -1,0 +1,22 @@
+<article class="post-list">
+{{ range .Paginator.Pages.GroupByParam "days" "desc" }}
+	{{ $t := time.AsTime .Key }}
+	{{ $date := time.Format "/2006/01/02/" $t }}
+	<h3 class="day"><a href="{{ $date }}">{{ time.Format "Monday, January 2, 2006" $t }}</a></h3>
+	<div class="content">
+		{{ range .Pages }}
+			{{ .Scratch.Set "kScope" "kScopeList" }}
+			{{- partial "items-singular.html" . -}}
+		{{ end }}
+	</div>
+{{ end }}
+</article>
+
+{{ if ne .Paginator.TotalPages 0 }}
+
+<div class="paginator">
+{{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL }}">Older</a>{{ end }}
+{{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL }}">Newer</a>{{ end }}
+</div>
+
+{{ end }}
