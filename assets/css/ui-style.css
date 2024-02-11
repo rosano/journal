@@ -136,9 +136,13 @@ footer {
 @media (min-width: 450px) {
 
 	.paginator {
-	 	width: var(--cap);
+	 	max-width: var(--cap);
 	}
 
+}
+
+.paginator .newer {
+	align-self: flex-end;
 }
 
 footer .types {
