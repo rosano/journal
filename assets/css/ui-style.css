@@ -81,16 +81,23 @@ hr {
 	padding-left: 16px;
 }
 
-.post .type {
+.post .types {
+	padding: 10px;
+
 	position: absolute;
 	bottom: 0;
 	right: 0;
-	padding: 10px;
-	color: unset;
-	opacity: 0.3;
+}
+
+.post .types a {
 	font-weight: bold;
 	font-size: 90%;
 
+	margin-left: 10px;
+	
+	color: unset;
+	
+	opacity: 0.3;
 }
 
 .paginator {

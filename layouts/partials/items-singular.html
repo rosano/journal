@@ -15,10 +15,12 @@
 		{{ end }}
 	</small>
 	{{ with .Params.categories }}
-		{{ range . }}
-			{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
-				<a class="type" href="{{ .Permalink }}">{{ .Title }}</a>
-			{{- end -}}
-		{{ end }}
+		<span class="types">
+			{{ range . }}
+				{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
+					<a href="{{ .Permalink }}">{{ .Title }}</a>
+				{{- end -}}
+			{{ end }}
+		</span>
 	{{ end }}
 </div>
