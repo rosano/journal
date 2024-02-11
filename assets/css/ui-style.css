@@ -1,30 +1,22 @@
 :root {
 	--background: #eee;
+	--cap: 425px;
 }
 
 body {
+	max-width: var(--cap);
+	padding: 10px;
+
+	margin: auto;
+
 	background: var(--background);
 	color: #333;
 	font: Garamond, Georgia, "Times New Roman", Times, serif;
-	margin: 10px;
-}
-
-@media (min-width: 450px) {
-
-	body {
-		margin-left: 55px;
-		margin-bottom: 20px;
-		margin-top: 40px;
-	}
-
 }
 
 a {
 	color: #237fa1;
 	text-decoration: none;
-}
-
-h2 a {
 }
 
 header a {
@@ -71,7 +63,7 @@ hr {
 @media (min-width: 450px) {
 
 	.post {
-		width: 425px;
+		max-width: var(--cap);
 	}
 
 }
@@ -90,6 +82,14 @@ hr {
 
 .post code {
 	white-space: break-spaces;
+	font-size: 90%;
+}
+
+.post pre {
+	font-size: 80%;
+
+	border: 1px solid #ddd;
+	padding: 8px
 }
 
 .post ol, .post ul {
@@ -115,15 +115,19 @@ hr {
 	opacity: 0.3;
 }
 
-.paginator {
-	padding: 15px;
-
+footer {
+	max-width: var(--cap);
 	position: sticky;
 	bottom: 0;
-	z-index: 1;
+
+	z-index: 2;
 
 	background: var(--background);
 	background: linear-gradient(0deg, var(--background) 90%, rgba(255,255,255,0) 100%); 
+}
+
+.paginator {
+	padding: 15px;
 
 	display: flex;
   justify-content: space-between;
@@ -132,7 +136,14 @@ hr {
 @media (min-width: 450px) {
 
 	.paginator {
-	 	width: 425px;
+	 	width: var(--cap);
 	}
 
+}
+
+footer .types {
+	padding: 5px;
+
+	display: flex;
+	justify-content: space-evenly;
 }
