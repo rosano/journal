@@ -3,8 +3,8 @@ date: 2024-02-07T00:25:06.726Z
 years: 2024
 months: 2024-02
 days: 2024-02-07
-categories: ["article"]
 tags: ["idea"]
+categories: ["article"]
 ---
 [Writing, Riffs & Relationships](https://tomcritchlow.com/2023/02/10/riffs)
 

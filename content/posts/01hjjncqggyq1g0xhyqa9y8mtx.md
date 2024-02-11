@@ -3,6 +3,7 @@ date: 2023-12-26T08:55:50.032Z
 years: 2023
 months: 2023-12
 days: 2023-12-26
+tags: ["interop"]
 categories: ["article"]
 ---
 [Let’s talk about pods](https://ruben.verborgh.org/blog/2022/12/30/lets-talk-about-pods/)

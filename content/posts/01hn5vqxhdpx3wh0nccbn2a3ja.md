@@ -3,7 +3,7 @@ date: 2024-01-27T16:23:45.964Z
 years: 2024
 months: 2024-01
 days: 2024-01-27
-categories: ["article"]
+categories: ["article","project"]
 ---
 [The Signals: A Guided Primer](https://newpublic.org/interactive)
 

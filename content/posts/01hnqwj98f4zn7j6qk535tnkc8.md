@@ -3,7 +3,7 @@ date: 2024-02-03T16:24:29.711Z
 years: 2024
 months: 2024-02
 days: 2024-02-03
-categories: ["article"]
+categories: ["article","project"]
 ---
 [OLLOS](https://alexanderobenauer.com/ollos/)
 
