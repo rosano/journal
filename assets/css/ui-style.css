@@ -1,11 +1,12 @@
 :root {
 	--background: #eee;
 	--cap: 425px;
+	--spacing: 10px;
 }
 
 body {
 	max-width: var(--cap);
-	padding: 10px;
+	padding: var(--spacing);
 
 	margin: auto;
 
@@ -35,7 +36,7 @@ hr {
 }
 
 .day {
-	padding: 10px 0;
+	padding: var(--spacing) 0;
 	
 	position: sticky;
 	top: 0;
@@ -97,7 +98,7 @@ hr {
 }
 
 .post .types {
-	padding: 10px;
+	padding: var(--spacing);
 
 	position: absolute;
 	bottom: 0;
@@ -108,7 +109,7 @@ hr {
 	font-weight: bold;
 	font-size: 90%;
 
-	margin-left: 10px;
+	margin-left: var(--spacing);
 	
 	color: unset;
 	
