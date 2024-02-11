@@ -6,10 +6,10 @@
 {{ else if (and (eq .Kind "term") (eq .Data.Plural "months")) }}
 	{{ $t := time.AsTime (delimit (slice .Data.Term "01") "-") }}
 	{{ time.Format "January 2006" $t }}
-{{ else if eq .Kind "page" -}}
+{{ else if (or (eq .Data.Plural "categories") (eq .Data.Plural "tags")) -}}
+	"{{- .Title -}}"
+{{ else if eq .Section "posts" }}
 	entry for {{ .Date.Format "Monday, January 2, 2006" -}}
-{{ else }}
-	{{- if (or (eq .Data.Plural "categories") (eq .Data.Plural "tags")) }}"{{ end }}
+{{- else }}
 	{{- .Title -}}
-	{{- if (or (eq .Data.Plural "categories") (eq .Data.Plural "tags")) }}"{{ end }}
 {{ end -}}
