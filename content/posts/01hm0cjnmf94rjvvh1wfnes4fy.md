@@ -4,6 +4,7 @@ years: 2024
 months: 2024-01
 days: 2024-01-13
 categories: ["talk"]
+link: https://dailyyonder.com/beau-of-the-fifth-column-on-fact-opinion-and-the-democracy-in-between-everywhere-radio/2022/05/20/
 ---
 [YouTube Commentator Beau of the Fifth Column on Fact, Opinion, and the Democracy In Between](https://dailyyonder.com/beau-of-the-fifth-column-on-fact-opinion-and-the-democracy-in-between-everywhere-radio/2022/05/20/)
 

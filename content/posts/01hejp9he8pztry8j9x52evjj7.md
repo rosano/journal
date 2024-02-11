@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-06
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=remNAoBgC5g
 ---
 [The Roads to Reaction and Response](https://www.youtube.com/watch?v=remNAoBgC5g)
 

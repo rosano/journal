@@ -3,6 +3,7 @@ date: 2023-07-07T01:12:00.000Z
 years: 2023
 months: 2023-07
 days: 2023-07-07
+link: https://www.theverge.com/23778253/google-reader-death-2013-rss-social
 categories: ["article"]
 ---
 [How Google Reader died — and why the web misses it more than ever - The Verge](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)

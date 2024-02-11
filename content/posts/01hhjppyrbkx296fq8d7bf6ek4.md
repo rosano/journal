@@ -3,6 +3,7 @@ date: 2023-12-13T21:44:00.000Z
 years: 2023
 months: 2023-12
 days: 2023-12-13
+link: https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier
 categories: ["article"]
 ---
 [Tech doesn’t make our lives easier. It makes them faster](https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier)

@@ -3,6 +3,8 @@ date: 2023-12-14T16:43:17.415Z
 years: 2023
 months: 2023-12
 days: 2023-12-14
+tags: ["interop"]
+link: https://www.geoffreylitt.com/2020/07/19/tools-over-apps-for-personal-notetaking
 categories: ["article"]
 ---
 [Foam: Software as Curation](https://www.geoffreylitt.com/2020/07/19/tools-over-apps-for-personal-notetaking)

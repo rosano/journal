@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-31
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=CcnCYdZw72k
 ---
 [Let's talk about balance and advice for the unvaccinated....](https://www.youtube.com/watch?v=CcnCYdZw72k)
 

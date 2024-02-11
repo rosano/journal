@@ -3,6 +3,7 @@ date: 2023-10-09T14:47:03.821Z
 years: 2023
 months: 2023-10
 days: 2023-10-09
+link: https://chelseatroy.com/2021/09/22/critique-the-internet-and-you/
 categories: ["article"]
 ---
 [Critique, The Internet, and You](https://chelseatroy.com/2021/09/22/critique-the-internet-and-you/)

@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-05
 categories: ["talk"]
+link: https://youtu.be/FdI_ayaAXDE
 ---
 [Daryl Davis on Reforming Over 200 ‘Ku Klux Klan’ Members - by Befriending Them](https://youtu.be/FdI_ayaAXDE)
 

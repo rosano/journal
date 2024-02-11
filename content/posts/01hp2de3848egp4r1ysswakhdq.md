@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-07
 categories: ["code"]
+link: https://stackoverflow.com/questions/43197105/how-do-you-jump-to-the-first-commit-in-git
 ---
 [How do you jump to the first commit in git?](https://stackoverflow.com/questions/43197105/how-do-you-jump-to-the-first-commit-in-git)
 

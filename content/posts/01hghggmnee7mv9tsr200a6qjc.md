@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-01
 tags: ["lingo"]
+link: https://mastodon.social/@jensclasen/111499280856433404
 categories: ["article"]
 ---
 [The German prefix "zer-" is a tiny Terminator.](https://mastodon.social/@jensclasen/111499280856433404)

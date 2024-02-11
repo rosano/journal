@@ -3,6 +3,7 @@ date: 2023-11-08T12:10:00.000Z
 years: 2023
 months: 2023-11
 days: 2023-11-08
+link: https://www.instagram.com/p/Cd5n0guu8cI/
 categories: ["article"]
 ---
 [Callings & Roles for Collective Liberation | Slow Factory 🌍](https://www.instagram.com/p/Cd5n0guu8cI/)

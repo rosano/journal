@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-07
 tags: ["idea"]
+link: https://tomcritchlow.com/2023/02/10/riffs
 categories: ["article"]
 ---
 [Writing, Riffs & Relationships](https://tomcritchlow.com/2023/02/10/riffs)

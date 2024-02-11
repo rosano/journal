@@ -4,6 +4,7 @@ years: 2023
 months: 2023-06
 days: 2023-06-30
 categories: ["project"]
+link: https://openbox.ca/collections/apple-iphones
 ---
 [Open Box Computers & Electronics](https://openbox.ca/collections/apple-iphones)
 

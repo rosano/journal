@@ -3,6 +3,7 @@ date: 2023-11-07T20:33:00.000Z
 years: 2023
 months: 2023-11
 days: 2023-11-07
+link: https://www.instagram.com/p/CzVvFt2rqrW/
 categories: ["article"]
 ---
 [What Great Listeners Actually Do - A Visual Guide](https://www.instagram.com/p/CzVvFt2rqrW/)

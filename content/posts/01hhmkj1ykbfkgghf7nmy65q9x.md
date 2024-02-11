@@ -3,6 +3,7 @@ date: 2023-12-14T16:46:34.451Z
 years: 2023
 months: 2023-12
 days: 2023-12-14
+link: https://jamesg.blog/2023/12/10/deprecating-content/
 categories: ["article"]
 ---
 [Deprecating Content](https://jamesg.blog/2023/12/10/deprecating-content/)

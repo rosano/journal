@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-29
 categories: ["talk"]
+link: https://www.instagram.com/reel/C1VlpbuMOLQ/
 ---
 [@danielbmate x @thedandelionking](https://www.instagram.com/reel/C1VlpbuMOLQ/)
 

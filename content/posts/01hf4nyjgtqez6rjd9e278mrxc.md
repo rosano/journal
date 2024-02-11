@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-13
 tags: ["food"]
 categories: ["talk"]
+link: https://www.instagram.com/reel/Czli2zJImOb/
 ---
 [Super cool ways to use onion peels!](https://www.instagram.com/reel/Czli2zJImOb/)
 

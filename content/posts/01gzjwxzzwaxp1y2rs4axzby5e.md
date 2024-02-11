@@ -4,6 +4,7 @@ years: 2023
 months: 2023-05
 days: 2023-05-04
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=BdqhPuPKhSc
 ---
 [EXACTLY HOW TO GET 10,000 YOUTUBE SUBSCRIBERS FAST](https://www.youtube.com/watch?v=BdqhPuPKhSc)
 

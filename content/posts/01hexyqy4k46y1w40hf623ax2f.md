@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-10
 tags: ["food"]
 categories: ["talk"]
+link: https://www.instagram.com/reel/CzcSo51IBeB/
 ---
 [How to prevent getting sick as often..](https://www.instagram.com/reel/CzcSo51IBeB/)
 

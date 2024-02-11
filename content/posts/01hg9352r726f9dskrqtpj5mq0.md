@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-27
 categories: ["talk"]
+link: https://m.youtube.com/watch?v=kSMhIht40YY
 ---
 [Let's talk about changing times and minds....](https://m.youtube.com/watch?v=kSMhIht40YY)
 

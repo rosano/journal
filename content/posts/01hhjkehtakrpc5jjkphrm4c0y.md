@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-13
 categories: ["talk"]
+link: https://www.tiktok.com/@watchfulcoyote/video/7311503851977215274
 ---
 [Why don’t the Democrats adopt the obvious winning strategies?](https://www.tiktok.com/@watchfulcoyote/video/7311503851977215274)
 

@@ -4,6 +4,7 @@ years: 2022
 months: 2022-02
 days: 2022-02-17
 categories: ["talk"]
+link: https://nevilleamehra.com/never-normal-podcast/creating-community-wherever-you-go-with-digital-nomad-alex-salinsky-episode-011/
 ---
 [Creating Community Wherever You Go with Digital Nomad Alex Salinsky](https://nevilleamehra.com/never-normal-podcast/creating-community-wherever-you-go-with-digital-nomad-alex-salinsky-episode-011/)
 

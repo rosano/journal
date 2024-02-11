@@ -4,6 +4,7 @@ years: 2023
 months: 2023-10
 days: 2023-10-03
 categories: ["talk"]
+link: https://shows.acast.com/theleader/episodes/leader-weekends-how-to-be-a-ceo-tumblrs-matt-mullenweg
 ---
 [Tumblr CEO Matt Mullenweg on open-sourcing social media](https://shows.acast.com/theleader/episodes/leader-weekends-how-to-be-a-ceo-tumblrs-matt-mullenweg)
 

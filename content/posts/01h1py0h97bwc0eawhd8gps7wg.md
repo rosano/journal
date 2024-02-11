@@ -4,6 +4,7 @@ years: 2023
 months: 2023-05
 days: 2023-05-30
 categories: ["talk"]
+link: https://podcasters.spotify.com/pod/show/iwillteachyoualanguage/episodes/412---How-can-you-read-when-youre-still-a-beginner-e14og0h
 ---
 [How can you read when you're still a beginner?](https://podcasters.spotify.com/pod/show/iwillteachyoualanguage/episodes/412---How-can-you-read-when-youre-still-a-beginner-e14og0h)
 

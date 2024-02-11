@@ -3,6 +3,7 @@ date: 2024-01-01T17:52:07.537Z
 years: 2024
 months: 2024-01
 days: 2024-01-01
+link: https://sarahsteinlubrano.substack.com/p/be-kind-everyone-is-fighting-a-social
 categories: ["article"]
 ---
 [Be Kind, Everyone is Fighting a Social Atrophy You Know Nothing About](https://sarahsteinlubrano.substack.com/p/be-kind-everyone-is-fighting-a-social)

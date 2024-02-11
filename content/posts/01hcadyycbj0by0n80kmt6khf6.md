@@ -3,6 +3,7 @@ date: 2023-10-09T14:37:51.882Z
 years: 2023
 months: 2023-10
 days: 2023-10-09
+link: https://chelseatroy.com/2021/09/14/the-art-of-documentation/
 categories: ["article"]
 ---
 [The Art of Documentation](https://chelseatroy.com/2021/09/14/the-art-of-documentation/)

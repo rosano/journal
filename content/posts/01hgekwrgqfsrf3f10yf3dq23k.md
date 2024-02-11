@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-29
 categories: ["talk"]
+link: https://www.instagram.com/reel/C0NSb-NMGea/
 ---
 [venting has a purpose.](https://www.instagram.com/reel/C0NSb-NMGea/)
 

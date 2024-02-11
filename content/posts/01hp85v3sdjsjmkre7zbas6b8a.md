@@ -5,6 +5,7 @@ months: 2024-02
 days: 2024-02-10
 categories: ["notes"]
 tags: ["idea"]
+link: https://github.com/jmooring/hugo-testing
 ---
 [Hugo Testing](https://github.com/jmooring/hugo-testing)
 

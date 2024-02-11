@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-17
 categories: ["talk"]
+link: https://www.instagram.com/reel/CzuXp9Uuhn8/
 ---
 [don’t feed the complaint, funnel it out.](https://www.instagram.com/reel/CzuXp9Uuhn8/)
 

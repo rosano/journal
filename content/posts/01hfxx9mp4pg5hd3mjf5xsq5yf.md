@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-23
 tags: ["food","hack"]
 categories: ["talk"]
+link: https://www.instagram.com/reel/Cz92ie_vlqK/
 ---
 [A lot of us eat oranges and throw out the peels.. but don’t! Take advantage of their benefits and make your own cleaning spray!](https://www.instagram.com/reel/Cz92ie_vlqK/)
 

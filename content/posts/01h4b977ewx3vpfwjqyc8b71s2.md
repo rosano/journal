@@ -4,6 +4,7 @@ years: 2023
 months: 2023-07
 days: 2023-07-02
 categories: ["talk"]
+link: https://www.indiehackers.com/podcast/043-pieter-levels-of-nomad-list
 ---
 [#043 – Confronting Your Fears and Taking a Leap with Pieter Levels of Nomad List](https://www.indiehackers.com/podcast/043-pieter-levels-of-nomad-list)
 

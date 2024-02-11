@@ -3,6 +3,7 @@ date: 2023-11-13T00:03:15.281Z
 years: 2023
 months: 2023-11
 days: 2023-11-13
+link: https://sublimeinternet.substack.com/p/principles-for-sharing-on-the-internet
 categories: ["article"]
 ---
 [Principles for sharing on the Internet](https://sublimeinternet.substack.com/p/principles-for-sharing-on-the-internet)

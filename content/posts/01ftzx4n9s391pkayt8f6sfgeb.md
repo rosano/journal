@@ -3,6 +3,7 @@ date: 2022-02-03T13:42:19.705Z
 years: 2022
 months: 2022-02
 days: 2022-02-03
+link: https://marketingexamples.com/content/michelin-guide
 categories: ["article"]
 ---
 [“Michelin Guide” Marketing](https://marketingexamples.com/content/michelin-guide)

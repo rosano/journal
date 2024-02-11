@@ -3,6 +3,7 @@ date: 2024-01-27T17:08:23.154Z
 years: 2024
 months: 2024-01
 days: 2024-01-27
+link: https://www.furia.com/page.cgi?type=log&id=473
 categories: ["article"]
 ---
 [Individual initiative, corporate inertia and good bad advice](https://www.furia.com/page.cgi?type=log&id=473)

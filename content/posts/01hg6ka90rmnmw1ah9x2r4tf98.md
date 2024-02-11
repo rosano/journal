@@ -4,6 +4,7 @@ years: 2023
 months: 2023-09
 days: 2023-09-18
 categories: ["project"]
+link: https://www.localcan.com
 ---
 [LocalCan™ - HTTPS domains for localhost and wi-fi network](https://www.localcan.com)
 

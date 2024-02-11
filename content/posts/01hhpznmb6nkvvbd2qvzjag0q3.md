@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-29
 tags: ["interop"]
+link: https://github.com/solid/data-interoperability-panel/blob/main/problems-and-goals.md
 categories: ["article"]
 ---
 [Problems and Goals for Interoperability, Collaboration, and Security in a Solid Pod](https://github.com/solid/data-interoperability-panel/blob/main/problems-and-goals.md)

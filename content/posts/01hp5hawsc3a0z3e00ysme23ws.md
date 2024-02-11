@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-08
 categories: ["project"]
+link: https://weatherspark.com/map
 ---
 [World map of 24x365 average temperature fingerprints](https://weatherspark.com/map)
 

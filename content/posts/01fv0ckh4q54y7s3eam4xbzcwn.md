@@ -4,6 +4,7 @@ years: 2022
 months: 2022-02
 days: 2022-02-03
 categories: ["talk"]
+link: https://m.youtube.com/watch?v=Gw0gt6Ao_yk
 ---
 [The roads to funding your community network projects....](https://m.youtube.com/watch?v=Gw0gt6Ao_yk)
 

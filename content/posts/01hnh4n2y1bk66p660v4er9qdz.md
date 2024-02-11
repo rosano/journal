@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-01
 categories: ["talk"]
+link: https://www.instagram.com/reel/C2yJOv9MqeS/
 ---
 [how to respond to passive aggression](https://www.instagram.com/reel/C2yJOv9MqeS/)
 

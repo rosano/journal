@@ -4,6 +4,7 @@ years: 2022
 months: 2022-01
 days: 2022-01-06
 categories: ["talk"]
+link: https://app.gumroad.com/d/4babf55e20fcea3369b5b81773df11a5
 ---
 [Everyone Can Build a Twitter Audience](https://app.gumroad.com/d/4babf55e20fcea3369b5b81773df11a5)
 

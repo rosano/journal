@@ -4,6 +4,7 @@ years: 2023
 months: 2023-09
 days: 2023-09-16
 categories: ["talk"]
+link: https://www.jordanoconnor.com/podcast/episode/b3086386/ai-and-desire
 ---
 [AI and Desire - The Existential Coach](https://www.jordanoconnor.com/podcast/episode/b3086386/ai-and-desire)
 

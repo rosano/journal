@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-09
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=3VEkzweBJPM
 ---
 [Birds Aren’t Real? How a Conspiracy Takes Flight | Peter McIndoe](https://www.youtube.com/watch?v=3VEkzweBJPM)
 

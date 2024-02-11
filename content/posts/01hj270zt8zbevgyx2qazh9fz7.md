@@ -3,6 +3,7 @@ date: 2023-12-19T23:36:54.343Z
 years: 2023
 months: 2023-12
 days: 2023-12-19
+link: https://jon.bo/posts/journaling/
 categories: ["article"]
 ---
 [Journaling](https://jon.bo/posts/journaling/)

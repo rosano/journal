@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-20
 tags: ["food"]
 categories: ["talk"]
+link: https://www.instagram.com/reel/Cz17U52SuAo/
 ---
 [So many of us throw these things out..](https://www.instagram.com/reel/Cz17U52SuAo/)
 

@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-13
 categories: ["talk"]
+link: https://www.devtools.fm/episode/78
 ---
 [Jess Martin on devtools.fm](https://www.devtools.fm/episode/78)
 

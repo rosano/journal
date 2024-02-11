@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-08
 categories: ["talk"]
+link: https://www.jordanoconnor.com/podcast/episode/b8eb5f71/conflict-is-potential
 ---
 [Conflict is potential](https://www.jordanoconnor.com/podcast/episode/b8eb5f71/conflict-is-potential)
 

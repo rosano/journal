@@ -4,6 +4,7 @@ years: 2023
 months: 2023-06
 days: 2023-06-30
 categories: ["talk"]
+link: https://pca.st/fvi5g2ti
 ---
 [#246 – Doing Content Right with Steph Smith of Trends.co](https://pca.st/fvi5g2ti)
 

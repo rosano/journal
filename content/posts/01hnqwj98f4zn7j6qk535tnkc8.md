@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-03
 categories: ["article","project"]
+link: https://alexanderobenauer.com/ollos/
 ---
 [OLLOS](https://alexanderobenauer.com/ollos/)
 

@@ -4,6 +4,7 @@ years: 2023
 months: 2023-10
 days: 2023-10-11
 categories: ["code"]
+link: https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space/6002#6002
 ---
 [How do I free up disk space?](https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space/6002#6002)
 

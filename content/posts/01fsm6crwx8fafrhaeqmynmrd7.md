@@ -3,6 +3,7 @@ date: 2022-01-17T14:17:27.708Z
 years: 2022
 months: 2022-01
 days: 2022-01-17
+link: https://blog.superhuman.com/game-design-not-gamification/
 categories: ["article"]
 ---
 [Rahul Vohra's 7 principles of game design](https://blog.superhuman.com/game-design-not-gamification/)

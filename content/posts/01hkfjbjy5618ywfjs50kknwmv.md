@@ -4,6 +4,7 @@ years: 2024
 months: 2024-01
 days: 2024-01-06
 categories: ["talk"]
+link: https://www.instagram.com/reel/C1u7XH_L10k/
 ---
 [Great hacks to know to start to New Year Clean!](https://www.instagram.com/reel/C1u7XH_L10k/)
 

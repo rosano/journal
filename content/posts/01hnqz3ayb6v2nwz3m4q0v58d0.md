@@ -5,6 +5,7 @@ months: 2024-02
 days: 2024-02-03
 categories: ["project"]
 tags: ["idea"]
+link: https://potato.cheap
 ---
 [The Cheap Web](https://potato.cheap)
 

@@ -3,6 +3,7 @@ date: 2023-12-15T13:39:32.583Z
 years: 2023
 months: 2023-12
 days: 2023-12-15
+link: https://ruben.verborgh.org/blog/2023/11/10/no-more-raw-data/
 categories: ["article"]
 ---
 [No more raw data](https://ruben.verborgh.org/blog/2023/11/10/no-more-raw-data/)

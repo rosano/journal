@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-23
 categories: ["code"]
 tags: ["security"]
+link: https://plausible.io/data-policy
 ---
 [Plausible: GDPR, CCPA and cookie law compliant site analytics](https://plausible.io/data-policy)
 

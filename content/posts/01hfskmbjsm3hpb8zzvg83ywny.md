@@ -3,6 +3,7 @@ date: 2023-11-21T18:52:38.361Z
 years: 2023
 months: 2023-11
 days: 2023-11-21
+link: https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle
 categories: ["article"]
 ---
 [ChatGPT as muse, not oracle](https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle)

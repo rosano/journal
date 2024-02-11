@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-23
 categories: ["project"]
+link: https://github.com/ralphtheninja/open-funding
 ---
 [open-funding](https://github.com/ralphtheninja/open-funding)
 

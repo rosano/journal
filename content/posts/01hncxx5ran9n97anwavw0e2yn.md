@@ -3,6 +3,7 @@ date: 2024-01-30T10:16:16.394Z
 years: 2024
 months: 2024-01
 days: 2024-01-30
+link: https://rachsmith.com/i-turned-off-analytics/
 categories: ["article"]
 ---
 [I turned off analytics](https://rachsmith.com/i-turned-off-analytics/)

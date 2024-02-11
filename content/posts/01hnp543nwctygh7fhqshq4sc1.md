@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-03
 categories: ["music"]
+link: https://guedraguedra.bandcamp.com/track/juke-lockstep
 ---
 [Juke Lockstep | Guedra Guedra كدرة كدرة](https://guedraguedra.bandcamp.com/track/juke-lockstep)
 

@@ -5,6 +5,7 @@ months: 2024-01
 days: 2024-01-19
 tags: ["hack"]
 categories: ["talk"]
+link: https://www.instagram.com/reel/C2SwIS5LLU8/
 ---
 [More clean hacks because so many of you asked for it!](https://www.instagram.com/reel/C2SwIS5LLU8/)
 

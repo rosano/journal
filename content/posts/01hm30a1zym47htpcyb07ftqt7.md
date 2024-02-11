@@ -3,6 +3,7 @@ date: 2024-01-14T03:30:09.532Z
 years: 2024
 months: 2024-01
 days: 2024-01-14
+link: https://kktoronto.ca
 categories: ["article"]
 ---
 [Kevin Komisaruk, American-Canadian Keyboard Musician](https://kktoronto.ca)

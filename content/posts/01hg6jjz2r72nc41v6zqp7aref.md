@@ -4,6 +4,7 @@ years: 2023
 months: 2023-10
 days: 2023-10-11
 categories: ["code"]
+link: https://opensource.com/article/18/7/how-check-free-disk-space-linux
 ---
 [5 Linux commands to check free disk space](https://opensource.com/article/18/7/how-check-free-disk-space-linux)
 

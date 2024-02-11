@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-21
 tags: ["interface"]
 categories: ["project"]
+link: https://youtu.be/mGnez4lA9f4
 ---
 [Embark - Dynamic documents for making plans](https://youtu.be/mGnez4lA9f4)
 

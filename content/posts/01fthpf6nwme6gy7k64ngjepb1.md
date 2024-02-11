@@ -4,6 +4,7 @@ years: 2022
 months: 2022-01
 days: 2022-01-29
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=xb1dAEbrr28
 ---
 [Let's talk about baseless claims about a guy named Ray....](https://www.youtube.com/watch?v=xb1dAEbrr28)
 

@@ -4,6 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-07
 tags: ["idea"]
+link: https://radreads.co/mutually-beneficial-intro
 categories: ["article"]
 ---
 [A simple habit to let luck find you](https://radreads.co/mutually-beneficial-intro)

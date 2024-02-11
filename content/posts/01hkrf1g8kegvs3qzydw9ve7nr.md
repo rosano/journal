@@ -4,6 +4,7 @@ years: 2024
 months: 2024-01
 days: 2024-01-10
 categories: ["talk"]
+link: https://www.instagram.com/reel/C15cB6jOhsa/
 ---
 [what triggers you, teaches you.](https://www.instagram.com/reel/C15cB6jOhsa/)
 

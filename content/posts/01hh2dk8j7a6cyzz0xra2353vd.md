@@ -3,6 +3,7 @@ date: 2023-12-07T15:16:02.759Z
 years: 2023
 months: 2023-12
 days: 2023-12-07
+link: https://marijnhaverbeke.nl/blog/sustainable-maintenance.html
 categories: ["article"]
 ---
 [More Money For Better Open-Source Software](https://marijnhaverbeke.nl/blog/sustainable-maintenance.html)

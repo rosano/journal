@@ -4,6 +4,7 @@ years: 2023
 months: 2023-08
 days: 2023-08-12
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=bv-jvrfrRJk
 ---
 [The roads to dating advice for men....](https://www.youtube.com/watch?v=bv-jvrfrRJk)
 

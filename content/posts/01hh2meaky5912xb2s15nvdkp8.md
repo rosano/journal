@@ -3,6 +3,7 @@ date: 2023-12-07T17:15:41.053Z
 years: 2023
 months: 2023-12
 days: 2023-12-07
+link: https://www.cnet.com/tech/mobile/features/how-close-is-that-photo-to-the-truth-what-to-know-in-the-age-of-ai/
 categories: ["article"]
 ---
 [How Close Is That Photo to the Truth? What to Know in the Age of AI](https://www.cnet.com/tech/mobile/features/how-close-is-that-photo-to-the-truth-what-to-know-in-the-age-of-ai/)

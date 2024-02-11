@@ -3,6 +3,7 @@ date: 2023-12-14T20:37:17.742Z
 years: 2023
 months: 2023-12
 days: 2023-12-14
+link: https://blog.gardeviance.org/2023/12/how-to-organise-yourself-dangerous-path.html
 categories: ["article"]
 ---
 [How to organise yourself - the dangerous path to Explorer, Villager and Town Planners](https://blog.gardeviance.org/2023/12/how-to-organise-yourself-dangerous-path.html)

@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-02
 categories: ["talk"]
+link: https://www.instagram.com/reel/C0VCAAOO1OE/
 ---
 [flip the power dynamic with the high ground.](https://www.instagram.com/reel/C0VCAAOO1OE/)
 

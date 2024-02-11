@@ -4,6 +4,7 @@ years: 2024
 months: 2024-01
 days: 2024-01-27
 categories: ["article","project"]
+link: https://newpublic.org/interactive
 ---
 [The Signals: A Guided Primer](https://newpublic.org/interactive)
 

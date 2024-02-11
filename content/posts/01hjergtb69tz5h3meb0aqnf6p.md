@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-24
 categories: ["talk"]
+link: https://www.instagram.com/reel/CyJ-_coMTrV/
 ---
 [On a whim, but a deeply felt one, I went live to share some impromptu thoughts on Israel, Palestine, condemnation, and context. Thanks for tuning in and considering.](https://www.instagram.com/reel/CyJ-_coMTrV/)
 

@@ -5,6 +5,7 @@ months: 2023-08
 days: 2023-08-18
 tags: ["lingo"]
 categories: ["talk"]
+link: https://soundcloud.com/languagetransfer/introduction-to-arabic-1
 ---
 [Introduction to Arabic, Track 12](https://soundcloud.com/languagetransfer/introduction-to-arabic-1)
 

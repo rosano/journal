@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-29
 tags: ["interop"]
+link: https://michielbdejong.com/blog/29.html
 categories: ["article"]
 ---
 [Using all flavours of Solid](https://michielbdejong.com/blog/29.html)

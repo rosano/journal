@@ -5,6 +5,7 @@ months: 2024-02
 days: 2024-02-05
 categories: ["talk"]
 tags: ["lingo"]
+link: https://www.youtube.com/watch?v=HUO7Hggimqs
 ---
 [17 Foreign Words English Desperately Needs](https://www.youtube.com/watch?v=HUO7Hggimqs)
 

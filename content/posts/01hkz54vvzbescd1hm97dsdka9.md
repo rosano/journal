@@ -3,6 +3,7 @@ date: 2024-01-12T15:37:44.575Z
 years: 2024
 months: 2024-01
 days: 2024-01-12
+link: https://marketingexamples.com/newsletter
 categories: ["article"]
 ---
 [3-2-1: Punchiness, Pain Points, Press “B” – Harry Dry's Newsletter](https://marketingexamples.com/newsletter)

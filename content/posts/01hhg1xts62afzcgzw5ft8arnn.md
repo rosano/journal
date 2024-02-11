@@ -4,6 +4,7 @@ years: 2023
 months: 2023-12
 days: 2023-12-12
 categories: ["talk"]
+link: https://www.jordanoconnor.com/podcast/episode/a81e3f92/the-linking-of-opposites
 ---
 [The Linking of Opposites](https://www.jordanoconnor.com/podcast/episode/a81e3f92/the-linking-of-opposites)
 

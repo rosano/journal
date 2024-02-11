@@ -3,6 +3,7 @@ date: 2022-02-13T16:58:38.533Z
 years: 2022
 months: 2022-02
 days: 2022-02-13
+link: https://www.newyorker.com/magazine/2022/02/14/how-caetano-veloso-revolutionized-brazils-sound-and-spirit
 categories: ["article"]
 ---
 [How Caetano Veloso Revolutionized Brazil’s Sound and Spirit](https://www.newyorker.com/magazine/2022/02/14/how-caetano-veloso-revolutionized-brazils-sound-and-spirit)

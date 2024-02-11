@@ -3,6 +3,7 @@ date: 2024-02-07T01:37:20.495Z
 years: 2024
 months: 2024-02
 days: 2024-02-07
+link: https://radreads.co/10k-work
 categories: ["article"]
 ---
 [The magic of doing $10,000 per hour work](https://radreads.co/10k-work)

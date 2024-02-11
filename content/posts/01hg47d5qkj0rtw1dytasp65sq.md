@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-25
 tags: ["food"]
 categories: ["talk"]
+link: https://www.instagram.com/p/CzYnqfpP-MI/
 ---
 [Spreadable Garlic Confit](https://www.instagram.com/p/CzYnqfpP-MI/)
 

@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-22
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=V74AxCqOTvg
 ---
 [How to start a movement | Derek Sivers](https://www.youtube.com/watch?v=V74AxCqOTvg)
 

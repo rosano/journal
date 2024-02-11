@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-23
 categories: ["move"]
+link: https://www.youtube.com/watch?v=mo-QsntFmqU
 ---
 [A Verdadeira Seqüência Mestre Bimba](https://www.youtube.com/watch?v=mo-QsntFmqU)
 

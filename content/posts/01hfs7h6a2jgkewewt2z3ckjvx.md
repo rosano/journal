@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-21
 categories: ["talk"]
+link: https://www.instagram.com/reel/Cz4nkO1OcwR/
 ---
 [for the unwanted table talk](https://www.instagram.com/reel/Cz4nkO1OcwR/)
 

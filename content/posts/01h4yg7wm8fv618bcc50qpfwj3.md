@@ -4,6 +4,7 @@ years: 2023
 months: 2023-07
 days: 2023-07-09
 categories: ["talk"]
+link: https://museapp.com/podcast/81-evergreen-notes/
 ---
 [Episode 81, Metamuse podcast — Muse](https://museapp.com/podcast/81-evergreen-notes/)
 

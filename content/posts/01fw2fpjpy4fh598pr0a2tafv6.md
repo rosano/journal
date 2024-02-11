@@ -4,6 +4,7 @@ years: 2022
 months: 2022-02
 days: 2022-02-17
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=zYldGDwAh_8
 ---
 [The 2nd Winter Moon Cycle: Thoughts on Covid-19, Vaccination, VAERS, and Related Topics](https://www.youtube.com/watch?v=zYldGDwAh_8)
 

@@ -4,6 +4,7 @@ years: 2024
 months: 2024-01
 days: 2024-01-28
 categories: ["article","project"]
+link: https://jon.bo/posts/new-tab/
 ---
 [in search of a new tab](https://jon.bo/posts/new-tab/)
 

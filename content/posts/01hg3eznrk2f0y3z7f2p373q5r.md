@@ -5,6 +5,7 @@ months: 2023-11
 days: 2023-11-25
 tags: ["food"]
 categories: ["talk"]
+link: https://www.instagram.com/reel/C0C9QqoPFoW/
 ---
 [How to upcycle turkey bones!](https://www.instagram.com/reel/C0C9QqoPFoW/)
 

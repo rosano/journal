@@ -4,6 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-23
 categories: ["talk"]
+link: https://www.instagram.com/reel/Cz7PcHlO61U/
 ---
 [Is this something we have to agree on?](https://www.instagram.com/reel/Cz7PcHlO61U/)
 

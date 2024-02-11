@@ -4,6 +4,7 @@ years: 2023
 months: 2023-05
 days: 2023-05-02
 categories: ["talk"]
+link: https://www.youtube.com/watch?v=KJDRGH9ZQ3k
 ---
 [How to Grow a YouTube Channel | 10 Small Youtuber Problems - YouTube](https://www.youtube.com/watch?v=KJDRGH9ZQ3k)
 

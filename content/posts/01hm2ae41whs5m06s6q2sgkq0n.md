@@ -3,6 +3,7 @@ date: 2024-01-13T21:07:54.044Z
 years: 2024
 months: 2024-01
 days: 2024-01-13
+link: https://nothinghuman.substack.com/p/against-positive-sum-thinking
 categories: ["article"]
 ---
 [Against Positive-Sum Thinking](https://nothinghuman.substack.com/p/against-positive-sum-thinking)

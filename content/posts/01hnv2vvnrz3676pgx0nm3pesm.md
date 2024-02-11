@@ -3,6 +3,7 @@ date: 2024-02-04T22:12:18.232Z
 years: 2024
 months: 2024-02
 days: 2024-02-04
+link: https://taylor.town/dollar-per-hour
 categories: ["article"]
 ---
 [Paying Netflix $0.53/h, etc.](https://taylor.town/dollar-per-hour)
