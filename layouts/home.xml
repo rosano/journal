@@ -34,6 +34,7 @@
 {{ if $index }}<hr />{{ end }}
 
 {{ .Scratch.Set "kScope" "kScopeList" }}
+{{ .Scratch.Set "kScopeRSS" "true" }}
 {{- partial "items-singular.html" . -}}
 
 {{ end }}

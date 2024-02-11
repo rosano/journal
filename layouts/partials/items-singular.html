@@ -14,13 +14,18 @@
 		</span>
 		{{ end }}
 	</small>
+
+	{{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
+
 	{{ with .Params.categories }}
+		{{ if $isRSS }}<small>in: {{end}}
 		<span class="types">
 			{{ range . }}
 				{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
 					<a href="{{ .Permalink }}">{{ .Title }}</a>
 				{{- end -}}
-			{{ end }}
+			{{- end -}}
 		</span>
+		{{- if $isRSS }}</small>{{end}}
 	{{ end }}
 </div>
