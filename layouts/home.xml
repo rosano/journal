@@ -30,31 +30,11 @@
 
 <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
 {{ range $index, $element := .Pages }}
-<div class="post">
+
 {{ if $index }}<hr />{{ end }}
-<article class="content">{{ .Content | safeHTML }}</article>
-<small>
-<a href="{{ .Permalink }}"><time datetime="{{ .Params.date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Params.date.Format "3h04" }}{{else}}{{ .Params.date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
 
-{{ with .Params.tags }}
-<span>tagged with:</span> 
-<span>
-{{ range $index, $element := . }}
-  {{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
-  <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if not $index }}, {{ end }}
-  {{ end }}
-{{ end }}
-</span>
-{{ end }}
-
-{{ with .Params.categories }}
-<span>type:</span> 
-<span>
-{{ range . }}{{ with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) }}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end }}{{ end }}
-</span>
-{{ end }}
-</small>
-</div>
+{{ .Scratch.Set "kScope" "kScopeList" }}
+{{- partial "items-singular.html" . -}}
 
 {{ end }}
 {{- printf "]]>" | safeHTML }}</content:encoded>
