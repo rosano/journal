@@ -8,7 +8,7 @@
 		<span>
 			{{ range $index, $element := . }}
 				{{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
-				<a href="{{ .Permalink }}">{{ .Title }}</a>{{ if not $index }}, {{ end }}
+				{{ if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
 				{{ end }}
 			{{ end }}
 		</span>

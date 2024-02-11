@@ -26,4 +26,3 @@ permalinks:
 services:
   rss:
     limit: 90
-
