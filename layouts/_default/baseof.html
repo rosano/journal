@@ -39,6 +39,13 @@
 
 	{{ end }}
 {{ end}}
+<small class="types">
+	<a href="{{ .Site.BaseURL }}">all</a>
+	{{ range .Site.Taxonomies.categories.ByCount }}
+		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+	{{ end }}
+</small>
+
 </footer>
 
 </body>
