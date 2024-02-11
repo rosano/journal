@@ -4,7 +4,7 @@ years: 2023
 months: 2023-11
 days: 2023-11-28
 tags: ["lingo"]
-categories: ["thought"]
+categories: ["article"]
 ---
 [moleza](https://en.wiktionary.org/wiki/moleza)
 

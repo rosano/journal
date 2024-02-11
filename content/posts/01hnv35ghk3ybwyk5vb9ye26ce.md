@@ -4,7 +4,7 @@ years: 2024
 months: 2024-02
 days: 2024-02-04
 tags: ["idea"]
-categories: ["thought"]
+categories: ["article"]
 ---
 [Hire Me](https://taylor.town/hire-me)
 

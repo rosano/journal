@@ -8,7 +8,7 @@ tags: ["idea"]
 ---
 I've been to the Hackerspace Wiki before to find local places while travelling. I didn't know they had [hackerspace apps listing](https://wiki.hackerspaces.org/Hackerspace_Software), [software wishlists](https://wiki.hackerspaces.org/Software_Wish_List).
 
-In the [design patterns library](https://wiki.hackerspaces.org/Design_Patterns) includes [The Community Pattern](https://wiki.hackerspaces.org/The_Community_Pattern):
+Their [design patterns library](https://wiki.hackerspaces.org/Design_Patterns) includes [The Community Pattern](https://wiki.hackerspaces.org/The_Community_Pattern):
 
 > set up a mailing list, a wiki, and an IRC channel. You will need all three. Think about a platform for discussion, storage for documentation and real-time communication.
 
