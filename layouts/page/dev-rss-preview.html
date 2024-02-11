@@ -1,7 +1,7 @@
 <h1>{{ .Title }}</h1>
 <p>{{ .RawContent | safeHTML }}</p>
 
-{{ $url := "http://localhost:1313/index.xml" }}
+{{ $url := print "http://localhost:1313/index.xml?" (encoding.Base64Encode (time.Now | time.Format ":time_medium")) }}
 {{ $resource := resources.GetRemote $url }}
 
 {{ with $resource }}
