@@ -1,31 +1,33 @@
 <div class="post">
-	<article class="content">{{ .Content }}</article>
-	<small>
-		<a href="{{ .Permalink }}"><time datetime="{{ .Params.date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Params.date.Format "3h04" }}{{else}}{{ .Params.date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
-		
-		{{ with .Params.tags }}
-		<span>tagged with:</span> 
-		<span>
-			{{ range $index, $element := . }}
-				{{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
-				{{ if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
-				{{ end }}
+
+<article class="content">{{ .Content }}</article>
+<small>
+	<a href="{{ .Permalink }}"><time datetime="{{ .Params.date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Params.date.Format "3h04" }}{{else}}{{ .Params.date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
+	
+	{{ with .Params.tags }}
+	<span>tagged with:</span> 
+	<span>
+		{{ range $index, $element := . }}
+			{{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
+			{{ if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{ end }}
-		</span>
 		{{ end }}
-	</small>
-
-	{{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
-
-	{{ with .Params.categories }}
-		{{ if $isRSS }}<small>in: {{end}}
-		<span class="types">
-			{{ range . }}
-				{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
-					<a href="{{ .Permalink }}">{{ .Title }}</a>
-				{{- end -}}
-			{{- end -}}
-		</span>
-		{{- if $isRSS }}</small>{{end}}
+	</span>
 	{{ end }}
+</small>
+
+{{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
+
+{{ with .Params.categories }}
+	{{ if $isRSS }}<small>in: {{end}}
+	<span class="types">
+		{{ range . }}
+			{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			{{- end -}}
+		{{- end -}}
+	</span>
+	{{- if $isRSS }}</small>{{end}}
+{{ end }}
+
 </div>
