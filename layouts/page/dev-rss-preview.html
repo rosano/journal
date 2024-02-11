@@ -1,0 +1,18 @@
+<h1>{{ .Title }}</h1>
+
+{{ $url := "http://localhost:1313/index.xml" }}
+{{ $resource := resources.GetRemote $url }}
+
+{{ with $resource }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+
+  {{ range (.Content | transform.Unmarshal).channel.item }}
+      {{ .encoded | safeHTML }}
+      <hr>
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $url }}
+{{ end }}
