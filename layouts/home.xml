@@ -32,7 +32,7 @@
 {{ range $index, $element := .Pages }}
 <div class="post">
 {{ if $index }}<hr />{{ end }}
-<article class="content">{{ .Content }}</article>
+<article class="content">{{ .Content | safeHTML }}</article>
 <small>
 <a href="{{ .Permalink }}"><time datetime="{{ .Params.date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Params.date.Format "3h04" }}{{else}}{{ .Params.date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
 
