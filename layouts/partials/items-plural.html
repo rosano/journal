@@ -15,6 +15,7 @@
 		{{ range .Pages }}
 			{{ .Scratch.Set "kScope" "kScopeList" }}
 			{{- partial "items-singular.html" . -}}
+			{{ .Scratch.Delete "kScope" }}
 		{{ end }}
 	</div>
 {{ end }}

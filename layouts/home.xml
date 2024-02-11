@@ -36,6 +36,8 @@
 {{ .Scratch.Set "kScope" "kScopeList" }}
 {{ .Scratch.Set "kScopeRSS" "true" }}
 {{- partial "items-singular.html" . -}}
+{{ .Scratch.Delete "kScopeRSS" }}
+{{ .Scratch.Delete "kScope" }}
 
 {{ end }}
 {{- printf "]]>" | safeHTML }}</content:encoded>
