@@ -3,7 +3,7 @@ date: 2022-01-22T12:19:36.718Z
 years: 2022
 months: 2022-01
 days: 2022-01-22
-categories: ["notes","project"]
+categories: ["article","project"]
 ---
 [Whitepaper | Circles UBI | Handbook](https://handbook.joincircles.net/docs/developers/whitepaper/):
 

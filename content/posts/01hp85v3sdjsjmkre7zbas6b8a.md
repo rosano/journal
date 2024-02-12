@@ -3,7 +3,7 @@ date: 2024-02-10T00:14:27.117Z
 years: 2024
 months: 2024-02
 days: 2024-02-10
-categories: ["notes"]
+categories: ["project"]
 tags: ["idea"]
 link: https://github.com/jmooring/hugo-testing
 ---
