@@ -33,9 +33,12 @@
 	{{ if ne .Paginator.TotalPages 0 }}
 
 	<div class="paginator">
-	{{ if .Paginator.HasNext }}<a class="older" href="{{ .Paginator.Next.URL }}">Older</a>{{ end }}
-	<span>&nbsp;</span>
-	{{ if .Paginator.HasPrev }}<a class="newer" href="{{ .Paginator.Prev.URL }}">Newer</a>{{ end }}
+	<span>
+		{{ if .Paginator.HasNext }}<a class="older" href="{{ .Paginator.Next.URL }}">Older</a>{{ end }}
+	</span>
+	<span>
+		{{ if .Paginator.HasPrev }}<a class="newer" href="{{ .Paginator.Prev.URL }}">Newer</a>{{ end }}
+	</span>
 	</div>
 
 	{{ end }}
