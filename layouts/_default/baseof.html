@@ -44,6 +44,9 @@
 
 <small class="types">
 	<a href="{{ .Site.BaseURL }}">all</a>
+	
+	<span>·</span>
+	
 	{{ range .Site.Taxonomies.categories.ByCount }}
 		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
 	{{ end }}

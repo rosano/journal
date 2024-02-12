@@ -154,9 +154,11 @@ footer {
 	align-self: flex-end;
 }
 
-footer .types {
+footer small {
 	padding: 5px;
+	display: block;
+}
 
-	display: flex;
-	justify-content: space-evenly;
+footer small > * {
+	margin-right: 5px;
 }
