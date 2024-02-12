@@ -29,20 +29,19 @@
 
 <footer>
 	
-{{ if .Paginator }}
-	{{ if ne .Paginator.TotalPages 0 }}
+{{ if (and .Paginator (ne .Paginator.TotalPages 0)) }}
 
-	<div class="paginator">
+<div class="paginator">
 	<span>
 		{{ if .Paginator.HasNext }}<a class="older" href="{{ .Paginator.Next.URL }}">Older</a>{{ end }}
 	</span>
 	<span>
 		{{ if .Paginator.HasPrev }}<a class="newer" href="{{ .Paginator.Prev.URL }}">Newer</a>{{ end }}
 	</span>
-	</div>
+</div>
 
-	{{ end }}
-{{ end}}
+{{ end }}
+
 <small class="types">
 	<a href="{{ .Site.BaseURL }}">all</a>
 	{{ range .Site.Taxonomies.categories.ByCount }}
