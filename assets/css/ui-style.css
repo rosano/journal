@@ -103,7 +103,7 @@ hr {
 }
 
 .post ol, .post ul {
-	padding-left: 16px;
+	padding-left: calc(var(--spacing) * 2);
 }
 
 .post .types {
