@@ -56,9 +56,22 @@
 	<a href="{{ .Site.BaseURL }}">recent</a>
 	
 	<span>·</span>
-	
-	{{ range .Site.Taxonomies.years }}
-		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+
+	{{ if .IsHome }}
+		{{ range .Site.Taxonomies.years }}
+			<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+		{{ end }}
+	{{ end }}
+
+	{{ if eq .Section "years" }}
+		{{ $year := .Page.Title }}
+		<span>{{ $year }} ·</span>
+		{{ range .Site.Taxonomies.months }}
+			{{ if strings.Contains .Page.LinkTitle $year }}
+				{{ $t := time.AsTime (delimit (slice .Page.LinkTitle "01") "-") }}
+				<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
+			{{ end }}
+		{{ end }}
 	{{ end }}
 </small>
 
