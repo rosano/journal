@@ -79,7 +79,7 @@
 
 <span>·</span>
 
-{{ if .IsHome }}
+{{ if not $timeContext }}
 	{{ range .Site.Taxonomies.years }}
 		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
 	{{ end }}
