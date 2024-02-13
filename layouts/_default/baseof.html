@@ -52,6 +52,16 @@
 	{{ end }}
 </small>
 
+<small class="time">
+	<a href="{{ .Site.BaseURL }}">recent</a>
+	
+	<span>·</span>
+	
+	{{ range .Site.Taxonomies.years }}
+		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+	{{ end }}
+</small>
+
 </footer>
 
 {{- partial "media-embeds.html" . -}}
