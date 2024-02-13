@@ -57,6 +57,7 @@
 {{ $timeContext := "" }}
 {{ $year := "" }}
 {{ $month := "" }}
+{{ $day := "" }}
 
 {{ if (and (eq .Kind "term") (eq .Data.Plural "days")) }}
 	{{ $timeContext = time.AsTime .Data.Term }}
@@ -71,6 +72,7 @@
 {{ if $timeContext }}
 	{{ $year = time.Format "2006" $timeContext }}
 	{{ $month = time.Format "01" $timeContext }}
+	{{ $day = time.Format "02" $timeContext }}
 {{ end }}
 
 <a href="{{ .Site.BaseURL }}">recent</a>
@@ -114,12 +116,21 @@
 	<span>·</span>
 
 	{{ if eq .Section "months" }}
-		
 		{{ range .Site.Taxonomies.days }}
-			{{ if strings.Contains .Page.LinkTitle $month }}
+			{{ if strings.Contains .Page.LinkTitle (delimit (slice $year $month) "-") }}
 				<a href="{{ .Page.Permalink }}">{{ partial "date-ordinal.html" (time.AsTime .Page.LinkTitle) }}</a>
 			{{ end }}
 		{{ end }}
+	{{ end }}
+{{ end }}
+
+{{ if (or (in (slice "days") .Section) .IsPage) }}
+	{{ $format := partial "date-ordinal.html" $timeContext }}
+
+	{{ if eq .Section "days" }}
+		<span>{{ $format }}</span>
+	{{ else }}
+		<a href="/{{ $year }}/{{ $month }}/{{ $day }}">{{ $format }}</a>
 	{{ end }}
 {{ end }}
 
