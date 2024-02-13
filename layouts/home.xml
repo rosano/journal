@@ -2,6 +2,7 @@
 
 {{- $pages := .Scratch.Get "rss-pages" }}
 {{- $pages := $pages.GroupByPublishDate "2006-01-02" "desc" | first .Site.Config.Services.RSS.Limit }}
+
 {{/* exclude today from home feed */}}
 {{- $pages := where $pages "Key" "ne" (time.Now.Format "2006-01-02") }}
 
