@@ -73,6 +73,20 @@
 			{{ end }}
 		{{ end }}
 	{{ end }}
+
+	{{ if eq .Section "months" }}
+		{{ $month := .Page.Title }}
+		<span>{{ $month }} ·</span>
+		{{ range .Site.Taxonomies.days }}
+			{{ if strings.Contains .Page.LinkTitle $month }}
+				{{ $t := time.AsTime .Page.LinkTitle }}
+				{{ $format := time.Format "2" $t }}
+				{{ $last := substr $format -1 }}
+				
+				<a href="{{ .Page.Permalink }}">{{ $format }}{{ cond (eq $last "1") "st" (cond (eq $last "2") "nd" (cond (eq $last "3") "rd" "th")) }}</a>
+			{{ end }}
+		{{ end }}
+	{{ end }}
 </small>
 
 </footer>
