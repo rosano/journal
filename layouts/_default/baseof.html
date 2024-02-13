@@ -53,43 +53,68 @@
 </small>
 
 <small class="time">
-	<a href="{{ .Site.BaseURL }}">recent</a>
+
+{{ $timeContext := "" }}
+{{ $year := "" }}
+{{ $month := "" }}
+
+{{ if (and (eq .Kind "term") (eq .Data.Plural "days")) }}
+	{{ $timeContext = time.AsTime .Data.Term }}
+{{ else if (and (eq .Kind "term") (eq .Data.Plural "months")) }}
+	{{ $timeContext = time.AsTime (delimit (slice .Data.Term "01") "-") }}
+{{ else if (and (eq .Kind "term") (eq .Data.Plural "years")) }}
+	{{ $timeContext = time.AsTime (delimit (slice .Data.Term "01-01") "-") }}
+{{ else if eq .Section "posts" }}
+	{{ $timeContext = time.AsTime .Date }}
+{{ end }}
+
+{{ if $timeContext }}
+	{{ $year = time.Format "2006" $timeContext }}
+	{{ $month = time.Format "01" $timeContext }}
+{{ end }}
+
+<a href="{{ .Site.BaseURL }}">recent</a>
+
+<span>·</span>
+
+{{ if .IsHome }}
+	{{ range .Site.Taxonomies.years }}
+		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+	{{ end }}
+{{ end }}
+
+{{ if (or (in (slice "years" "months" "days") .Section) .IsPage) }}
+	{{ if eq .Section "years" }}
+		<span>{{ $year }}</span>
+	{{ else }}
+		<a href="/{{ $year }}">{{ $year }}</a>
+	{{ end }}
 	
 	<span>·</span>
 
-	{{ if .IsHome }}
-		{{ range .Site.Taxonomies.years }}
-			<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
-		{{ end }}
-	{{ end }}
-
-	{{ $underYear := or (in (slice "years" "months" "days") .Section) .IsPage }}
-	
-	{{ if $underYear }}
-		{{ $year := substr .Page.Title 0 4 }}
-
-		{{ if eq .Section "years" }}
-			<span>{{ $year }}</span>
-		{{ else }}
-			<a href="/{{ $year }}">{{ $year }}</a>
-		{{ end }}
-		
-		<span>·</span>
-
-		{{ if eq .Section "years" }}
-			{{ range .Site.Taxonomies.months }}
-				{{ if strings.Contains .Page.LinkTitle $year }}
-					{{ $t := time.AsTime (delimit (slice .Page.LinkTitle "01") "-") }}
-					<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
-				{{ end }}
+	{{ if eq .Section "years" }}
+		{{ range .Site.Taxonomies.months }}
+			{{ if strings.Contains .Page.LinkTitle $year }}
+				{{ $t := time.AsTime (delimit (slice .Page.LinkTitle "01") "-") }}
+				<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
 			{{ end }}
 		{{ end }}
 	{{ end }}
+{{ end }}
+
+{{ if (or (in (slice "months" "days") .Section) .IsPage) }}
+	{{ $format := time.Format "January" $timeContext }}
 
 	{{ if eq .Section "months" }}
-		{{ $month := .Page.Title }}
-		{{ $t := time.AsTime (delimit (slice $month "01") "-") }}
-		<span>{{ time.Format "January" $t }}</span>
+		<span>{{ $format }}</span>
+	{{ else }}
+		<a href="/{{ $year }}/{{ $month }}">{{ $format }}</a>
+	{{ end }}
+	
+	<span>·</span>
+
+	{{ if eq .Section "months" }}
+		
 		{{ range .Site.Taxonomies.days }}
 			{{ if strings.Contains .Page.LinkTitle $month }}
 				{{ $t := time.AsTime .Page.LinkTitle }}
@@ -100,6 +125,8 @@
 			{{ end }}
 		{{ end }}
 	{{ end }}
+{{ end }}
+
 </small>
 
 </footer>
