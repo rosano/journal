@@ -92,6 +92,7 @@ hr {
 
 .post code {
 	white-space: break-spaces;
+	word-break: break-all;
 	font-size: 90%;
 }
 
