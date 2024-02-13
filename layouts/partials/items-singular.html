@@ -8,7 +8,7 @@
 	<a href="{{ .Permalink }}"><time datetime="{{ .Params.date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Params.date.Format "3h04" }}{{else}}{{ .Params.date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
 	
 	{{ with .Params.tags }}
-	<span>tagged with:</span> 
+	<span>tags:</span> 
 	<span>
 		{{ range $index, $element := . }}
 			{{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
