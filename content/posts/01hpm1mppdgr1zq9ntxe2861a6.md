@@ -10,4 +10,4 @@ categories: ["thought"]
 > 
 > If you want to study a very narrow method for analysing very narrow aspects of the economy, consider studying economics, maths & stats
 
-via [twitter.com/suitpossum](https://twitter.com/suitpossum/status/1757714566769680510)
+via [twitter.com](https://twitter.com/suitpossum/status/1757714566769680510)

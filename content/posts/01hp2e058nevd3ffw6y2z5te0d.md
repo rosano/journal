@@ -9,6 +9,7 @@ link: https://stackoverflow.com/questions/3737740/is-there-a-better-way-to-run-a
 [Is there a better way to run a command N times in bash?](https://stackoverflow.com/questions/3737740/is-there-a-better-way-to-run-a-command-n-times-in-bash)
 
 ```
+count=10
 for run in $(seq $count); do
    git checkout HEAD@{1}
 done

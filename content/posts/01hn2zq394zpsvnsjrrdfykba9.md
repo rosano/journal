@@ -8,4 +8,4 @@ categories: ["thought"]
 ---
 > [Share a list of ways you can help as a consultant, then offer a sliding scale of hourly rates.]
 
-via [twitter.com/richdecibels](https://twitter.com/richdecibels/status/1712375858910970041)
+via [twitter.com](https://twitter.com/richdecibels/status/1712375858910970041)

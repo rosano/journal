@@ -11,4 +11,4 @@ categories: ["article"]
 
 > I’ve made one [Mutually Beneficial Introduction] per day for 10+ years.
 
-> [Once both people opt-in, take thirty seconds to write with details that can't be found by searching online, and try to do it regularly.]
+> [Once both people opt-in, take thirty seconds to write with details that can't be found by searching online. Try this regularly.]

@@ -10,4 +10,4 @@ categories: ["article"]
 
 > Private affluence is individuals gaining things for themselves – possessions, nice homes and experiences, trampolines. Public affluence is money spent lavishly on things that are shared – libraries, parks, buses, playgrounds.
 
-via [bsky.app/profile/jackrusher.com](https://bsky.app/profile/jackrusher.com/post/3kkwmuzdk6227)
+via [bsky.app](https://bsky.app/profile/jackrusher.com/post/3kkwmuzdk6227)
