@@ -12,4 +12,4 @@ tags: ["Tantra: The Supreme Understanding"]
 
 > [Trying to not think a thought gives energy to it, and it will come back to bother you.]
 
-> [The solution is always to watch.")
+> [The solution is always to watch.]

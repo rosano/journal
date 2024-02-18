@@ -14,4 +14,4 @@ tags: ["Tantra: The Supreme Understanding"]
 
 > [Even clinging to a thought is not possible because it will eventually die: they aren't yours and don't belong to you—just visiting.]
 
-> [Watch for things that neither come nor go, like the sky.")
+> [Watch for things that neither come nor go, like the sky.]
