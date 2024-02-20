@@ -12,7 +12,7 @@
 	{{ end }}
 
 	<div class="content">
-		{{ range .Pages.ByDate }}
+		{{ range .Pages.ByDate.Reverse }}
 			{{ .Scratch.Set "kScope" "kScopeList" }}
 			{{- partial "items-singular.html" . -}}
 			{{ .Scratch.Delete "kScope" }}
