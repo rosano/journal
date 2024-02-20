@@ -7,7 +7,11 @@
 {{ end }}
 <article class="content">{{ .Content }}</article>
 <small>
-	<a href="{{ .Permalink }}"><time datetime="{{ .Date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" }}{{ .Date.Format "3h04" }}{{else}}{{ .Date.Format "Jan 02 2006, 3h04" }}{{end}}</time></a>
+	<a href="{{ .Permalink }}"><time datetime="{{ .Date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}
+		{{- .Date.Format "3h04" -}}
+	{{- else -}}
+		{{- .Date.Format "Jan 02 2006, 3h04" -}}
+	{{- end }}</time></a>
 	
 	{{ with .Params.tags }}
 	<span>tags:</span> 
