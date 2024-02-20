@@ -10,11 +10,11 @@
 	{{ with .Params.tags }}
 	<span>tags:</span> 
 	<span>
-		{{ range $index, $element := . }}
-			{{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}
-			{{ if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
-			{{ end }}
-		{{ end }}
+		{{- range $index, $element := . -}}
+			{{- with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) -}}
+			{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
+			{{- end -}}
+		{{- end -}}
 	</span>
 	{{ end }}
 </small>
@@ -22,9 +22,9 @@
 {{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
 
 {{ with .Params.categories }}
-	{{ if $isRSS }}<small>in: {{end}}
+	{{ if $isRSS }}<small>in: {{- end -}}
 	<span class="types">
-		{{ range . }}
+		{{- range . -}}
 			{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
 				<a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{- end -}}
