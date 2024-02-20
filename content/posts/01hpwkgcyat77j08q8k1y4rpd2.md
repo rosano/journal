@@ -6,4 +6,4 @@ days: 2024-02-17
 tags: ["contribute"]
 categories: ["thought"]
 ---
-When confronted with a choice between more financial security or stability and more meaning, what would persuade you to pursue the latter?
+When confronted with a choice between more financial security (stability) or more meaning, what would persuade you to pursue the latter?
