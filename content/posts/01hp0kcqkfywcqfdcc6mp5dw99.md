@@ -3,6 +3,9 @@ date: 2024-02-07T01:37:20.495Z
 years: 2024
 months: 2024-02
 days: 2024-02-07
+city: Toronto
+country: Canada
+timezone: America/Toronto
 link: https://radreads.co/10k-work
 categories: ["article"]
 ---

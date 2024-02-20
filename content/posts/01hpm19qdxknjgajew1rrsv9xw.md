@@ -3,6 +3,9 @@ date: 2024-02-14T14:45:56.285Z
 years: 2024
 months: 2024-02
 days: 2024-02-14
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["love","humans"]
 link: https://sarahsteinlubrano.substack.com/p/the-poor-cant-afford-the-benefits
 categories: ["article"]

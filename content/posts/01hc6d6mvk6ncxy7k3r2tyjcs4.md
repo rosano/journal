@@ -3,6 +3,9 @@ date: 2023-10-08T01:07:37.970Z
 years: 2023
 months: 2023-10
 days: 2023-10-08
+city: Chicago
+country: United States
+timezone: America/Chicago
 tags: ["The Thinking Method","lingo"]
 categories: ["book"]
 ---

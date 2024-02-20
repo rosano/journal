@@ -3,6 +3,9 @@ date: 2023-10-11T15:08:08.000Z
 years: 2023
 months: 2023-10
 days: 2023-10-11
+city: Ithaca
+country: United States
+timezone: America/New_York
 categories: ["code"]
 link: https://opensource.com/article/18/7/how-check-free-disk-space-linux
 ---

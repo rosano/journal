@@ -3,6 +3,9 @@ date: 2023-11-22T21:03:02.928Z
 years: 2023
 months: 2023-11
 days: 2023-11-22
+city: Recife
+country: Brazil
+timezone: America/Recife
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=V74AxCqOTvg
 ---

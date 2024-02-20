@@ -3,6 +3,9 @@ date: 2024-01-27T03:24:42.858Z
 years: 2024
 months: 2024-01
 days: 2024-01-27
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["An Everlasting Meal","food"]
 categories: ["book"]
 ---

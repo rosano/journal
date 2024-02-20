@@ -3,6 +3,9 @@ date: 2024-01-21T03:00:28.808Z
 years: 2024
 months: 2024-01
 days: 2024-01-21
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["food"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/C1dGbt3pYow/

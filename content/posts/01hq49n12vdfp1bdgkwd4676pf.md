@@ -3,6 +3,9 @@ date: 2024-02-20T22:19:46.139Z
 years: 2024
 months: 2024-02
 days: 2024-02-20
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["music"]
 link: https://www.youtube.com/watch?v=pyqFTZwoIkM&list=OLAK5uy_m8TNdQtLndjcK-ZRzmRIY3Y-Us_0zMrzo
 ---

@@ -3,6 +3,9 @@ date: 2023-07-09T23:36:56.200Z
 years: 2023
 months: 2023-07
 days: 2023-07-09
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://museapp.com/podcast/81-evergreen-notes/
 ---

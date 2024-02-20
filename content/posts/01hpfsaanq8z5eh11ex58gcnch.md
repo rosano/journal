@@ -3,6 +3,9 @@ date: 2024-02-12T23:09:29.655Z
 years: 2024
 months: 2024-02
 days: 2024-02-12
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["project","code"]
 tags: ["inclusive"]
 link: https://w3c.github.io/i18n-drafts/techniques/shortchecklist

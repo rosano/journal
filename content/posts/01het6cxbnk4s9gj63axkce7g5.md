@@ -3,6 +3,9 @@ date: 2023-11-09T14:04:55.540Z
 years: 2023
 months: 2023-11
 days: 2023-11-09
+city: Belo Horizonte
+country: Brazil
+timezone: America/Sao_Paulo
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=FhbKaxHT4-w
 ---

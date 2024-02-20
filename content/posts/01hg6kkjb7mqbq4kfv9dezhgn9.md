@@ -3,6 +3,9 @@ date: 2023-09-16T15:50:00.000Z
 years: 2023
 months: 2023-09
 days: 2023-09-16
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["article"]
 tags: ["wellness"]
 ---

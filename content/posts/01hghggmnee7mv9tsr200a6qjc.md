@@ -3,6 +3,9 @@ date: 2023-12-01T01:39:57.230Z
 years: 2023
 months: 2023-12
 days: 2023-12-01
+city: Recife
+country: Brazil
+timezone: America/Recife
 tags: ["lingo"]
 link: https://mastodon.social/@jensclasen/111499280856433404
 categories: ["article"]

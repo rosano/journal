@@ -3,6 +3,9 @@ date: 2022-01-06T03:30:50.748Z
 years: 2022
 months: 2022-01
 days: 2022-01-06
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["book"]
 tags: ["Tantra: The Supreme Understanding"]
 ---

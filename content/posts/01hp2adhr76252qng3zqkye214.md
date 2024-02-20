@@ -3,6 +3,9 @@ date: 2023-12-02T11:34:22.171Z
 years: 2023
 months: 2023-12
 days: 2023-12-02
+city: Recife
+country: Brazil
+timezone: America/Recife
 tags: ["interop"]
 categories: ["thought"]
 ---

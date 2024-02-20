@@ -3,6 +3,9 @@ date: 2024-02-12T23:15:49.441Z
 years: 2024
 months: 2024-02
 days: 2024-02-12
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["project","code"]
 tags: ["inclusive"]
 link: https://w3c.github.io/apa/fast/checklist.html

@@ -3,6 +3,9 @@ date: 2023-08-12T03:44:45.670Z
 years: 2023
 months: 2023-08
 days: 2023-08-12
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=bv-jvrfrRJk
 ---

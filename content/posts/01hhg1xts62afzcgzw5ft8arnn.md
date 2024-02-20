@@ -3,6 +3,9 @@ date: 2023-12-12T22:21:28.230Z
 years: 2023
 months: 2023-12
 days: 2023-12-12
+city: Brasilia
+country: Brazil
+timezone: America/Sao_Paulo
 categories: ["talk"]
 link: https://www.jordanoconnor.com/podcast/episode/a81e3f92/the-linking-of-opposites
 ---

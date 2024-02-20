@@ -3,6 +3,9 @@ date: 2023-09-11T12:00:00.000Z
 years: 2023
 months: 2023-09
 days: 2023-09-11
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["code"]
 ---
 Tried to understand why my Kobo doesn't mount to the computer when connecting via cable.

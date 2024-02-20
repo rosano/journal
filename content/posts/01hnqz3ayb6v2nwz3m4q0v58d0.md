@@ -3,6 +3,9 @@ date: 2024-02-03T17:08:45.643Z
 years: 2024
 months: 2024-02
 days: 2024-02-03
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["project"]
 tags: ["idea"]
 link: https://potato.cheap

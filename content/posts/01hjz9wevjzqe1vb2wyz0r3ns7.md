@@ -3,6 +3,9 @@ date: 2023-12-31T06:44:50.161Z
 years: 2023
 months: 2023-12
 days: 2023-12-31
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["Why are we yelling?"]
 categories: ["book"]
 ---

@@ -3,6 +3,9 @@ date: 2023-12-26T12:22:29.666Z
 years: 2023
 months: 2023-12
 days: 2023-12-26
+city: Brasilia
+country: Brazil
+timezone: America/Sao_Paulo
 link: https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning
 categories: ["article"]
 ---

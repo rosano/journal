@@ -3,6 +3,9 @@ date: 2024-01-06T14:20:45.381Z
 years: 2024
 months: 2024-01
 days: 2024-01-06
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://www.instagram.com/reel/C1u7XH_L10k/
 ---

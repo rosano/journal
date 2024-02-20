@@ -3,6 +3,9 @@ date: 2023-11-01T19:50:46.735Z
 years: 2023
 months: 2023-11
 days: 2023-11-01
+city: Belo Horizonte
+country: Brazil
+timezone: America/Sao_Paulo
 tags: ["Why are we yelling?"]
 categories: ["book"]
 ---

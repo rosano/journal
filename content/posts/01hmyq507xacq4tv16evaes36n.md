@@ -3,6 +3,9 @@ date: 2024-01-24T21:48:50.812Z
 years: 2024
 months: 2024-01
 days: 2024-01-24
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["shortcut"]
 link: https://apple.stackexchange.com/questions/12005/how-do-i-play-a-youtube-video-in-the-background-on-my-ipad#12010
 categories: ["article"]

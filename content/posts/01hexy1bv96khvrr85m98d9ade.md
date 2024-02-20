@@ -3,6 +3,9 @@ date: 2023-11-11T00:55:46.281Z
 years: 2023
 months: 2023-11
 days: 2023-11-11
+city: Belo Horizonte
+country: Brazil
+timezone: America/Sao_Paulo
 tags: ["hack"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/Cze3jz6oBgb/

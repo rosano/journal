@@ -3,6 +3,9 @@ date: 2024-01-28T02:16:57.473Z
 years: 2024
 months: 2024-01
 days: 2024-01-28
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["article","project"]
 link: https://jon.bo/posts/new-tab/
 ---

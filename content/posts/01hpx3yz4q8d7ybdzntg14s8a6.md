@@ -3,6 +3,9 @@ date: 2024-02-18T03:25:39.351Z
 years: 2024
 months: 2024-02
 days: 2024-02-18
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["code"]
 tags: ["notes","web apps"]
 ---

@@ -3,6 +3,9 @@ date: 2024-02-14T15:04:58.810Z
 years: 2024
 months: 2024-02
 days: 2024-02-14
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["privacy"]
 categories: ["thought"]
 ---

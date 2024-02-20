@@ -3,6 +3,9 @@ date: 2024-02-12T22:09:23.228Z
 years: 2024
 months: 2024-02
 days: 2024-02-12
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["code"]
 link: https://taylor.town/-10x
 ---

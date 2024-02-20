@@ -3,6 +3,9 @@ date: 2023-05-04T08:09:21.147Z
 years: 2023
 months: 2023-05
 days: 2023-05-04
+city: Chiang Mai
+country: Thailand
+timezone: Asia/Bangkok
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=BdqhPuPKhSc
 ---

@@ -3,6 +3,9 @@ date: 2023-11-29T20:10:00.000Z
 years: 2023
 months: 2023-11
 days: 2023-11-29
+city: Recife
+country: Brazil
+timezone: America/Recife
 tags: ["interop"]
 link: https://github.com/solid/data-interoperability-panel/blob/main/problems-and-goals.md
 categories: ["article"]

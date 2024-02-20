@@ -3,6 +3,9 @@ date: 2024-02-07T01:15:43.786Z
 years: 2024
 months: 2024-02
 days: 2024-02-07
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["idea"]
 link: https://radreads.co/mutually-beneficial-intro
 categories: ["article"]

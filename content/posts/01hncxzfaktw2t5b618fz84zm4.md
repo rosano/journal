@@ -3,6 +3,9 @@ date: 2024-01-30T10:17:31.730Z
 years: 2024
 months: 2024-01
 days: 2024-01-30
+city: Toronto
+country: Canada
+timezone: America/Toronto
 link: https://gkeenan.co/avgb/im-turning-off-my-website-analytics-because-im-very-brave-and-i-promise-i-truly-do-not-care-about-the-numbers
 categories: ["article"]
 ---

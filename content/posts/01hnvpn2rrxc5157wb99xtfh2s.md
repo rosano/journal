@@ -3,6 +3,9 @@ date: 2024-02-05T03:58:07.639Z
 years: 2024
 months: 2024-02
 days: 2024-02-05
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 tags: ["lingo"]
 link: https://www.youtube.com/watch?v=HUO7Hggimqs

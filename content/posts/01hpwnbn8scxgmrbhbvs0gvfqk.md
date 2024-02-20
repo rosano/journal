@@ -3,6 +3,9 @@ date: 2024-02-17T23:10:26.585Z
 years: 2024
 months: 2024-02
 days: 2024-02-17
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["humans"]
 categories: ["thought"]
 ---

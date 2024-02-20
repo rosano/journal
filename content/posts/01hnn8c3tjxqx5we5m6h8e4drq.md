@@ -3,6 +3,9 @@ date: 2024-02-02T15:53:07.154Z
 years: 2024
 months: 2024-02
 days: 2024-02-02
+city: Toronto
+country: Canada
+timezone: America/Toronto
 link: https://github.com/sveltejs/svelte/discussions/10085#discussion-6029409
 categories: ["article"]
 ---

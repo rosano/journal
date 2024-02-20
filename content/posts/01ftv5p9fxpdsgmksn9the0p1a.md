@@ -3,6 +3,9 @@ date: 2022-02-01T17:35:33.885Z
 years: 2022
 months: 2022-02
 days: 2022-02-01
+city: Toronto
+country: Canada
+timezone: America/Toronto
 link: https://simple.wikipedia.org/wiki/Money
 categories: ["article"]
 ---

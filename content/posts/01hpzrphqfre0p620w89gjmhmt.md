@@ -3,6 +3,9 @@ date: 2024-02-19T04:06:32.430Z
 years: 2024
 months: 2024-02
 days: 2024-02-19
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://m.youtube.com/watch?v=wSGNVliR4yA
 ---

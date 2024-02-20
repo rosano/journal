@@ -3,6 +3,9 @@ date: 2024-01-30T10:16:16.394Z
 years: 2024
 months: 2024-01
 days: 2024-01-30
+city: Toronto
+country: Canada
+timezone: America/Toronto
 link: https://rachsmith.com/i-turned-off-analytics/
 categories: ["article"]
 ---

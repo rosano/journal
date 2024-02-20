@@ -3,6 +3,9 @@ date: 2023-11-13T15:49:07.226Z
 years: 2023
 months: 2023-11
 days: 2023-11-13
+city: Belo Horizonte
+country: Brazil
+timezone: America/Sao_Paulo
 tags: ["food"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/Czli2zJImOb/

@@ -3,6 +3,9 @@ date: 2024-01-13T21:07:54.044Z
 years: 2024
 months: 2024-01
 days: 2024-01-13
+city: Toronto
+country: Canada
+timezone: America/Toronto
 link: https://nothinghuman.substack.com/p/against-positive-sum-thinking
 categories: ["article"]
 ---

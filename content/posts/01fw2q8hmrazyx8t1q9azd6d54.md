@@ -3,6 +3,9 @@ date: 2022-02-17T02:13:00.696Z
 years: 2022
 months: 2022-02
 days: 2022-02-17
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://nevilleamehra.com/never-normal-podcast/creating-community-wherever-you-go-with-digital-nomad-alex-salinsky-episode-011/
 ---

@@ -3,6 +3,9 @@ date: 2023-11-23T16:28:11.526Z
 years: 2023
 months: 2023-11
 days: 2023-11-23
+city: Recife
+country: Brazil
+timezone: America/Recife
 categories: ["code"]
 tags: ["security"]
 link: https://plausible.io/data-policy

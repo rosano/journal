@@ -3,6 +3,9 @@ date: 2024-01-19T20:05:55.276Z
 years: 2024
 months: 2024-01
 days: 2024-01-19
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["hack"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/C2SwIS5LLU8/

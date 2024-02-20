@@ -3,6 +3,9 @@ date: 2024-02-03T16:40:00.580Z
 years: 2024
 months: 2024-02
 days: 2024-02-03
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["project"]
 link: https://busterbenson.com/life-in-weeks
 ---

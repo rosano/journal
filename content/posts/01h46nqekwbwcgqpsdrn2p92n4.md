@@ -3,6 +3,9 @@ date: 2023-06-30T17:31:02.652Z
 years: 2023
 months: 2023-06
 days: 2023-06-30
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://pca.st/fvi5g2ti
 ---

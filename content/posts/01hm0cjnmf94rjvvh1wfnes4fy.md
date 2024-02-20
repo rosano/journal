@@ -3,6 +3,9 @@ date: 2024-01-13T03:06:51.407Z
 years: 2024
 months: 2024-01
 days: 2024-01-13
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://dailyyonder.com/beau-of-the-fifth-column-on-fact-opinion-and-the-democracy-in-between-everywhere-radio/2022/05/20/
 ---

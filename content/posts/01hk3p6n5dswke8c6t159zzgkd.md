@@ -3,6 +3,9 @@ date: 2024-01-01T23:37:04.941Z
 years: 2024
 months: 2024-01
 days: 2024-01-01
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["Why are we yelling?"]
 categories: ["book"]
 ---

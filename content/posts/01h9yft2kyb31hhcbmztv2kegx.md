@@ -3,6 +3,9 @@ date: 2023-09-10T02:47:52.702Z
 years: 2023
 months: 2023-09
 days: 2023-09-10
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["The Thinking Method","lingo"]
 categories: ["book"]
 ---

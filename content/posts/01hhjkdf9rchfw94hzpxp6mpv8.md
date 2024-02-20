@@ -3,6 +3,9 @@ date: 2023-12-13T22:05:35.416Z
 years: 2023
 months: 2023-12
 days: 2023-12-13
+city: Brasilia
+country: Brazil
+timezone: America/Sao_Paulo
 categories: ["talk"]
 link: https://www.devtools.fm/episode/78
 ---

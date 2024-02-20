@@ -3,6 +3,9 @@ date: 2023-12-07T15:16:02.759Z
 years: 2023
 months: 2023-12
 days: 2023-12-07
+city: Brasilia
+country: Brazil
+timezone: America/Sao_Paulo
 link: https://marijnhaverbeke.nl/blog/sustainable-maintenance.html
 categories: ["article"]
 ---

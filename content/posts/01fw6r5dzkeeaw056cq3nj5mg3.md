@@ -3,6 +3,9 @@ date: 2022-02-18T15:45:44.947Z
 years: 2022
 months: 2022-02
 days: 2022-02-18
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=uy6U_kkHWLQ
 ---

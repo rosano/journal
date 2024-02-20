@@ -3,6 +3,9 @@ date: 2023-12-26T18:08:09.505Z
 years: 2023
 months: 2023-12
 days: 2023-12-26
+city: Brasilia
+country: Brazil
+timezone: America/Sao_Paulo
 tags: ["food"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/C0R2g-5rMfo/

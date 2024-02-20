@@ -3,6 +3,9 @@ date: 2023-09-30T23:59:01.245Z
 years: 2023
 months: 2023-09
 days: 2023-09-30
+city: Winnipeg
+country: Canada
+timezone: America/Winnipeg
 link: https://tasshin.com/blog/the-bio-emotive-framework-an-escape-from-the-hell-of-unprocessed-emotions/
 categories: ["article"]
 ---

@@ -3,6 +3,9 @@ date: 2023-11-23T10:58:30.723Z
 years: 2023
 months: 2023-11
 days: 2023-11-23
+city: Recife
+country: Brazil
+timezone: America/Recife
 tags: ["food","hack"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/Cz92ie_vlqK/

@@ -3,6 +3,9 @@ date: 2023-06-30T00:36:00.000Z
 years: 2023
 months: 2023-06
 days: 2023-06-30
+city: Toronto
+country: Canada
+timezone: America/Toronto
 categories: ["project"]
 link: https://openbox.ca/collections/apple-iphones
 ---

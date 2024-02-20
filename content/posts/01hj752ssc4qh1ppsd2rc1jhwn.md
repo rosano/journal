@@ -3,6 +3,9 @@ date: 2023-12-20T15:00:00.000Z
 years: 2023
 months: 2023-12
 days: 2023-12-20
+city: Brasilia
+country: Brazil
+timezone: America/Sao_Paulo
 link: https://brettscott.substack.com/p/the-war-on-informality
 categories: ["article"]
 ---

@@ -3,6 +3,9 @@ date: 2024-02-20T20:24:14.575Z
 years: 2024
 months: 2024-02
 days: 2024-02-20
+city: Toronto
+country: Canada
+timezone: America/Toronto
 tags: ["interop"]
 categories: ["thought"]
 ---
