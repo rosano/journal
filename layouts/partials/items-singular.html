@@ -1,5 +1,7 @@
 <div class="post">
 
+{{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
+
 {{ with .Params.link }}
 <div class="embed" data-link="{{ . }}"></div>
 {{ end }}
@@ -16,10 +18,9 @@
 			{{- end -}}
 		{{- end -}}
 	</span>
+	{{- if $isRSS -}}, {{- end -}}
 	{{ end }}
 </small>
-
-{{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
 
 {{ with .Params.categories }}
 	{{ if $isRSS }}<small>type: {{- end -}}
