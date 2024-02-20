@@ -22,7 +22,7 @@
 {{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
 
 {{ with .Params.categories }}
-	{{ if $isRSS }}<small>in: {{- end -}}
+	{{ if $isRSS }}<small>type: {{- end -}}
 	<span class="types">
 		{{- range . -}}
 			{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
