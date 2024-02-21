@@ -6,37 +6,38 @@
 <div class="embed" data-link="{{ . }}"></div>
 {{ end }}
 <article class="content">{{ .Content }}</article>
-<small class="metadata">
-	{{ $t := time.AsTime .Params.localtime }}
+<span class="metadata">
+	<small>
+		{{ $t := time.AsTime .Params.localtime }}
 
-	<a href="{{ .Permalink }}"><time datetime="{{ $t }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}
-		{{- $t.Format "15h04" -}}
-	{{- else -}}
-		{{- $t.Format "Jan 02 2006, 15h04" -}}
-	{{- end }}</time></a>
+		<a href="{{ .Permalink }}"><time datetime="{{ $t }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}
+			{{- $t.Format "15h04" -}}
+		{{- else -}}
+			{{- $t.Format "Jan 02 2006, 15h04" -}}
+		{{- end }}</time></a>
 
-	{{ with .GetTerms "place" }}
-	<span>in {{ range . -}}
-		<a href="{{ .Permalink }}">{{ .LinkTitle }}</a> / 
-	{{- end -}}</span>
-	{{ end }}
-
-	{{ with .GetTerms "country" }}
-	<span>{{- range . -}}
-			<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+		{{ with .GetTerms "place" }}
+		<span>in {{ range . -}}
+			<a href="{{ .Permalink }}">{{ .LinkTitle }}</a> / 
 		{{- end -}}</span>
-	{{- end -}}
+		{{ end }}
 
-	{{- with .GetTerms "tags" -}}
-	<span>, tags: </span> 
-	<span>
-		{{- range $index, $element := . -}}
-			{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+		{{ with .GetTerms "country" }}
+		<span>{{- range . -}}
+				<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+			{{- end -}}</span>
 		{{- end -}}
-	</span>
-	{{- if $isRSS -}}, {{- end -}}
-	{{ end }}
-</small>
+
+		{{- with .GetTerms "tags" -}}
+		<span>, tags: </span> 
+		<span>
+			{{- range $index, $element := . -}}
+				{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+			{{- end -}}
+		</span>
+		{{- if $isRSS -}}, {{- end -}}
+		{{ end }}
+	</small>
 
 {{ with .Params.categories }}
 	{{ if $isRSS }}<small>type: {{- end -}}
@@ -49,5 +50,6 @@
 	</span>
 	{{- if $isRSS }}</small>{{end}}
 {{ end }}
+</span>
 
 </div>

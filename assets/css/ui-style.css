@@ -107,21 +107,8 @@ hr {
 	padding-left: calc(var(--spacing) * 2);
 }
 
-@media (max-width: 450px) {
-
-	.post .metadata {
-		display: inline-block;
-		max-width: 80%;
-	}
-
-}
-
-.post .types {
-	padding: var(--spacing);
-
-	position: absolute;
-	bottom: 0;
-	right: 0;
+.post .metadata {
+	display: flex;
 }
 
 .post .types a {
