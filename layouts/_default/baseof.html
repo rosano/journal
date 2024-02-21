@@ -120,14 +120,14 @@
 	{{ if eq .Section "months" }}
 		{{ range .Site.Taxonomies.days }}
 			{{ if strings.Contains .Page.LinkTitle (delimit (slice $year $month) "-") }}
-				<a href="{{ .Page.Permalink }}">{{ partial "date-ordinal.html" (time.AsTime .Page.LinkTitle) }}</a>
+				<a href="{{ .Page.Permalink }}">{{ humanize (time.Format "2" (time.AsTime .Page.LinkTitle))  }}</a>
 			{{ end }}
 		{{ end }}
 	{{ end }}
 {{ end }}
 
 {{ if (or (in (slice "days") .Section) .IsPage) }}
-	{{ $format := partial "date-ordinal.html" $timeContext }}
+	{{ $format := humanize (time.Format "2" $timeContext)  }}
 
 	{{ if eq .Section "days" }}
 		<span>{{ $format }}</span>

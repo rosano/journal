@@ -1,4 +1,0 @@
-{{ $format := time.Format "2" . }}
-{{ $last := substr $format -1 }}
-
-{{ $format }}{{ cond (eq $last "1") "st" (cond (eq $last "2") "nd" (cond (eq $last "3") "rd" "th")) }}
