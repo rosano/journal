@@ -6,7 +6,7 @@
 <div class="embed" data-link="{{ . }}"></div>
 {{ end }}
 <article class="content">{{ .Content }}</article>
-<small>
+<small class="metadata">
 	<a href="{{ .Permalink }}"><time datetime="{{ .Date }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}
 		{{- .Date.Format "3h04" -}}
 	{{- else -}}
@@ -31,7 +31,7 @@
 		{{- end -}}
 	</span>
 	{{ end }}
-	
+
 	{{ with .GetTerms "country" }}
 	<span>
 		{{- range . -}}
