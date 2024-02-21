@@ -27,9 +27,16 @@
 	<span>in: </span> 
 	<span>
 		{{- range . -}}
+			<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>, 
+		{{- end -}}
+	</span>
+	{{ end }}
+	
+	{{ with .GetTerms "country" }}
+	<span>
+		{{- range . -}}
 			<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
 		{{- end -}}
-		
 	</span>
 	{{- if $isRSS -}}, {{- end -}}
 	{{ end }}

@@ -10,6 +10,7 @@ taxonomies:
   month: months
   day: days
   city: city
+  country: country
 
 disableKinds:
 - taxonomy
@@ -21,6 +22,7 @@ permalinks:
     categories: /type/:slug/
     tags: /tag/:slug/
     city: /place/:slug/
+    country: /country/:slug/
     years: /:year/
     months: /:year/:month/
     days: /:year/:month/:day/
