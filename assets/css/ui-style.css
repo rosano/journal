@@ -111,6 +111,10 @@ hr {
 	display: flex;
 }
 
+.post .metadata > :first-child {
+	flex-grow: 1;
+}
+
 .post .types a {
 	font-weight: bold;
 	font-size: 90%;
