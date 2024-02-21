@@ -3,7 +3,7 @@ date: 2023-06-07T22:16:49.572Z
 years: 2023
 months: 2023-06
 days: 2023-06-07
-city: Paris
+place: Paris
 country: France
 localtime: 2023-06-08T00:16:49.572+02:00
 categories: ["thought"]

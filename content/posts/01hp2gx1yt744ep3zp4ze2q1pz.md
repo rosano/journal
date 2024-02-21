@@ -3,7 +3,7 @@ date: 2023-09-02T16:58:47.343Z
 years: 2023
 months: 2023-09
 days: 2023-09-02
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2023-09-02T12:58:47.343-04:00
 categories: ["thought"]

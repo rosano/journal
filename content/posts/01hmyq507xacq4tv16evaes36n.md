@@ -3,7 +3,7 @@ date: 2024-01-24T21:48:50.812Z
 years: 2024
 months: 2024-01
 days: 2024-01-24
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-01-24T16:48:50.812-05:00
 tags: ["shortcut"]

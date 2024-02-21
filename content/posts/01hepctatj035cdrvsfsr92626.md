@@ -3,7 +3,7 @@ date: 2023-11-08T02:40:09.042Z
 years: 2023
 months: 2023-11
 days: 2023-11-08
-city: Belo Horizonte
+place: Belo Horizonte
 country: Brazil
 localtime: 2023-11-07T23:40:09.042-03:00
 categories: ["talk"]

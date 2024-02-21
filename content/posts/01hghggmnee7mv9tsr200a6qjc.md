@@ -3,7 +3,7 @@ date: 2023-12-01T01:39:57.230Z
 years: 2023
 months: 2023-12
 days: 2023-12-01
-city: Recife
+place: Recife
 country: Brazil
 localtime: 2023-11-30T22:39:57.230-03:00
 tags: ["lingo"]

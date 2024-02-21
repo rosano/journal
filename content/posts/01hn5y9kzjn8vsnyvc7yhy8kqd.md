@@ -3,7 +3,7 @@ date: 2024-01-27T17:08:23.154Z
 years: 2024
 months: 2024-01
 days: 2024-01-27
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-01-27T12:08:23.154-05:00
 link: https://www.furia.com/page.cgi?type=log&id=473

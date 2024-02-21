@@ -3,7 +3,7 @@ date: 2023-10-09T14:37:51.882Z
 years: 2023
 months: 2023-10
 days: 2023-10-09
-city: Ithaca
+place: Ithaca
 country: United States
 localtime: 2023-10-09T10:37:51.882-04:00
 link: https://chelseatroy.com/2021/09/14/the-art-of-documentation/

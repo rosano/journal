@@ -3,7 +3,7 @@ date: 2023-09-18T14:31:14.000Z
 years: 2023
 months: 2023-09
 days: 2023-09-18
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2023-09-18T10:31:14.000-04:00
 categories: ["project"]

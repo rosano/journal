@@ -3,7 +3,7 @@ date: 2023-05-25T15:45:43.752Z
 years: 2023
 months: 2023-05
 days: 2023-05-25
-city: Frankfurt
+place: Frankfurt
 country: Germany
 localtime: 2023-05-25T17:45:43.752+02:00
 categories: ["thought"]

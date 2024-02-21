@@ -3,7 +3,7 @@ date: 2023-11-07T20:33:00.000Z
 years: 2023
 months: 2023-11
 days: 2023-11-07
-city: Belo Horizonte
+place: Belo Horizonte
 country: Brazil
 localtime: 2023-11-07T17:33:00.000-03:00
 link: https://www.instagram.com/p/CzVvFt2rqrW/

@@ -3,7 +3,7 @@ date: 2023-12-20T15:00:00.000Z
 years: 2023
 months: 2023-12
 days: 2023-12-20
-city: Brasilia
+place: Brasilia
 country: Brazil
 localtime: 2023-12-20T12:00:00.000-03:00
 link: https://brettscott.substack.com/p/the-war-on-informality

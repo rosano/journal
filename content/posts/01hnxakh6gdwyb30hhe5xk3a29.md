@@ -3,7 +3,7 @@ date: 2024-02-05T19:06:02.832Z
 years: 2024
 months: 2024-02
 days: 2024-02-05
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-02-05T14:06:02.832-05:00
 tags: ["tech"]

@@ -3,7 +3,7 @@ date: 2024-01-23T18:27:42.265Z
 years: 2024
 months: 2024-01
 days: 2024-01-23
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-01-23T13:27:42.265-05:00
 categories: ["code"]

@@ -3,7 +3,7 @@ date: 2024-01-12T15:37:44.575Z
 years: 2024
 months: 2024-01
 days: 2024-01-12
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-01-12T10:37:44.575-05:00
 link: https://marketingexamples.com/newsletter

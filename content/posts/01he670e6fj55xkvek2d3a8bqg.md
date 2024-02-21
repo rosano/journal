@@ -3,7 +3,7 @@ date: 2023-11-01T19:50:46.735Z
 years: 2023
 months: 2023-11
 days: 2023-11-01
-city: Belo Horizonte
+place: Belo Horizonte
 country: Brazil
 localtime: 2023-11-01T16:50:46.735-03:00
 tags: ["Why are we yelling?"]

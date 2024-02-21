@@ -3,7 +3,7 @@ date: 2023-12-26T18:08:09.505Z
 years: 2023
 months: 2023-12
 days: 2023-12-26
-city: Brasilia
+place: Brasilia
 country: Brazil
 localtime: 2023-12-26T15:08:09.505-03:00
 tags: ["food"]

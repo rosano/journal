@@ -3,7 +3,7 @@ date: 2023-12-29T21:33:18.556Z
 years: 2023
 months: 2023-12
 days: 2023-12-29
-city: Guarulhos
+place: Guarulhos
 country: Brazil
 localtime: 2023-12-29T18:33:18.556-03:00
 categories: ["thought"]

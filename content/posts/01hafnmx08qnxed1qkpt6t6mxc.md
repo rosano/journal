@@ -3,7 +3,7 @@ date: 2023-09-16T18:56:59.911Z
 years: 2023
 months: 2023-09
 days: 2023-09-16
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2023-09-16T14:56:59.911-04:00
 categories: ["talk"]

@@ -3,7 +3,7 @@ date: 2022-03-10T17:19:06.288Z
 years: 2022
 months: 2022-03
 days: 2022-03-10
-city: Berlin
+place: Berlin
 country: Germany
 localtime: 2022-03-10T18:19:06.288+01:00
 categories: ["thought"]

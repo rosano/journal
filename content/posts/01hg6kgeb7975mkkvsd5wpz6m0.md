@@ -3,7 +3,7 @@ date: 2023-09-11T12:00:00.000Z
 years: 2023
 months: 2023-09
 days: 2023-09-11
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2023-09-11T08:00:00.000-04:00
 categories: ["code"]

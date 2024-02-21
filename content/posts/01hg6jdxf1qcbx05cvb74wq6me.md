@@ -3,7 +3,7 @@ date: 2023-10-11T15:09:08.000Z
 years: 2023
 months: 2023-10
 days: 2023-10-11
-city: Ithaca
+place: Ithaca
 country: United States
 localtime: 2023-10-11T11:09:08.000-04:00
 categories: ["code"]

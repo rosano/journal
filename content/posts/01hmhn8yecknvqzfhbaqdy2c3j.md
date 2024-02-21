@@ -3,7 +3,7 @@ date: 2024-01-19T20:05:55.276Z
 years: 2024
 months: 2024-01
 days: 2024-01-19
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-01-19T15:05:55.276-05:00
 tags: ["hack"]

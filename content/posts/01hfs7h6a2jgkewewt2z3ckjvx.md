@@ -3,7 +3,7 @@ date: 2023-11-21T15:21:11.746Z
 years: 2023
 months: 2023-11
 days: 2023-11-21
-city: Recife
+place: Recife
 country: Brazil
 localtime: 2023-11-21T12:21:11.746-03:00
 categories: ["talk"]

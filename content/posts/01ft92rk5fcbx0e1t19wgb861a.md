@@ -3,7 +3,7 @@ date: 2022-01-25T02:49:10.128Z
 years: 2022
 months: 2022-01
 days: 2022-01-25
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2022-01-24T21:49:10.128-05:00
 categories: ["thought"]

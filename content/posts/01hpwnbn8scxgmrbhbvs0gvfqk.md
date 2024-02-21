@@ -3,7 +3,7 @@ date: 2024-02-17T23:10:26.585Z
 years: 2024
 months: 2024-02
 days: 2024-02-17
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-02-17T18:10:26.585-05:00
 tags: ["humans"]

@@ -3,7 +3,7 @@ date: 2023-08-18T16:07:51.741Z
 years: 2023
 months: 2023-08
 days: 2023-08-18
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2023-08-18T12:07:51.741-04:00
 tags: ["lingo"]

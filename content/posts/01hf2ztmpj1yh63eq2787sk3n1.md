@@ -3,7 +3,7 @@ date: 2023-11-13T00:03:15.281Z
 years: 2023
 months: 2023-11
 days: 2023-11-13
-city: Belo Horizonte
+place: Belo Horizonte
 country: Brazil
 localtime: 2023-11-12T21:03:15.281-03:00
 link: https://sublimeinternet.substack.com/p/principles-for-sharing-on-the-internet

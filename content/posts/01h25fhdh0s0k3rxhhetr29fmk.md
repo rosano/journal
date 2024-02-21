@@ -3,7 +3,7 @@ date: 2023-06-05T09:52:15.392Z
 years: 2023
 months: 2023-06
 days: 2023-06-05
-city: Berlin
+place: Berlin
 country: Germany
 localtime: 2023-06-05T11:52:15.392+02:00
 categories: ["thought"]

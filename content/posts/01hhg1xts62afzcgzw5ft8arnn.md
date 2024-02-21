@@ -3,7 +3,7 @@ date: 2023-12-12T22:21:28.230Z
 years: 2023
 months: 2023-12
 days: 2023-12-12
-city: Brasilia
+place: Brasilia
 country: Brazil
 localtime: 2023-12-12T19:21:28.230-03:00
 categories: ["talk"]

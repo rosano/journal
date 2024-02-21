@@ -3,7 +3,7 @@ date: 2022-02-18T15:45:44.947Z
 years: 2022
 months: 2022-02
 days: 2022-02-18
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2022-02-18T10:45:44.947-05:00
 categories: ["talk"]

@@ -3,7 +3,7 @@ date: 2024-02-05T03:58:07.639Z
 years: 2024
 months: 2024-02
 days: 2024-02-05
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-02-04T22:58:07.639-05:00
 categories: ["talk"]

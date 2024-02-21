@@ -3,7 +3,7 @@ date: 2024-02-06T17:48:58.911Z
 years: 2024
 months: 2024-02
 days: 2024-02-06
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-02-06T12:48:58.911-05:00
 tags: ["idea"]

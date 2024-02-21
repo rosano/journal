@@ -3,7 +3,7 @@ date: 2023-05-02T15:23:09.585Z
 years: 2023
 months: 2023-05
 days: 2023-05-02
-city: Chiang Mai
+place: Chiang Mai
 country: Thailand
 localtime: 2023-05-02T22:23:09.585+07:00
 categories: ["talk"]

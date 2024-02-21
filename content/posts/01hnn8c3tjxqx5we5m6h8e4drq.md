@@ -3,7 +3,7 @@ date: 2024-02-02T15:53:07.154Z
 years: 2024
 months: 2024-02
 days: 2024-02-02
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-02-02T10:53:07.154-05:00
 link: https://github.com/sveltejs/svelte/discussions/10085#discussion-6029409

@@ -3,7 +3,7 @@ date: 2024-02-08T23:37:35.275Z
 years: 2024
 months: 2024-02
 days: 2024-02-08
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-02-08T18:37:35.275-05:00
 categories: ["project"]

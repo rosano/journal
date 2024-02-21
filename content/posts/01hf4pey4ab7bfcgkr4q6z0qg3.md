@@ -3,7 +3,7 @@ date: 2023-11-13T15:58:03.402Z
 years: 2023
 months: 2023-11
 days: 2023-11-13
-city: Belo Horizonte
+place: Belo Horizonte
 country: Brazil
 localtime: 2023-11-13T12:58:03.402-03:00
 tags: ["food"]

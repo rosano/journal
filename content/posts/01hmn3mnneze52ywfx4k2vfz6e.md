@@ -3,7 +3,7 @@ date: 2024-01-21T04:14:42.861Z
 years: 2024
 months: 2024-01
 days: 2024-01-21
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-01-20T23:14:42.861-05:00
 categories: ["thought"]

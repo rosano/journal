@@ -3,7 +3,7 @@ date: 2023-12-31T00:40:32.436Z
 years: 2023
 months: 2023-12
 days: 2023-12-31
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2023-12-30T19:40:32.436-05:00
 categories: ["talk"]

@@ -3,7 +3,7 @@ date: 2023-10-21T16:01:40.830Z
 years: 2023
 months: 2023-10
 days: 2023-10-21
-city: Denver
+place: Denver
 country: United States
 localtime: 2023-10-21T10:01:40.830-06:00
 tags: ["The Thinking Method"]

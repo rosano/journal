@@ -3,7 +3,7 @@ date: 2023-12-31T09:27:23.761Z
 years: 2023
 months: 2023-12
 days: 2023-12-31
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2023-12-31T04:27:23.761-05:00
 tags: ["Why are we yelling?"]

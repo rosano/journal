@@ -3,7 +3,7 @@ date: 2023-10-08T01:07:37.970Z
 years: 2023
 months: 2023-10
 days: 2023-10-08
-city: Chicago
+place: Chicago
 country: United States
 localtime: 2023-10-07T20:07:37.970-05:00
 tags: ["The Thinking Method","lingo"]

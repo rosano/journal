@@ -3,7 +3,7 @@ date: 2023-05-13T11:50:07.737Z
 years: 2023
 months: 2023-05
 days: 2023-05-13
-city: Siem Reap
+place: Siem Reap
 country: Cambodia
 localtime: 2023-05-13T18:50:07.737+07:00
 categories: ["talk"]

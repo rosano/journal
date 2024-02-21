@@ -3,7 +3,7 @@ date: 2022-01-02T14:56:00.378Z
 years: 2022
 months: 2022-01
 days: 2022-01-02
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2022-01-02T09:56:00.378-05:00
 link: https://community.resonate.is/t/notes-app-musings-proposals-for-resonate-community-to-consider-from-a-label-perspective/1210/11

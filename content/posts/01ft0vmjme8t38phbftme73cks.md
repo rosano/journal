@@ -3,7 +3,7 @@ date: 2022-01-22T12:19:36.718Z
 years: 2022
 months: 2022-01
 days: 2022-01-22
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2022-01-22T07:19:36.718-05:00
 categories: ["article","project"]

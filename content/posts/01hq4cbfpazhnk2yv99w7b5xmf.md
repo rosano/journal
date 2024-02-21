@@ -3,7 +3,7 @@ date: 2024-02-20T23:06:59.146Z
 years: 2024
 months: 2024-02
 days: 2024-02-20
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2024-02-20T18:06:59.146-05:00
 categories: ["music"]

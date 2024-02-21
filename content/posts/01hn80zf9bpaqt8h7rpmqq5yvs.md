@@ -3,7 +3,7 @@ date: 2023-12-26T16:21:06.747Z
 years: 2023
 months: 2023-12
 days: 2023-12-26
-city: Brasilia
+place: Brasilia
 country: Brazil
 localtime: 2023-12-26T13:21:06.747-03:00
 categories: ["thought"]

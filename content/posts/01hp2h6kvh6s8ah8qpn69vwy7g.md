@@ -3,7 +3,7 @@ date: 2023-10-30T16:38:15.847Z
 years: 2023
 months: 2023-10
 days: 2023-10-30
-city: Los Angeles
+place: Los Angeles
 country: United States
 localtime: 2023-10-30T09:38:15.847-07:00
 categories: ["thought"]

@@ -3,7 +3,7 @@ date: 2023-11-20T10:45:00.000Z
 years: 2023
 months: 2023-11
 days: 2023-11-20
-city: Recife
+place: Recife
 country: Brazil
 localtime: 2023-11-20T07:45:00.000-03:00
 tags: ["food"]

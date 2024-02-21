@@ -3,7 +3,7 @@ date: 2022-02-26T04:06:43.498Z
 years: 2022
 months: 2022-02
 days: 2022-02-26
-city: Toronto
+place: Toronto
 country: Canada
 localtime: 2022-02-25T23:06:43.498-05:00
 categories: ["book"]
