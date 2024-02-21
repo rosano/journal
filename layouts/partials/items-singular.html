@@ -12,14 +12,12 @@
 	{{- else -}}
 		{{- .Date.Format "Jan 02 2006, 3h04" -}}
 	{{- end }}</time></a>
-	
-	{{ with .Params.tags }}
-	<span>tags:</span> 
+
+	{{ with .GetTerms "tags" }}
+	<span>tags: </span> 
 	<span>
 		{{- range $index, $element := . -}}
-			{{- with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) -}}
-			{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
-			{{- end -}}
+			{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
 		{{- end -}}
 	</span>
 	{{- if $isRSS -}}, {{- end -}}
