@@ -24,7 +24,7 @@
 	{{- if $isRSS -}}, {{- end -}}
 	{{ end }}
 
-	{{ with .GetTerms "city" }}
+	{{ with .GetTerms "place" }}
 	<span>in: </span> 
 	<span>
 		{{- range . -}}
