@@ -16,7 +16,7 @@
 	{{- end }}</time></a>
 
 	{{ with .GetTerms "place" }}
-	<span>in: {{ range . -}}
+	<span>in {{ range . -}}
 		<a href="{{ .Permalink }}">{{ .LinkTitle }}</a> / 
 	{{- end -}}</span>
 	{{ end }}
