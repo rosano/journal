@@ -22,6 +22,17 @@
 	</span>
 	{{- if $isRSS -}}, {{- end -}}
 	{{ end }}
+
+	{{ with .GetTerms "city" }}
+	<span>in: </span> 
+	<span>
+		{{- range . -}}
+			<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+		{{- end -}}
+		
+	</span>
+	{{- if $isRSS -}}, {{- end -}}
+	{{ end }}
 </small>
 
 {{ with .Params.categories }}
