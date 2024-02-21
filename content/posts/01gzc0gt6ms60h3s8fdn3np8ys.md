@@ -5,7 +5,7 @@ months: 2023-05
 days: 2023-05-01
 city: Chiang Mai
 country: Thailand
-timezone: Asia/Bangkok
+localtime: 2023-05-01T22:57:22.516+07:00
 categories: ["talk"]
 link: https://youtu.be/iaaatxUv4DA
 ---

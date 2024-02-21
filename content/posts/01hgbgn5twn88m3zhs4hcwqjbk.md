@@ -5,7 +5,7 @@ months: 2023-11
 days: 2023-11-28
 city: Recife
 country: Brazil
-timezone: America/Recife
+localtime: 2023-11-28T14:46:59.292-03:00
 tags: ["lingo"]
 link: https://en.wiktionary.org/wiki/moleza
 categories: ["article"]

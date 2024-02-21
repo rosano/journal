@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-02
 city: Minneapolis
 country: United States
-timezone: America/Chicago
+localtime: 2023-10-02T17:57:05.202-05:00
 link: https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/
 categories: ["article"]
 ---

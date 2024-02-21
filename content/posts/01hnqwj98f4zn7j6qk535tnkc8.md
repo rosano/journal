@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-03
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-03T11:24:29.711-05:00
 categories: ["article","project"]
 link: https://alexanderobenauer.com/ollos/
 ---

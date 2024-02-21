@@ -5,7 +5,7 @@ months: 2023-05
 days: 2023-05-03
 city: Chiang Mai
 country: Thailand
-timezone: Asia/Bangkok
+localtime: 2023-05-04T01:13:14.952+07:00
 categories: ["thought"]
 ---
 Similar to language, it might be useful to perform songs slightly under-prepared so that you can start accommodating shortcomings sooner.

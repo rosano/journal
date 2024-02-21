@@ -5,7 +5,7 @@ months: 2022-04
 days: 2022-04-17
 city: Alte Holle
 country: Germany
-timezone: Europe/Berlin
+localtime: 2022-04-17T19:32:15.312+02:00
 categories: ["thought"]
 ---
 > Take decisions and write them down.

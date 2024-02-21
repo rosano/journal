@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-23
 city: Brasilia
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-23T20:04:34.597-03:00
 link: https://tomcritchlow.com/consulting/
 categories: ["article"]
 ---

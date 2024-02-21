@@ -5,7 +5,7 @@ months: 2022-03
 days: 2022-03-15
 city: Berlin
 country: Germany
-timezone: Europe/Berlin
+localtime: 2022-03-15T14:02:24.514+01:00
 categories: ["thought"]
 ---
 I like people who can take pleasure in ordinary experience.

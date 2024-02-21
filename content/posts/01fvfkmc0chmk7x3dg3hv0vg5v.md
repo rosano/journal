@@ -5,7 +5,7 @@ months: 2022-02
 days: 2022-02-09
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-02-09T11:03:59.628-05:00
 categories: ["thought"]
 ---
 > You remove the clothes of your soul when traveling.

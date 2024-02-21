@@ -5,7 +5,7 @@ months: 2023-11
 days: 2023-11-08
 city: Belo Horizonte
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-11-07T23:40:09.042-03:00
 categories: ["talk"]
 link: https://www.jordanoconnor.com/podcast/episode/b8eb5f71/conflict-is-potential
 ---

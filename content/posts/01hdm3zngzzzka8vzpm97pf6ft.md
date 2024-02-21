@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-25
 city: Oakland
 country: United States
-timezone: America/Los_Angeles
+localtime: 2023-10-25T00:30:00.000-07:00
 tags: ["The Thinking Method"]
 categories: ["book"]
 ---

@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-31
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-12-30T19:40:32.436-05:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=kKx6yhN13fU
 ---

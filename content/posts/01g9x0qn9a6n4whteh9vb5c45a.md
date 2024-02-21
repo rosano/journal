@@ -5,7 +5,7 @@ months: 2022-08
 days: 2022-08-07
 city: Berlin
 country: Germany
-timezone: Europe/Berlin
+localtime: 2022-08-07T22:42:52.074+02:00
 categories: ["thought"]
 ---
 Over-assuming to connect the dots forwards: connect backwards only makes more sense—collect in the present and forage from the past.

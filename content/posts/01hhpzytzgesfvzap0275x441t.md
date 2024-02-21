@@ -5,7 +5,7 @@ months: 2023-11
 days: 2023-11-29
 city: Recife
 country: Brazil
-timezone: America/Recife
+localtime: 2023-11-29T19:00:00.000-03:00
 tags: ["interop"]
 link: https://michielbdejong.com/blog/29.html
 categories: ["article"]

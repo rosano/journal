@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-08
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-08T18:37:35.275-05:00
 categories: ["project"]
 link: https://weatherspark.com/map
 ---

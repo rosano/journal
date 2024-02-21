@@ -5,7 +5,7 @@ months: 2022-02
 days: 2022-02-03
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-02-03T08:42:19.705-05:00
 link: https://marketingexamples.com/content/michelin-guide
 categories: ["article"]
 ---

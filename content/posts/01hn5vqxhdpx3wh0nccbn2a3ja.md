@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-27
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-27T11:23:45.964-05:00
 categories: ["article","project"]
 link: https://newpublic.org/interactive
 ---

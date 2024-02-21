@@ -5,7 +5,7 @@ months: 2023-09
 days: 2023-09-11
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-09-11T11:03:29.333-04:00
 categories: ["thought"]
 ---
 'Infectious agency' as a design goal so that features enable a feeling of so much possibility that everything else should have similar affordances.

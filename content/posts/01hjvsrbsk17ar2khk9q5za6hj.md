@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-29
 city: Guarulhos
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-29T19:05:15.442-03:00
 categories: ["talk"]
 link: https://www.instagram.com/reel/C1VlpbuMOLQ/
 ---

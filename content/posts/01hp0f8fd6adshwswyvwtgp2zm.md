@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-07
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-06T19:25:06.726-05:00
 tags: ["idea"]
 link: https://tomcritchlow.com/2023/02/10/riffs
 categories: ["article"]

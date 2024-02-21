@@ -5,7 +5,7 @@ months: 2023-09
 days: 2023-09-16
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-09-16T14:56:59.911-04:00
 categories: ["talk"]
 link: https://www.jordanoconnor.com/podcast/episode/b3086386/ai-and-desire
 ---

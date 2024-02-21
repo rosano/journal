@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-01
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-01T12:52:07.537-05:00
 link: https://sarahsteinlubrano.substack.com/p/be-kind-everyone-is-fighting-a-social
 categories: ["article"]
 ---

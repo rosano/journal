@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-31
 city: Guarulhos
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-30T21:00:00.000-03:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=CcnCYdZw72k
 ---

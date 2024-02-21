@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-04
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-04T17:12:18.232-05:00
 link: https://taylor.town/dollar-per-hour
 categories: ["article"]
 ---

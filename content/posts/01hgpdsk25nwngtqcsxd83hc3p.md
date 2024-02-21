@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-02
 city: Recife
 country: Brazil
-timezone: America/Recife
+localtime: 2023-12-02T20:28:36.933-03:00
 categories: ["talk"]
 link: https://www.instagram.com/reel/C0VCAAOO1OE/
 ---

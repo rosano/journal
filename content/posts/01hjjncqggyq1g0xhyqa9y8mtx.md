@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-26
 city: Brasilia
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-26T05:55:50.032-03:00
 tags: ["interop"]
 link: https://ruben.verborgh.org/blog/2022/12/30/lets-talk-about-pods/
 categories: ["article"]

@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-07
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-07T13:34:24.843-05:00
 categories: ["code"]
 link: https://stackoverflow.com/questions/677436/how-do-i-get-the-git-commit-count#4061706
 ---

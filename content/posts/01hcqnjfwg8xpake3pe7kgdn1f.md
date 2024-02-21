@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-14
 city: NYC
 country: United States
-timezone: America/New_York
+localtime: 2023-10-14T14:01:00.048-04:00
 tags: ["The Thinking Method"]
 categories: ["book"]
 ---

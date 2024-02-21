@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-19
 city: Brasilia
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-19T20:03:50.355-03:00
 link: https://ruben.verborgh.org/articles/redecentralizing-the-web/
 categories: ["article"]
 ---

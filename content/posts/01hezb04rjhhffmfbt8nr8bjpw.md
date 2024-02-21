@@ -5,7 +5,7 @@ months: 2023-11
 days: 2023-11-08
 city: Belo Horizonte
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-11-08T09:10:00.000-03:00
 link: https://www.instagram.com/p/Cd5n0guu8cI/
 categories: ["article"]
 ---

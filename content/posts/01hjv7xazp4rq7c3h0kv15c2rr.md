@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-29
 city: Guarulhos
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-29T13:53:24.086-03:00
 link: https://omarshehata.me/notebook/scenes_from_egypt/lines.html
 categories: ["article"]
 ---

@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-30
 city: Guarulhos
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-30T16:14:03.263-03:00
 categories: ["thought"]
 ---
 I see you, with errors in your ways, and I choose compassion.

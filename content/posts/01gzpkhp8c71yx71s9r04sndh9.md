@@ -5,7 +5,7 @@ months: 2023-05
 days: 2023-05-05
 city: Chiang Mai
 country: Thailand
-timezone: Asia/Bangkok
+localtime: 2023-05-06T01:42:18.507+07:00
 categories: ["thought"]
 ---
 Nobody watches or notices, but what quietly accumulates through practice and experience is credibility.

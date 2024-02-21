@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-14
 city: Brasilia
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-14T17:37:17.742-03:00
 link: https://blog.gardeviance.org/2023/12/how-to-organise-yourself-dangerous-path.html
 categories: ["article"]
 ---

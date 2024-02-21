@@ -5,7 +5,7 @@ months: 2022-01
 days: 2022-01-22
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-01-22T07:19:36.718-05:00
 categories: ["article","project"]
 ---
 [Whitepaper | Circles UBI | Handbook](https://handbook.joincircles.net/docs/developers/whitepaper/):

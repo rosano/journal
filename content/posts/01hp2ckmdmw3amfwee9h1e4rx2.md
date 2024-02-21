@@ -5,9 +5,9 @@ months: 2023-12
 days: 2023-12-31
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-12-31T10:58:24.854-05:00
 categories: ["thought"]
 ---
 does broadcasting happen because people make a copy of the post?
 
-does somethiing exist online forever because someone made a copy?
+does something exist online forever because someone made a copy?

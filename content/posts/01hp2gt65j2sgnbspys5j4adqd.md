@@ -5,7 +5,7 @@ months: 2023-07
 days: 2023-07-21
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-07-20T22:24:06.754-04:00
 categories: ["thought"]
 ---
 if my purpose is to feel good and help others to feel good, then…

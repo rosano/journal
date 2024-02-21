@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-09
 city: Ithaca
 country: United States
-timezone: America/New_York
+localtime: 2023-10-09T10:37:51.882-04:00
 link: https://chelseatroy.com/2021/09/14/the-art-of-documentation/
 categories: ["article"]
 ---

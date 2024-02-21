@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-16
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-16T18:50:43.062-05:00
 link: https://jzhao.xyz/posts/a-failure-resume
 categories: ["article"]
 ---

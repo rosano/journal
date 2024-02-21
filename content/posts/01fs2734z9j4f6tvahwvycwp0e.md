@@ -5,7 +5,7 @@ months: 2022-01
 days: 2022-01-09
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-01-09T17:35:11.000-05:00
 categories: ["thought"]
 ---
 We're accustomed to carry out activities with some kind of objective. Normalizing this makes it uncomfortable when nothing is being accomplished. Finishing something early and confronting stillness and silence invokes a reflex to fill space by checking your phone or notifications, distracting yourself for fear of a void. It feels wrong to simply breath, stretch, exercise, practice capoeira movements outside the context of a structured activity: "can't just sit and breathe for the rest of my life, gotta actually do something". Nothing is possible without breathing: mental and physical health is necessary for accomplishing anything, so it's strange that we're afraid to connect with it in an unstructured context.

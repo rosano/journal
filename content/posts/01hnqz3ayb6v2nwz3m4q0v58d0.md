@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-03
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-03T12:08:45.643-05:00
 categories: ["project"]
 tags: ["idea"]
 link: https://potato.cheap

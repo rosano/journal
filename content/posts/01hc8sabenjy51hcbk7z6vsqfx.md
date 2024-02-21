@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-08
 city: Chicago
 country: United States
-timezone: America/Chicago
+localtime: 2023-10-08T18:17:51.189-05:00
 tags: ["The Thinking Method","lingo"]
 categories: ["book"]
 ---

@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-11
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-11T07:29:42.282-05:00
 categories: ["code"]
 ---
 People don't like build systems but they love static-site generators.

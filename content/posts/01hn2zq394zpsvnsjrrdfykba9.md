@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-26
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-26T08:35:30.083-05:00
 tags: ["idea"]
 categories: ["thought"]
 ---

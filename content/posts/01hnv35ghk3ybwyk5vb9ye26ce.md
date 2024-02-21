@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-04
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-04T17:17:34.515-05:00
 tags: ["idea"]
 link: https://taylor.town/hire-me
 categories: ["article"]

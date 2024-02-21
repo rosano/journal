@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-12
 city: Ithaca
 country: United States
-timezone: America/New_York
+localtime: 2023-10-11T23:31:51.236-04:00
 categories: ["thought"]
 ---
 If I can sleep comfortably on a yoga mat, I have significantly expanded the 'surface area' of what's possible.

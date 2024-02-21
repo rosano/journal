@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-04
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-04T00:14:15.394-05:00
 tags: ["idea"]
 link: https://justinjackson.ca/welcome-email
 categories: ["article"]

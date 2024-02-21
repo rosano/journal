@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-06
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-06T12:48:58.911-05:00
 tags: ["idea"]
 link: https://en.m.wikipedia.org/wiki/Grapefruit_(book)
 categories: ["article"]

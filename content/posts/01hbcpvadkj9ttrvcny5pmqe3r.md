@@ -5,7 +5,7 @@ months: 2023-09
 days: 2023-09-28
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-09-27T21:35:57.362-04:00
 categories: ["thought"]
 ---
 My way of playing includes how I deal with the unexpected: musically, and physiologically.

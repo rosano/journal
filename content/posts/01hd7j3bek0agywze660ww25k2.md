@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-20
 city: Denver
 country: United States
-timezone: America/Denver
+localtime: 2023-10-20T16:08:09.170-06:00
 tags: ["The Thinking Method"]
 categories: ["book"]
 ---

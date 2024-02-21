@@ -5,7 +5,7 @@ months: 2023-05
 days: 2023-05-25
 city: Frankfurt
 country: Germany
-timezone: Europe/Berlin
+localtime: 2023-05-25T17:45:43.752+02:00
 categories: ["thought"]
 ---
 Earning $100 a day for 200 days in the year is $20K.

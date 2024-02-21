@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-23
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-23T13:27:42.265-05:00
 categories: ["code"]
 ---
 > a "protocol" sync engine, with multiple storage backends, and hooks to tie into "storage providers", would be an amazing public good

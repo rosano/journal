@@ -5,7 +5,7 @@ months: 2023-11
 days: 2023-11-05
 city: Belo Horizonte
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-11-05T20:11:08.305-03:00
 categories: ["talk"]
 link: https://youtu.be/FdI_ayaAXDE
 ---

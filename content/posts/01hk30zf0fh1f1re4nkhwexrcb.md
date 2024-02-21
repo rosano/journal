@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-01
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-01T12:26:09.166-05:00
 link: https://chrishedges.substack.com/p/israels-genocide-betrays-the-holocaust
 categories: ["article"]
 ---

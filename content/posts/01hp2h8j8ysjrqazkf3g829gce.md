@@ -5,7 +5,7 @@ months: 2023-11
 days: 2023-11-04
 city: Belo Horizonte
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-11-04T13:24:03.169-03:00
 categories: ["thought"]
 ---
 when is it valuable to post about something online if you're not the primary source?

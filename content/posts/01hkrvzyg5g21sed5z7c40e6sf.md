@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-10
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-10T00:02:19.653-05:00
 categories: ["thought"]
 ---
 Reading is more about picking out ideas than passing over each word.

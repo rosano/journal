@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-21
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-20T23:34:37.246-05:00
 categories: ["thought"]
 ---
 The difference between a blog and journal is the title field.

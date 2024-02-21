@@ -5,7 +5,7 @@ months: 2022-02
 days: 2022-02-15
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-02-14T21:30:00.000-05:00
 categories: ["thought"]
 ---
 > [Don't ask what's their favourite X or most important Y.]

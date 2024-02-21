@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-29
 city: Guarulhos
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-29T11:21:41.302-03:00
 link: https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user
 categories: ["article"]
 ---

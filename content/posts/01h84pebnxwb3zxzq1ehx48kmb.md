@@ -5,7 +5,7 @@ months: 2023-08
 days: 2023-08-18
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-08-18T12:07:51.741-04:00
 tags: ["lingo"]
 categories: ["talk"]
 link: https://soundcloud.com/languagetransfer/introduction-to-arabic-1

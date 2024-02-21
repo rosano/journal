@@ -5,7 +5,7 @@ months: 2022-01
 days: 2022-01-13
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-01-13T09:48:17.826-05:00
 categories: ["thought"]
 ---
 Did anyone tell you how awesome you are for doing what you're doing right now?

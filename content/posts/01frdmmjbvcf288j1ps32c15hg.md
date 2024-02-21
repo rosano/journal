@@ -5,7 +5,7 @@ months: 2022-01
 days: 2022-01-02
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-01-02T09:56:00.378-05:00
 link: https://community.resonate.is/t/notes-app-musings-proposals-for-resonate-community-to-consider-from-a-label-perspective/1210/11
 categories: ["article"]
 ---

@@ -5,7 +5,7 @@ months: 2023-09
 days: 2023-09-25
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-09-24T22:50:54.308-04:00
 categories: ["thought"]
 ---
 To rather be helpful than right.

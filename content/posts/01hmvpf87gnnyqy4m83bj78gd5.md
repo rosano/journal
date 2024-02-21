@@ -5,7 +5,7 @@ months: 2023-09
 days: 2023-09-20
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-09-20T18:15:00.000-04:00
 tags: ["lingo"]
 categories: ["thought"]
 ---

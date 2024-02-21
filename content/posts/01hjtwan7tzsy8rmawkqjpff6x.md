@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-29
 city: Guarulhos
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-29T10:30:57.657-03:00
 link: https://pluralistic.net/2023/01/21/potemkin-ai/
 categories: ["article"]
 ---

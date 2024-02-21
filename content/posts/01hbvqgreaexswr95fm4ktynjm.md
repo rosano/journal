@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-03
 city: Minneapolis
 country: United States
-timezone: America/Chicago
+localtime: 2023-10-03T16:36:16.330-05:00
 categories: ["talk"]
 link: https://shows.acast.com/theleader/episodes/leader-weekends-how-to-be-a-ceo-tumblrs-matt-mullenweg
 ---

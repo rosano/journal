@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-01
 city: Recife
 country: Brazil
-timezone: America/Recife
+localtime: 2023-11-30T22:39:57.230-03:00
 tags: ["lingo"]
 link: https://mastodon.social/@jensclasen/111499280856433404
 categories: ["article"]

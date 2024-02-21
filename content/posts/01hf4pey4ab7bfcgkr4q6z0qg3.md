@@ -5,7 +5,7 @@ months: 2023-11
 days: 2023-11-13
 city: Belo Horizonte
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-11-13T12:58:03.402-03:00
 tags: ["food"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/CzkFbTfovKn/

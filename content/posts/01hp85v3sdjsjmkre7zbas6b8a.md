@@ -5,7 +5,7 @@ months: 2024-02
 days: 2024-02-10
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-02-09T19:14:27.117-05:00
 categories: ["project","code"]
 tags: ["idea","contribute"]
 link: https://github.com/jmooring/hugo-testing

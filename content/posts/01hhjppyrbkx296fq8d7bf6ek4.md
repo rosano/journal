@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-13
 city: Brasilia
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-13T18:44:00.000-03:00
 link: https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier
 categories: ["article"]
 ---

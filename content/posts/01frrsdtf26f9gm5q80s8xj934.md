@@ -5,7 +5,7 @@ months: 2022-01
 days: 2022-01-06
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-01-06T17:51:20.930-05:00
 categories: ["talk"]
 link: https://app.gumroad.com/d/4babf55e20fcea3369b5b81773df11a5
 ---

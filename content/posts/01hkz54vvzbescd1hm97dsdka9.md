@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-12
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-12T10:37:44.575-05:00
 link: https://marketingexamples.com/newsletter
 categories: ["article"]
 ---

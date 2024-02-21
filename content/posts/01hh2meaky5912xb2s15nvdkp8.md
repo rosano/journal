@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-07
 city: Brasilia
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-07T14:15:41.053-03:00
 link: https://www.cnet.com/tech/mobile/features/how-close-is-that-photo-to-the-truth-what-to-know-in-the-age-of-ai/
 categories: ["article"]
 ---

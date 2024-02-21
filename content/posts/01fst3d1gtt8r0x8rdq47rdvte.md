@@ -5,7 +5,7 @@ months: 2022-01
 days: 2022-01-19
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2022-01-19T16:20:37.402-05:00
 categories: ["thought"]
 ---
 Realizer.

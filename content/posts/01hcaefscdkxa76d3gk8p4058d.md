@@ -5,7 +5,7 @@ months: 2023-10
 days: 2023-10-09
 city: Ithaca
 country: United States
-timezone: America/New_York
+localtime: 2023-10-09T10:47:03.821-04:00
 link: https://chelseatroy.com/2021/09/22/critique-the-internet-and-you/
 categories: ["article"]
 ---

@@ -5,7 +5,7 @@ months: 2023-07
 days: 2023-07-02
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2023-07-02T08:28:40.284-04:00
 categories: ["talk"]
 link: https://www.indiehackers.com/podcast/043-pieter-levels-of-nomad-list
 ---

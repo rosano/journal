@@ -5,7 +5,7 @@ months: 2023-12
 days: 2023-12-15
 city: Brasilia
 country: Brazil
-timezone: America/Sao_Paulo
+localtime: 2023-12-15T10:39:32.583-03:00
 link: https://ruben.verborgh.org/blog/2023/11/10/no-more-raw-data/
 categories: ["article"]
 ---

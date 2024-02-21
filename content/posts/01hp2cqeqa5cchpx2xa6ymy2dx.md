@@ -5,7 +5,7 @@ months: 2024-01
 days: 2024-01-16
 city: Toronto
 country: Canada
-timezone: America/Toronto
+localtime: 2024-01-16T10:08:00.413-05:00
 categories: ["thought"]
 ---
 respect for construction over destruction
