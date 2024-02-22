@@ -43,13 +43,11 @@
 		{{ end }}
 	</small>
 
-{{ with .Params.categories }}
+{{ with .GetTerms "categories" }}
 	{{ if $isRSS }}<small>type: {{- end -}}
 	<span class="types">
 		{{- range . -}}
-			{{- with $.Site.GetPage (printf "/categories/%s" ( . | urlize)) -}}
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			{{- end -}}
+			<a href="{{ .Permalink }}">{{ .Title }}</a>
 		{{- end -}}
 	</span>
 	{{- if $isRSS }}</small>{{end}}
