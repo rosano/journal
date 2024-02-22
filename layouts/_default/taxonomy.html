@@ -1,13 +1,6 @@
 {{ define "main" }}
 
 <h1>{{- partial "page-title" . -}}</h1>
-{{ range .Data.Pages }}
-<div class="post-short-list">
-	<h3>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
-	</h3>
-</div>
-{{ end }}
 
 {{ if ne .Ancestors.Len 1 }}
 
