@@ -1,11 +1,10 @@
 ---
-date: 2023-11-21T18:52:38.361Z
+date: 2023-11-21T15:52:38.361-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-21
 place: Recife
 country: Brazil
-localtime: 2023-11-21T15:52:38.361-03:00
 link: https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle
 categories: ["article"]
 ---

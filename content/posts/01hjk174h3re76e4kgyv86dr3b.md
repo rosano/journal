@@ -1,11 +1,10 @@
 ---
-date: 2023-12-26T12:22:29.666Z
+date: 2023-12-26T09:22:29.666-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-26
 place: Brasilia
 country: Brazil
-localtime: 2023-12-26T09:22:29.666-03:00
 link: https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning
 categories: ["article"]
 ---

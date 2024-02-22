@@ -1,11 +1,10 @@
 ---
-date: 2024-02-07T01:15:43.786Z
+date: 2024-02-06T20:15:43.786-05:00
 years: 2024
 months: 2024-02
-days: 2024-02-07
+days: 2024-02-06
 place: Toronto
 country: Canada
-localtime: 2024-02-06T20:15:43.786-05:00
 tags: ["idea"]
 link: https://radreads.co/mutually-beneficial-intro
 categories: ["article"]

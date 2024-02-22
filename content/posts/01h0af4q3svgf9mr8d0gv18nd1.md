@@ -1,11 +1,10 @@
 ---
-date: 2023-05-13T11:50:07.737Z
+date: 2023-05-13T18:50:07.737+07:00
 years: 2023
 months: 2023-05
 days: 2023-05-13
 place: Siem Reap
 country: Cambodia
-localtime: 2023-05-13T18:50:07.737+07:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=_JKFv7eVss8
 ---

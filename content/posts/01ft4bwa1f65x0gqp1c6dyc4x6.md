@@ -1,11 +1,10 @@
 ---
-date: 2022-01-23T21:01:10.575Z
+date: 2022-01-23T16:01:10.575-05:00
 years: 2022
 months: 2022-01
 days: 2022-01-23
 place: Toronto
 country: Canada
-localtime: 2022-01-23T16:01:10.575-05:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=YQ_xWvX1n9g
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2023-10-11T13:26:00.000Z
+date: 2023-10-11T09:26:00.000-04:00
 years: 2023
 months: 2023-10
 days: 2023-10-11
 place: Ithaca
 country: United States
-localtime: 2023-10-11T09:26:00.000-04:00
 categories: ["code"]
 link: https://forum.cloudron.io/topic/8554/cannot-update-due-to-one-tiny-app-filling-up-20gb-drive/19
 ---

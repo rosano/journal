@@ -1,11 +1,10 @@
 ---
-date: 2024-02-18T03:25:39.351Z
+date: 2024-02-17T22:25:39.351-05:00
 years: 2024
 months: 2024-02
-days: 2024-02-18
+days: 2024-02-17
 place: Toronto
 country: Canada
-localtime: 2024-02-17T22:25:39.351-05:00
 categories: ["code"]
 tags: ["notes","web apps"]
 ---

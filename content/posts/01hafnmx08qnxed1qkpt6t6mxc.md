@@ -1,11 +1,10 @@
 ---
-date: 2023-09-16T18:56:59.911Z
+date: 2023-09-16T14:56:59.911-04:00
 years: 2023
 months: 2023-09
 days: 2023-09-16
 place: Toronto
 country: Canada
-localtime: 2023-09-16T14:56:59.911-04:00
 categories: ["talk"]
 link: https://www.jordanoconnor.com/podcast/episode/b3086386/ai-and-desire
 ---

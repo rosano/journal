@@ -1,11 +1,10 @@
 ---
-date: 2023-12-13T22:05:35.416Z
+date: 2023-12-13T19:05:35.416-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-13
 place: Brasilia
 country: Brazil
-localtime: 2023-12-13T19:05:35.416-03:00
 categories: ["talk"]
 link: https://www.devtools.fm/episode/78
 ---

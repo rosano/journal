@@ -1,11 +1,10 @@
 ---
-date: 2023-08-12T03:44:45.670Z
+date: 2023-08-11T23:44:45.670-04:00
 years: 2023
 months: 2023-08
-days: 2023-08-12
+days: 2023-08-11
 place: Toronto
 country: Canada
-localtime: 2023-08-11T23:44:45.670-04:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=bv-jvrfrRJk
 ---

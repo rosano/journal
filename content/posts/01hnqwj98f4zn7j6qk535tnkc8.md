@@ -1,11 +1,10 @@
 ---
-date: 2024-02-03T16:24:29.711Z
+date: 2024-02-03T11:24:29.711-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-03
 place: Toronto
 country: Canada
-localtime: 2024-02-03T11:24:29.711-05:00
 categories: ["article","project"]
 link: https://alexanderobenauer.com/ollos/
 ---

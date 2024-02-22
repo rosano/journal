@@ -1,11 +1,10 @@
 ---
-date: 2024-01-31T01:31:59.322Z
+date: 2024-01-30T20:31:59.322-05:00
 years: 2024
 months: 2024-01
-days: 2024-01-31
+days: 2024-01-30
 place: Toronto
 country: Canada
-localtime: 2024-01-30T20:31:59.322-05:00
 categories: ["project"]
 link: https://apps.apple.com/app/id1096545820
 ---

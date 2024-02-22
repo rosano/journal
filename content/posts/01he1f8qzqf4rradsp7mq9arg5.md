@@ -1,11 +1,10 @@
 ---
-date: 2023-10-29T06:04:00.000Z
+date: 2023-10-28T23:04:00.000-07:00
 years: 2023
 months: 2023-10
-days: 2023-10-29
+days: 2023-10-28
 place: Los Angeles
 country: United States
-localtime: 2023-10-28T23:04:00.000-07:00
 tags: ["Why are we yelling?"]
 categories: ["book"]
 ---

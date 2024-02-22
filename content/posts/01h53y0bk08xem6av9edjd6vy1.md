@@ -1,11 +1,10 @@
 ---
-date: 2023-07-12T02:13:41.600Z
+date: 2023-07-11T22:13:41.600-04:00
 years: 2023
 months: 2023-07
-days: 2023-07-12
+days: 2023-07-11
 place: Toronto
 country: Canada
-localtime: 2023-07-11T22:13:41.600-04:00
 tags: ["How to think more about sex"]
 categories: ["book"]
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2024-02-03T00:15:33.564Z
+date: 2024-02-02T19:15:33.564-05:00
 years: 2024
 months: 2024-02
-days: 2024-02-03
+days: 2024-02-02
 place: Toronto
 country: Canada
-localtime: 2024-02-02T19:15:33.564-05:00
 categories: ["sound"]
 link: https://guedraguedra.bandcamp.com/track/juke-lockstep
 ---

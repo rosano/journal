@@ -1,11 +1,10 @@
 ---
-date: 2022-01-22T12:19:36.718Z
+date: 2022-01-22T07:19:36.718-05:00
 years: 2022
 months: 2022-01
 days: 2022-01-22
 place: Toronto
 country: Canada
-localtime: 2022-01-22T07:19:36.718-05:00
 categories: ["article","project"]
 ---
 [Whitepaper | Circles UBI | Handbook](https://handbook.joincircles.net/docs/developers/whitepaper/):

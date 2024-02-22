@@ -1,11 +1,10 @@
 ---
-date: 2024-02-14T14:52:46.105Z
+date: 2024-02-14T09:52:46.105-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-14
 place: Toronto
 country: Canada
-localtime: 2024-02-14T09:52:46.105-05:00
 tags: ["privacy"]
 categories: ["thought"]
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2024-01-24T21:48:50.812Z
+date: 2024-01-24T16:48:50.812-05:00
 years: 2024
 months: 2024-01
 days: 2024-01-24
 place: Toronto
 country: Canada
-localtime: 2024-01-24T16:48:50.812-05:00
 tags: ["shortcut"]
 link: https://apple.stackexchange.com/questions/12005/how-do-i-play-a-youtube-video-in-the-background-on-my-ipad#12010
 categories: ["article"]

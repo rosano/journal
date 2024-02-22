@@ -1,11 +1,10 @@
 ---
-date: 2024-01-28T02:16:57.473Z
+date: 2024-01-27T21:16:57.473-05:00
 years: 2024
 months: 2024-01
-days: 2024-01-28
+days: 2024-01-27
 place: Toronto
 country: Canada
-localtime: 2024-01-27T21:16:57.473-05:00
 categories: ["article","project"]
 link: https://jon.bo/posts/new-tab/
 ---

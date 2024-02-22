@@ -1,11 +1,10 @@
 ---
-date: 2023-12-23T22:08:26.880Z
+date: 2023-12-23T19:08:26.880-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-23
 place: Brasilia
 country: Brazil
-localtime: 2023-12-23T19:08:26.880-03:00
 categories: ["project"]
 link: https://github.com/nayafia/lemonade-stand
 ---

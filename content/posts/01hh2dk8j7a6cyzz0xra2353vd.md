@@ -1,11 +1,10 @@
 ---
-date: 2023-12-07T15:16:02.759Z
+date: 2023-12-07T12:16:02.759-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-07
 place: Brasilia
 country: Brazil
-localtime: 2023-12-07T12:16:02.759-03:00
 link: https://marijnhaverbeke.nl/blog/sustainable-maintenance.html
 categories: ["article"]
 ---

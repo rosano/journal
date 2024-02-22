@@ -1,11 +1,10 @@
 ---
-date: 2024-02-09T14:26:00.020Z
+date: 2024-02-09T09:26:00.020-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-09
 place: Toronto
 country: Canada
-localtime: 2024-02-09T09:26:00.020-05:00
 tags: ["idea"]
 link: https://taylor.town/frugly
 categories: ["article"]

@@ -1,11 +1,10 @@
 ---
-date: 2023-12-24T20:33:32.006Z
+date: 2023-12-24T17:33:32.006-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-24
 place: Brasilia
 country: Brazil
-localtime: 2023-12-24T17:33:32.006-03:00
 categories: ["talk"]
 link: https://www.instagram.com/reel/CyJ-_coMTrV/
 ---

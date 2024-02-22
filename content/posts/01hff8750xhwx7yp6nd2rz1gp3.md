@@ -1,11 +1,10 @@
 ---
-date: 2023-11-17T18:20:46.998Z
+date: 2023-11-17T15:20:46.998-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-17
 place: Belo Horizonte
 country: Brazil
-localtime: 2023-11-17T15:20:46.998-03:00
 categories: ["talk"]
 link: https://www.instagram.com/reel/CzuXp9Uuhn8/
 ---

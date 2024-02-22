@@ -1,11 +1,10 @@
 ---
-date: 2022-07-14T20:15:28.275Z
+date: 2022-07-14T22:15:28.275+02:00
 years: 2022
 months: 2022-07
 days: 2022-07-14
 place: Wurzen
 country: Germany
-localtime: 2022-07-14T22:15:28.275+02:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=FEmw7k1MPIA
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2023-05-04T08:09:21.147Z
+date: 2023-05-04T15:09:21.147+07:00
 years: 2023
 months: 2023-05
 days: 2023-05-04
 place: Chiang Mai
 country: Thailand
-localtime: 2023-05-04T15:09:21.147+07:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=BdqhPuPKhSc
 ---

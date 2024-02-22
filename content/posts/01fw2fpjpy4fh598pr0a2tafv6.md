@@ -1,11 +1,10 @@
 ---
-date: 2022-02-17T00:00:51.934Z
+date: 2022-02-16T19:00:51.934-05:00
 years: 2022
 months: 2022-02
-days: 2022-02-17
+days: 2022-02-16
 place: Toronto
 country: Canada
-localtime: 2022-02-16T19:00:51.934-05:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=zYldGDwAh_8
 ---

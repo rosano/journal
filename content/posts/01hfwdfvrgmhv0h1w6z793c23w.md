@@ -1,11 +1,10 @@
 ---
-date: 2023-11-22T21:03:02.928Z
+date: 2023-11-22T18:03:02.928-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-22
 place: Recife
 country: Brazil
-localtime: 2023-11-22T18:03:02.928-03:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=V74AxCqOTvg
 ---

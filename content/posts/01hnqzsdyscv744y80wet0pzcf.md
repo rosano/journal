@@ -1,11 +1,10 @@
 ---
-date: 2024-02-03T17:20:49.625Z
+date: 2024-02-03T12:20:49.625-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-03
 place: Toronto
 country: Canada
-localtime: 2024-02-03T12:20:49.625-05:00
 categories: ["thought"]
 tags: ["idea"]
 ---

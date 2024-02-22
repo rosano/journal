@@ -1,11 +1,10 @@
 ---
-date: 2023-12-04T21:48:14.946Z
+date: 2023-12-04T18:48:14.946-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-04
 place: Recife
 country: Brazil
-localtime: 2023-12-04T18:48:14.946-03:00
 categories: ["move"]
 link: https://m.youtube.com/watch?v=Dmc4xeILz9A
 ---

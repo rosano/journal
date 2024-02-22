@@ -1,11 +1,10 @@
 ---
-date: 2023-11-29T20:10:00.000Z
+date: 2023-11-29T17:10:00.000-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-29
 place: Recife
 country: Brazil
-localtime: 2023-11-29T17:10:00.000-03:00
 tags: ["interop"]
 link: https://github.com/solid/data-interoperability-panel/blob/main/problems-and-goals.md
 categories: ["article"]

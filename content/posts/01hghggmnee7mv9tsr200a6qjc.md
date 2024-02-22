@@ -1,11 +1,10 @@
 ---
-date: 2023-12-01T01:39:57.230Z
+date: 2023-11-30T22:39:57.230-03:00
 years: 2023
-months: 2023-12
-days: 2023-12-01
+months: 2023-11
+days: 2023-11-30
 place: Recife
 country: Brazil
-localtime: 2023-11-30T22:39:57.230-03:00
 tags: ["lingo"]
 link: https://mastodon.social/@jensclasen/111499280856433404
 categories: ["article"]

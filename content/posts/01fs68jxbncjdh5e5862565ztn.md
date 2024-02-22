@@ -1,11 +1,10 @@
 ---
-date: 2022-01-12T04:26:23.987Z
+date: 2022-01-11T23:26:23.987-05:00
 years: 2022
 months: 2022-01
-days: 2022-01-12
+days: 2022-01-11
 place: Toronto
 country: Canada
-localtime: 2022-01-11T23:26:23.987-05:00
 categories: ["book"]
 tags: ["Tantra: The Supreme Understanding"]
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2024-01-01T17:26:09.166Z
+date: 2024-01-01T12:26:09.166-05:00
 years: 2024
 months: 2024-01
 days: 2024-01-01
 place: Toronto
 country: Canada
-localtime: 2024-01-01T12:26:09.166-05:00
 link: https://chrishedges.substack.com/p/israels-genocide-betrays-the-holocaust
 categories: ["article"]
 ---

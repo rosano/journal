@@ -1,11 +1,10 @@
 ---
-date: 2024-02-14T14:45:56.285Z
+date: 2024-02-14T09:45:56.285-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-14
 place: Toronto
 country: Canada
-localtime: 2024-02-14T09:45:56.285-05:00
 tags: ["love","humans"]
 link: https://sarahsteinlubrano.substack.com/p/the-poor-cant-afford-the-benefits
 categories: ["article"]

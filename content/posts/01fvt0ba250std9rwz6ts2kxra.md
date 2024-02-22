@@ -1,11 +1,10 @@
 ---
-date: 2022-02-13T16:58:38.533Z
+date: 2022-02-13T11:58:38.533-05:00
 years: 2022
 months: 2022-02
 days: 2022-02-13
 place: Toronto
 country: Canada
-localtime: 2022-02-13T11:58:38.533-05:00
 tags: ["music"]
 link: https://www.newyorker.com/magazine/2022/02/14/how-caetano-veloso-revolutionized-brazils-sound-and-spirit
 categories: ["article"]

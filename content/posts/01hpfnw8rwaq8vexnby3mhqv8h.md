@@ -1,11 +1,10 @@
 ---
-date: 2024-02-12T22:09:23.228Z
+date: 2024-02-12T17:09:23.228-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-12
 place: Toronto
 country: Canada
-localtime: 2024-02-12T17:09:23.228-05:00
 categories: ["code"]
 link: https://taylor.town/-10x
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2023-05-30T18:16:34.343Z
+date: 2023-05-30T20:16:34.343+02:00
 years: 2023
 months: 2023-05
 days: 2023-05-30
 place: Freiburg
 country: Germany
-localtime: 2023-05-30T20:16:34.343+02:00
 categories: ["talk"]
 link: https://podcasters.spotify.com/pod/show/iwillteachyoualanguage/episodes/412---How-can-you-read-when-youre-still-a-beginner-e14og0h
 ---

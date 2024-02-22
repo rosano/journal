@@ -1,11 +1,10 @@
 ---
-date: 2024-02-05T03:58:07.639Z
+date: 2024-02-04T22:58:07.639-05:00
 years: 2024
 months: 2024-02
-days: 2024-02-05
+days: 2024-02-04
 place: Toronto
 country: Canada
-localtime: 2024-02-04T22:58:07.639-05:00
 categories: ["talk"]
 tags: ["lingo"]
 link: https://www.youtube.com/watch?v=HUO7Hggimqs

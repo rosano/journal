@@ -1,11 +1,10 @@
 ---
-date: 2023-11-11T00:59:55.040Z
+date: 2023-11-10T21:59:55.040-03:00
 years: 2023
 months: 2023-11
-days: 2023-11-11
+days: 2023-11-10
 place: Belo Horizonte
 country: Brazil
-localtime: 2023-11-10T21:59:55.040-03:00
 tags: ["food"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/Czeq5kNrMEH/

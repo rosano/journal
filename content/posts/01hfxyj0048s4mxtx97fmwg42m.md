@@ -1,11 +1,10 @@
 ---
-date: 2023-11-23T11:20:33.028Z
+date: 2023-11-23T08:20:33.028-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-23
 place: Recife
 country: Brazil
-localtime: 2023-11-23T08:20:33.028-03:00
 tags: ["hack","food"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/Cz62mzuvf3x/

@@ -1,11 +1,10 @@
 ---
-date: 2023-12-29T16:53:24.086Z
+date: 2023-12-29T13:53:24.086-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-29
 place: Guarulhos
 country: Brazil
-localtime: 2023-12-29T13:53:24.086-03:00
 link: https://omarshehata.me/notebook/scenes_from_egypt/lines.html
 categories: ["article"]
 ---

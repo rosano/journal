@@ -1,11 +1,10 @@
 ---
-date: 2024-02-17T22:38:04.746Z
+date: 2024-02-17T17:38:04.746-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-17
 place: Toronto
 country: Canada
-localtime: 2024-02-17T17:38:04.746-05:00
 tags: ["contribute"]
 categories: ["thought"]
 ---

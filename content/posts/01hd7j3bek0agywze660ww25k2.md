@@ -1,11 +1,10 @@
 ---
-date: 2023-10-20T22:08:09.170Z
+date: 2023-10-20T16:08:09.170-06:00
 years: 2023
 months: 2023-10
 days: 2023-10-20
 place: Denver
 country: United States
-localtime: 2023-10-20T16:08:09.170-06:00
 tags: ["The Thinking Method"]
 categories: ["book"]
 ---

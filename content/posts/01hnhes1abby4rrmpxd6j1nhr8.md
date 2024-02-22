@@ -1,11 +1,10 @@
 ---
-date: 2024-02-01T04:28:04.299Z
+date: 2024-01-31T23:28:04.299-05:00
 years: 2024
-months: 2024-02
-days: 2024-02-01
+months: 2024-01
+days: 2024-01-31
 place: Toronto
 country: Canada
-localtime: 2024-01-31T23:28:04.299-05:00
 tags: ["An Everlasting Meal","food"]
 categories: ["book"]
 ---

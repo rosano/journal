@@ -1,11 +1,10 @@
 ---
-date: 2024-02-01T01:31:09.111Z
+date: 2024-01-31T20:31:09.111-05:00
 years: 2024
-months: 2024-02
-days: 2024-02-01
+months: 2024-01
+days: 2024-01-31
 place: Toronto
 country: Canada
-localtime: 2024-01-31T20:31:09.111-05:00
 categories: ["talk"]
 link: https://www.instagram.com/reel/C2yJOv9MqeS/
 ---

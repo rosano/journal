@@ -1,11 +1,10 @@
 ---
-date: 2023-12-02T23:28:36.933Z
+date: 2023-12-02T20:28:36.933-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-02
 place: Recife
 country: Brazil
-localtime: 2023-12-02T20:28:36.933-03:00
 categories: ["talk"]
 link: https://www.instagram.com/reel/C0VCAAOO1OE/
 ---

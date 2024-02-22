@@ -1,11 +1,10 @@
 ---
-date: 2023-12-12T22:21:28.230Z
+date: 2023-12-12T19:21:28.230-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-12
 place: Brasilia
 country: Brazil
-localtime: 2023-12-12T19:21:28.230-03:00
 categories: ["talk"]
 link: https://www.jordanoconnor.com/podcast/episode/a81e3f92/the-linking-of-opposites
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2023-09-11T12:00:00.000Z
+date: 2023-09-11T08:00:00.000-04:00
 years: 2023
 months: 2023-09
 days: 2023-09-11
 place: Toronto
 country: Canada
-localtime: 2023-09-11T08:00:00.000-04:00
 categories: ["code"]
 ---
 Tried to understand why my Kobo doesn't mount to the computer when connecting via cable.

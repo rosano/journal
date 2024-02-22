@@ -1,11 +1,10 @@
 ---
-date: 2024-01-27T16:23:45.964Z
+date: 2024-01-27T11:23:45.964-05:00
 years: 2024
 months: 2024-01
 days: 2024-01-27
 place: Toronto
 country: Canada
-localtime: 2024-01-27T11:23:45.964-05:00
 categories: ["article","project"]
 link: https://newpublic.org/interactive
 ---

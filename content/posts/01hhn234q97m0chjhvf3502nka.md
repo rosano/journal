@@ -1,11 +1,10 @@
 ---
-date: 2023-12-14T21:00:34.409Z
+date: 2023-12-14T18:00:34.409-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-14
 place: Brasilia
 country: Brazil
-localtime: 2023-12-14T18:00:34.409-03:00
 tags: ["interop"]
 link: https://sive.rs/mhost
 categories: ["article"]

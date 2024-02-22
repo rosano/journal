@@ -1,11 +1,10 @@
 ---
-date: 2023-07-02T12:28:40.284Z
+date: 2023-07-02T08:28:40.284-04:00
 years: 2023
 months: 2023-07
 days: 2023-07-02
 place: Toronto
 country: Canada
-localtime: 2023-07-02T08:28:40.284-04:00
 categories: ["talk"]
 link: https://www.indiehackers.com/podcast/043-pieter-levels-of-nomad-list
 ---

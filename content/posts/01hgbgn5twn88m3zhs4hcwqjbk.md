@@ -1,11 +1,10 @@
 ---
-date: 2023-11-28T17:46:59.292Z
+date: 2023-11-28T14:46:59.292-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-28
 place: Recife
 country: Brazil
-localtime: 2023-11-28T14:46:59.292-03:00
 tags: ["lingo"]
 link: https://en.wiktionary.org/wiki/moleza
 categories: ["article"]

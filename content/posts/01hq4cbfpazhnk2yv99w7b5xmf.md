@@ -1,11 +1,10 @@
 ---
-date: 2024-02-20T23:06:59.146Z
+date: 2024-02-20T18:06:59.146-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-20
 place: Toronto
 country: Canada
-localtime: 2024-02-20T18:06:59.146-05:00
 categories: ["sound"]
 link: https://adrianholovaty.bandcamp.com/album/melodic-guitar-music
 ---

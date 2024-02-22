@@ -1,11 +1,10 @@
 ---
-date: 2023-11-21T19:49:00.000Z
+date: 2023-11-21T16:49:00.000-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-21
 place: Recife
 country: Brazil
-localtime: 2023-11-21T16:49:00.000-03:00
 tags: ["interface"]
 categories: ["project"]
 link: https://youtu.be/mGnez4lA9f4

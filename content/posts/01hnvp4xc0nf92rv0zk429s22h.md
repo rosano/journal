@@ -1,11 +1,10 @@
 ---
-date: 2024-02-05T03:49:17.823Z
+date: 2024-02-04T22:49:17.823-05:00
 years: 2024
 months: 2024-02
-days: 2024-02-05
+days: 2024-02-04
 place: Toronto
 country: Canada
-localtime: 2024-02-04T22:49:17.823-05:00
 categories: ["talk"]
 tags: ["music"]
 link: https://www.youtube.com/watch?v=gpjUu2g8fOY

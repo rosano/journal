@@ -1,11 +1,10 @@
 ---
-date: 2024-01-30T10:16:16.394Z
+date: 2024-01-30T05:16:16.394-05:00
 years: 2024
 months: 2024-01
 days: 2024-01-30
 place: Toronto
 country: Canada
-localtime: 2024-01-30T05:16:16.394-05:00
 link: https://rachsmith.com/i-turned-off-analytics/
 categories: ["article"]
 ---

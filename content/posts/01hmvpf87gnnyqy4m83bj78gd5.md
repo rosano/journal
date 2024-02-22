@@ -1,11 +1,10 @@
 ---
-date: 2023-09-20T22:15:00.000Z
+date: 2023-09-20T18:15:00.000-04:00
 years: 2023
 months: 2023-09
 days: 2023-09-20
 place: Toronto
 country: Canada
-localtime: 2023-09-20T18:15:00.000-04:00
 tags: ["lingo"]
 categories: ["thought"]
 ---

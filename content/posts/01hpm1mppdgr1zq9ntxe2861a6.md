@@ -1,11 +1,10 @@
 ---
-date: 2024-02-14T14:51:55.980Z
+date: 2024-02-14T09:51:55.980-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-14
 place: Toronto
 country: Canada
-localtime: 2024-02-14T09:51:55.980-05:00
 tags: ["humans","society"]
 categories: ["thought"]
 ---

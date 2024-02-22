@@ -1,11 +1,10 @@
 ---
-date: 2022-01-16T20:12:18.613Z
+date: 2022-01-16T15:12:18.613-05:00
 years: 2022
 months: 2022-01
 days: 2022-01-16
 place: Toronto
 country: Canada
-localtime: 2022-01-16T15:12:18.613-05:00
 categories: ["talk"]
 link: https://interintellect.com/salon/why-do-we-scroll/
 ---

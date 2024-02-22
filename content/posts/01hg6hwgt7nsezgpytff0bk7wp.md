@@ -1,11 +1,10 @@
 ---
-date: 2023-11-08T16:45:46.000Z
+date: 2023-11-08T13:45:46.000-03:00
 years: 2023
 months: 2023-11
 days: 2023-11-08
 place: Belo Horizonte
 country: Brazil
-localtime: 2023-11-08T13:45:46.000-03:00
 categories: ["project"]
 link: https://ffmpeg.app
 ---

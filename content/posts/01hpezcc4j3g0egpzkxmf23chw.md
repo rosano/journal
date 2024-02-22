@@ -1,11 +1,10 @@
 ---
-date: 2024-02-12T15:36:13.713Z
+date: 2024-02-12T10:36:13.713-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-12
 place: Toronto
 country: Canada
-localtime: 2024-02-12T10:36:13.713-05:00
 categories: ["thought"]
 ---
-Our current dominant political system is a phony sales pitch like those old Magic Bullet infomercials with actors feigning excitement about how great it is; you wouldn't want to fall for it today.
+Our current dominant political system used to impress people like old infomercials, but now we see it for the lousy sales pitch that it is.

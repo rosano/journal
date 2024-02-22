@@ -1,11 +1,10 @@
 ---
-date: 2023-12-26T18:08:09.505Z
+date: 2023-12-26T15:08:09.505-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-26
 place: Brasilia
 country: Brazil
-localtime: 2023-12-26T15:08:09.505-03:00
 tags: ["food"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/C0R2g-5rMfo/

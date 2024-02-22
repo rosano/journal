@@ -1,11 +1,10 @@
 ---
-date: 2023-12-31T00:00:00.000Z
+date: 2023-12-30T21:00:00.000-03:00
 years: 2023
 months: 2023-12
-days: 2023-12-31
+days: 2023-12-30
 place: Guarulhos
 country: Brazil
-localtime: 2023-12-30T21:00:00.000-03:00
 categories: ["talk"]
 link: https://www.youtube.com/watch?v=CcnCYdZw72k
 ---

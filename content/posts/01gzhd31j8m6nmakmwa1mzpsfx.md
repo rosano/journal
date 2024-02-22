@@ -1,11 +1,10 @@
 ---
-date: 2023-05-03T18:13:14.952Z
+date: 2023-05-04T01:13:14.952+07:00
 years: 2023
 months: 2023-05
-days: 2023-05-03
+days: 2023-05-04
 place: Chiang Mai
 country: Thailand
-localtime: 2023-05-04T01:13:14.952+07:00
 tags: ["music","lingo"]
 categories: ["thought"]
 ---

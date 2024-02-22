@@ -1,11 +1,10 @@
 ---
-date: 2023-07-09T23:36:56.200Z
+date: 2023-07-09T19:36:56.200-04:00
 years: 2023
 months: 2023-07
 days: 2023-07-09
 place: Toronto
 country: Canada
-localtime: 2023-07-09T19:36:56.200-04:00
 categories: ["talk"]
 link: https://museapp.com/podcast/81-evergreen-notes/
 ---

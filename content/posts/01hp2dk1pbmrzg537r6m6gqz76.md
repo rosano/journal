@@ -1,11 +1,10 @@
 ---
-date: 2024-02-07T18:34:24.843Z
+date: 2024-02-07T13:34:24.843-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-07
 place: Toronto
 country: Canada
-localtime: 2024-02-07T13:34:24.843-05:00
 categories: ["code"]
 link: https://stackoverflow.com/questions/677436/how-do-i-get-the-git-commit-count#4061706
 ---

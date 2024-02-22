@@ -1,11 +1,10 @@
 ---
-date: 2022-02-03T13:42:19.705Z
+date: 2022-02-03T08:42:19.705-05:00
 years: 2022
 months: 2022-02
 days: 2022-02-03
 place: Toronto
 country: Canada
-localtime: 2022-02-03T08:42:19.705-05:00
 link: https://marketingexamples.com/content/michelin-guide
 categories: ["article"]
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2024-02-08T23:43:49.098Z
+date: 2024-02-08T18:43:49.098-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-08
 place: Toronto
 country: Canada
-localtime: 2024-02-08T18:43:49.098-05:00
 categories: ["project"]
 tags: ["idea"]
 ---

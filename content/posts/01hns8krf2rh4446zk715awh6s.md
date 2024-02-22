@@ -1,11 +1,10 @@
 ---
-date: 2024-02-04T05:14:15.394Z
+date: 2024-02-04T00:14:15.394-05:00
 years: 2024
 months: 2024-02
 days: 2024-02-04
 place: Toronto
 country: Canada
-localtime: 2024-02-04T00:14:15.394-05:00
 tags: ["idea"]
 link: https://justinjackson.ca/welcome-email
 categories: ["article"]

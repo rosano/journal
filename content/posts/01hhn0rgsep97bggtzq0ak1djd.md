@@ -1,11 +1,10 @@
 ---
-date: 2023-12-14T20:37:17.742Z
+date: 2023-12-14T17:37:17.742-03:00
 years: 2023
 months: 2023-12
 days: 2023-12-14
 place: Brasilia
 country: Brazil
-localtime: 2023-12-14T17:37:17.742-03:00
 link: https://blog.gardeviance.org/2023/12/how-to-organise-yourself-dangerous-path.html
 categories: ["article"]
 ---

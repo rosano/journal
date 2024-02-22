@@ -1,11 +1,10 @@
 ---
-date: 2023-10-02T22:57:05.202Z
+date: 2023-10-02T17:57:05.202-05:00
 years: 2023
 months: 2023-10
 days: 2023-10-02
 place: Minneapolis
 country: United States
-localtime: 2023-10-02T17:57:05.202-05:00
 link: https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/
 categories: ["article"]
 ---
