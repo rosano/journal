@@ -56,7 +56,7 @@
 	<span>·</span>
 	
 	{{ range .Site.Taxonomies.categories.ByCount }}
-		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+		<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
 	{{ end }}
 </small>
 
@@ -89,7 +89,7 @@
 
 {{ if not $timeContext }}
 	{{ range .Site.Taxonomies.years }}
-		<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+		<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
 	{{ end }}
 {{ end }}
 
@@ -104,8 +104,8 @@
 
 	{{ if eq .Section "years" }}
 		{{ range .Site.Taxonomies.months }}
-			{{ if strings.Contains .Page.LinkTitle $year }}
-				{{ $t := time.AsTime (delimit (slice .Page.LinkTitle "01") "-") }}
+			{{ if strings.Contains .Page.Title $year }}
+				{{ $t := time.AsTime (delimit (slice .Page.Title "01") "-") }}
 				<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
 			{{ end }}
 		{{ end }}
@@ -125,8 +125,8 @@
 
 	{{ if eq .Section "months" }}
 		{{ range .Site.Taxonomies.days }}
-			{{ if strings.Contains .Page.LinkTitle (delimit (slice $year $month) "-") }}
-				<a href="{{ .Page.Permalink }}">{{ humanize (time.Format "2" (time.AsTime .Page.LinkTitle))  }}</a>
+			{{ if strings.Contains .Page.Title (delimit (slice $year $month) "-") }}
+				<a href="{{ .Page.Permalink }}">{{ humanize (time.Format "2" (time.AsTime .Page.Title))  }}</a>
 			{{ end }}
 		{{ end }}
 	{{ end }}

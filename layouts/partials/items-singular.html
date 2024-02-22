@@ -22,13 +22,13 @@
 
 		{{ with .GetTerms "place" }}
 		<span>in {{ range . -}}
-			<a href="{{ .Permalink }}">{{ .LinkTitle }}</a> / 
+			<a href="{{ .Permalink }}">{{ .Title }}</a> / 
 		{{- end -}}</span>
 		{{ end }}
 
 		{{ with .GetTerms "country" }}
 		<span>{{- range . -}}
-				<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{- end -}}</span>
 		{{- end -}}
 
@@ -36,7 +36,7 @@
 		<span>, tags: </span> 
 		<span>
 			{{- range $index, $element := . -}}
-				{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+				{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{- end -}}
 		</span>
 		{{- if $isRSS -}}, {{- end -}}
