@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 categories: ["book"]
 series: "An Everlasting Meal"
-tags: ["food"]
+tags: ["wellness"]
 ---
 > [Cooking seems like something to juggle amongst life's many complications rather than a clear path through them.]
 

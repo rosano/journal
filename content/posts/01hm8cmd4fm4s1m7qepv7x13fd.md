@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 categories: ["book"]
 series: "An Everlasting Meal"
-tags: ["food"]
+tags: ["wellness"]
 ---
 > Good olive oil gets bitter when it's broken by blades.
 

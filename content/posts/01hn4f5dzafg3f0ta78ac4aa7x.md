@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 categories: ["book"]
 series: "An Everlasting Meal"
-tags: ["food"]
+tags: ["wellness"]
 ---
 > [Chop fresh herbs to bash with oil, or press into butter, or flavour plain yogurt into a sauce.]
 

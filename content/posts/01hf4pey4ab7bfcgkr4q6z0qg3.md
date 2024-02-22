@@ -5,7 +5,7 @@ month: 2023-11
 day: 2023-11-13
 place: Belo Horizonte
 country: Brazil
-tags: ["food"]
+tags: ["wellness"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/CzkFbTfovKn/
 ---

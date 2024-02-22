@@ -5,7 +5,7 @@ month: 2023-12
 day: 2023-12-26
 place: Brasilia
 country: Brazil
-tags: ["food"]
+tags: ["wellness"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/CzbywQercEr/
 ---

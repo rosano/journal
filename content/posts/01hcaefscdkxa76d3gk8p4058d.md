@@ -5,6 +5,7 @@ month: 2023-10
 day: 2023-10-09
 place: Ithaca
 country: United States
+tags: ["relate"]
 link: https://chelseatroy.com/2021/09/22/critique-the-internet-and-you/
 categories: ["article"]
 ---

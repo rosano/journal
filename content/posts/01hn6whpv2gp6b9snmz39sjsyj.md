@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-27
 place: Toronto
 country: Canada
+tags: ["wellness"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/C0lqTZCPwll/
 ---

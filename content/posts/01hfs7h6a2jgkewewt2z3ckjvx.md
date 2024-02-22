@@ -5,6 +5,7 @@ month: 2023-11
 day: 2023-11-21
 place: Recife
 country: Brazil
+tags: ["relate"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/Cz4nkO1OcwR/
 ---

@@ -7,6 +7,6 @@ place: Toronto
 country: Canada
 categories: ["book"]
 series: "An Everlasting Meal"
-tags: ["food"]
+tags: ["wellness"]
 ---
 > [Make rice without an occasion, because you'll eventually be hungry.]

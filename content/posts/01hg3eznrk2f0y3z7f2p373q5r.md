@@ -5,7 +5,7 @@ month: 2023-11
 day: 2023-11-25
 place: Recife
 country: Brazil
-tags: ["food"]
+tags: ["wellness"]
 categories: ["talk"]
 link: https://www.instagram.com/reel/C0C9QqoPFoW/
 ---
