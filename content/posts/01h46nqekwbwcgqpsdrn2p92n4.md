@@ -1,8 +1,8 @@
 ---
 date: 2023-06-30T13:31:02.652-04:00
-years: 2023
-months: 2023-06
-days: 2023-06-30
+year: 2023
+month: 2023-06
+day: 2023-06-30
 place: Toronto
 country: Canada
 categories: ["talk"]

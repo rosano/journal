@@ -1,8 +1,8 @@
 ---
 date: 2022-07-15T21:36:43.921+02:00
-years: 2022
-months: 2022-07
-days: 2022-07-15
+year: 2022
+month: 2022-07
+day: 2022-07-15
 place: Berlin
 country: Germany
 categories: ["thought"]

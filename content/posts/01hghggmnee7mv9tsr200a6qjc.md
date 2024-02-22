@@ -1,8 +1,8 @@
 ---
 date: 2023-11-30T22:39:57.230-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-30
+year: 2023
+month: 2023-11
+day: 2023-11-30
 place: Recife
 country: Brazil
 tags: ["lingo"]

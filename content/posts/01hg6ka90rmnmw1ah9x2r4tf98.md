@@ -1,8 +1,8 @@
 ---
 date: 2023-09-18T10:31:14.000-04:00
-years: 2023
-months: 2023-09
-days: 2023-09-18
+year: 2023
+month: 2023-09
+day: 2023-09-18
 place: Toronto
 country: Canada
 categories: ["project"]

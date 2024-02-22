@@ -1,8 +1,8 @@
 ---
 date: 2023-05-06T01:42:18.507+07:00
-years: 2023
-months: 2023-05
-days: 2023-05-06
+year: 2023
+month: 2023-05
+day: 2023-05-06
 place: Chiang Mai
 country: Thailand
 categories: ["thought"]

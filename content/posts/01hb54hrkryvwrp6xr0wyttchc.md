@@ -1,8 +1,8 @@
 ---
 date: 2023-09-24T23:01:28.823-04:00
-years: 2023
-months: 2023-09
-days: 2023-09-24
+year: 2023
+month: 2023-09
+day: 2023-09-24
 place: Toronto
 country: Canada
 categories: ["thought"]

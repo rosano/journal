@@ -1,8 +1,8 @@
 ---
 date: 2022-01-17T09:17:27.708-05:00
-years: 2022
-months: 2022-01
-days: 2022-01-17
+year: 2022
+month: 2022-01
+day: 2022-01-17
 place: Toronto
 country: Canada
 link: https://blog.superhuman.com/game-design-not-gamification/

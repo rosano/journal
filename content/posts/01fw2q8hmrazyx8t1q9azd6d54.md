@@ -1,8 +1,8 @@
 ---
 date: 2022-02-16T21:13:00.696-05:00
-years: 2022
-months: 2022-02
-days: 2022-02-16
+year: 2022
+month: 2022-02
+day: 2022-02-16
 place: Toronto
 country: Canada
 categories: ["talk"]

@@ -1,8 +1,8 @@
 ---
 date: 2022-03-10T18:19:06.288+01:00
-years: 2022
-months: 2022-03
-days: 2022-03-10
+year: 2022
+month: 2022-03
+day: 2022-03-10
 place: Berlin
 country: Germany
 categories: ["thought"]

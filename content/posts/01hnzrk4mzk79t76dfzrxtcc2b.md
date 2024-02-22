@@ -1,8 +1,8 @@
 ---
 date: 2024-02-06T12:48:58.911-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-06
+year: 2024
+month: 2024-02
+day: 2024-02-06
 place: Toronto
 country: Canada
 tags: ["idea"]

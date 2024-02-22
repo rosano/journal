@@ -1,8 +1,8 @@
 ---
 date: 2022-01-16T23:04:06.215-05:00
-years: 2022
-months: 2022-01
-days: 2022-01-16
+year: 2022
+month: 2022-01
+day: 2022-01-16
 place: Toronto
 country: Canada
 categories: ["book"]

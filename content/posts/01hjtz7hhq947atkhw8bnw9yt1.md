@@ -1,8 +1,8 @@
 ---
 date: 2023-12-29T11:21:41.302-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-29
+year: 2023
+month: 2023-12
+day: 2023-12-29
 place: Guarulhos
 country: Brazil
 link: https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user

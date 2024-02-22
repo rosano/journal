@@ -1,8 +1,8 @@
 ---
 date: 2023-05-30T20:16:34.343+02:00
-years: 2023
-months: 2023-05
-days: 2023-05-30
+year: 2023
+month: 2023-05
+day: 2023-05-30
 place: Freiburg
 country: Germany
 categories: ["talk"]

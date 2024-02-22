@@ -1,8 +1,8 @@
 ---
 date: 2022-01-06T21:13:37.228-05:00
-years: 2022
-months: 2022-01
-days: 2022-01-06
+year: 2022
+month: 2022-01
+day: 2022-01-06
 place: Toronto
 country: Canada
 categories: ["thought"]

@@ -1,8 +1,8 @@
 ---
 date: 2024-01-01T12:52:07.537-05:00
-years: 2024
-months: 2024-01
-days: 2024-01-01
+year: 2024
+month: 2024-01
+day: 2024-01-01
 place: Toronto
 country: Canada
 link: https://sarahsteinlubrano.substack.com/p/be-kind-everyone-is-fighting-a-social

@@ -1,8 +1,8 @@
 ---
 date: 2023-05-01T22:57:22.516+07:00
-years: 2023
-months: 2023-05
-days: 2023-05-01
+year: 2023
+month: 2023-05
+day: 2023-05-01
 place: Chiang Mai
 country: Thailand
 categories: ["talk"]

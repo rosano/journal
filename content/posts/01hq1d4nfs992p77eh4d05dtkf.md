@@ -1,8 +1,8 @@
 ---
 date: 2024-02-19T09:00:00.000-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-19
+year: 2024
+month: 2024-02
+day: 2024-02-19
 place: Toronto
 country: Canada
 categories: ["talk"]

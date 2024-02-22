@@ -1,8 +1,8 @@
 ---
 date: 2023-12-31T10:58:24.854-05:00
-years: 2023
-months: 2023-12
-days: 2023-12-31
+year: 2023
+month: 2023-12
+day: 2023-12-31
 place: Toronto
 country: Canada
 categories: ["thought"]

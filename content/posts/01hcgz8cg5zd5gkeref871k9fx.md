@@ -1,8 +1,8 @@
 ---
 date: 2023-10-11T23:35:33.637-04:00
-years: 2023
-months: 2023-10
-days: 2023-10-11
+year: 2023
+month: 2023-10
+day: 2023-10-11
 place: Ithaca
 country: United States
 categories: ["thought"]

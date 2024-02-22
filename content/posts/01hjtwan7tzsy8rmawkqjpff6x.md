@@ -1,8 +1,8 @@
 ---
 date: 2023-12-29T10:30:57.657-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-29
+year: 2023
+month: 2023-12
+day: 2023-12-29
 place: Guarulhos
 country: Brazil
 link: https://pluralistic.net/2023/01/21/potemkin-ai/

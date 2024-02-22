@@ -1,8 +1,8 @@
 ---
 date: 2023-12-23T19:15:54.292-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-23
+year: 2023
+month: 2023-12
+day: 2023-12-23
 place: Brasilia
 country: Brazil
 categories: ["project"]

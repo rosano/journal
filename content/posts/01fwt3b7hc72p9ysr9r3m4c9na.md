@@ -1,8 +1,8 @@
 ---
 date: 2022-02-25T23:06:43.498-05:00
-years: 2022
-months: 2022-02
-days: 2022-02-25
+year: 2022
+month: 2022-02
+day: 2022-02-25
 place: Toronto
 country: Canada
 categories: ["book"]

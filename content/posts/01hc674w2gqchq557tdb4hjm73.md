@@ -1,8 +1,8 @@
 ---
 date: 2023-10-07T18:21:48.367-05:00
-years: 2023
-months: 2023-10
-days: 2023-10-07
+year: 2023
+month: 2023-10
+day: 2023-10-07
 place: Chicago
 country: United States
 categories: ["thought"]

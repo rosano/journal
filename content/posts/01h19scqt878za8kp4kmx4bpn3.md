@@ -1,8 +1,8 @@
 ---
 date: 2023-05-25T17:45:43.752+02:00
-years: 2023
-months: 2023-05
-days: 2023-05-25
+year: 2023
+month: 2023-05
+day: 2023-05-25
 place: Frankfurt
 country: Germany
 categories: ["thought"]

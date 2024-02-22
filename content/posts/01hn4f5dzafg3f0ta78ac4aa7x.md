@@ -1,8 +1,8 @@
 ---
 date: 2024-01-26T22:24:42.858-05:00
-years: 2024
-months: 2024-01
-days: 2024-01-26
+year: 2024
+month: 2024-01
+day: 2024-01-26
 place: Toronto
 country: Canada
 tags: ["An Everlasting Meal","food"]

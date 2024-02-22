@@ -1,8 +1,8 @@
 ---
 date: 2023-11-09T11:04:55.540-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-09
+year: 2023
+month: 2023-11
+day: 2023-11-09
 place: Belo Horizonte
 country: Brazil
 categories: ["talk"]

@@ -1,8 +1,8 @@
 ---
 date: 2024-02-12T18:15:49.441-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-12
+year: 2024
+month: 2024-02
+day: 2024-02-12
 place: Toronto
 country: Canada
 categories: ["project","code"]

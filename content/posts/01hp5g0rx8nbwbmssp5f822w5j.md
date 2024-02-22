@@ -1,8 +1,8 @@
 ---
 date: 2024-02-08T18:14:35.048-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-08
+year: 2024
+month: 2024-02
+day: 2024-02-08
 place: Toronto
 country: Canada
 link: https://earthbound.report/2021/04/08/every-child-on-their-own-trampoline/

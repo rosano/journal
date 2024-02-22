@@ -1,8 +1,8 @@
 ---
 date: 2023-06-21T23:04:54.956-04:00
-years: 2023
-months: 2023-06
-days: 2023-06-21
+year: 2023
+month: 2023-06
+day: 2023-06-21
 place: Toronto
 country: Canada
 categories: ["thought"]

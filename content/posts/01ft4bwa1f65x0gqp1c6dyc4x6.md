@@ -1,8 +1,8 @@
 ---
 date: 2022-01-23T16:01:10.575-05:00
-years: 2022
-months: 2022-01
-days: 2022-01-23
+year: 2022
+month: 2022-01
+day: 2022-01-23
 place: Toronto
 country: Canada
 categories: ["talk"]

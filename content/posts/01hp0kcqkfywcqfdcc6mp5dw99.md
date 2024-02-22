@@ -1,8 +1,8 @@
 ---
 date: 2024-02-06T20:37:20.495-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-06
+year: 2024
+month: 2024-02
+day: 2024-02-06
 place: Toronto
 country: Canada
 link: https://radreads.co/10k-work

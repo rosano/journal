@@ -1,8 +1,8 @@
 ---
 date: 2023-06-29T20:36:00.000-04:00
-years: 2023
-months: 2023-06
-days: 2023-06-29
+year: 2023
+month: 2023-06
+day: 2023-06-29
 place: Toronto
 country: Canada
 categories: ["project"]

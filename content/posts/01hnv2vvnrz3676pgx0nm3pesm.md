@@ -1,8 +1,8 @@
 ---
 date: 2024-02-04T17:12:18.232-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-04
+year: 2024
+month: 2024-02
+day: 2024-02-04
 place: Toronto
 country: Canada
 link: https://taylor.town/dollar-per-hour

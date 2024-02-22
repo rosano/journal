@@ -1,8 +1,8 @@
 ---
 date: 2023-11-23T08:20:33.028-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-23
+year: 2023
+month: 2023-11
+day: 2023-11-23
 place: Recife
 country: Brazil
 tags: ["hack","food"]

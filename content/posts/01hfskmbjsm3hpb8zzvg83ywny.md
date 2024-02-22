@@ -1,8 +1,8 @@
 ---
 date: 2023-11-21T15:52:38.361-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-21
+year: 2023
+month: 2023-11
+day: 2023-11-21
 place: Recife
 country: Brazil
 link: https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle

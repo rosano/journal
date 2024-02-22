@@ -1,8 +1,8 @@
 ---
 date: 2023-09-30T18:32:18.338-05:00
-years: 2023
-months: 2023-09
-days: 2023-09-30
+year: 2023
+month: 2023-09
+day: 2023-09-30
 place: Winnipeg
 country: Canada
 link: https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d

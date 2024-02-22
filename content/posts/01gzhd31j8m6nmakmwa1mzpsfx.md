@@ -1,8 +1,8 @@
 ---
 date: 2023-05-04T01:13:14.952+07:00
-years: 2023
-months: 2023-05
-days: 2023-05-04
+year: 2023
+month: 2023-05
+day: 2023-05-04
 place: Chiang Mai
 country: Thailand
 tags: ["music","lingo"]

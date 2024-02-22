@@ -1,8 +1,8 @@
 ---
 date: 2024-02-11T07:29:42.282-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-11
+year: 2024
+month: 2024-02
+day: 2024-02-11
 place: Toronto
 country: Canada
 categories: ["code"]

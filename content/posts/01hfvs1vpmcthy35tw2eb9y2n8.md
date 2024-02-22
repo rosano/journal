@@ -1,8 +1,8 @@
 ---
 date: 2023-11-21T16:49:00.000-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-21
+year: 2023
+month: 2023-11
+day: 2023-11-21
 place: Recife
 country: Brazil
 tags: ["interface"]

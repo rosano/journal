@@ -1,8 +1,8 @@
 ---
 date: 2024-01-13T16:07:54.044-05:00
-years: 2024
-months: 2024-01
-days: 2024-01-13
+year: 2024
+month: 2024-01
+day: 2024-01-13
 place: Toronto
 country: Canada
 link: https://nothinghuman.substack.com/p/against-positive-sum-thinking

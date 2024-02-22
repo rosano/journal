@@ -1,8 +1,8 @@
 ---
 date: 2024-02-16T18:16:31.381-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-16
+year: 2024
+month: 2024-02
+day: 2024-02-16
 place: Toronto
 country: Canada
 link: https://visakanv.com/marketing/solve-for-distribution/

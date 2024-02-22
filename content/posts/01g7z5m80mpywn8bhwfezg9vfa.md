@@ -1,8 +1,8 @@
 ---
 date: 2022-07-14T22:15:28.275+02:00
-years: 2022
-months: 2022-07
-days: 2022-07-14
+year: 2022
+month: 2022-07
+day: 2022-07-14
 place: Wurzen
 country: Germany
 categories: ["talk"]

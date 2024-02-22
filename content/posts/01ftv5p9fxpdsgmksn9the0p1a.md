@@ -1,8 +1,8 @@
 ---
 date: 2022-02-01T12:35:33.885-05:00
-years: 2022
-months: 2022-02
-days: 2022-02-01
+year: 2022
+month: 2022-02
+day: 2022-02-01
 place: Toronto
 country: Canada
 link: https://simple.wikipedia.org/wiki/Money

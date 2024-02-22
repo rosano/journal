@@ -1,8 +1,8 @@
 ---
 date: 2023-12-04T18:48:14.946-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-04
+year: 2023
+month: 2023-12
+day: 2023-12-04
 place: Recife
 country: Brazil
 categories: ["move"]

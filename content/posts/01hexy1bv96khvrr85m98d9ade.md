@@ -1,8 +1,8 @@
 ---
 date: 2023-11-10T21:55:46.281-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-10
+year: 2023
+month: 2023-11
+day: 2023-11-10
 place: Belo Horizonte
 country: Brazil
 tags: ["hack"]

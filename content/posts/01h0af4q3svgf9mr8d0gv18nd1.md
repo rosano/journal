@@ -1,8 +1,8 @@
 ---
 date: 2023-05-13T18:50:07.737+07:00
-years: 2023
-months: 2023-05
-days: 2023-05-13
+year: 2023
+month: 2023-05
+day: 2023-05-13
 place: Siem Reap
 country: Cambodia
 categories: ["talk"]

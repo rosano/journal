@@ -1,8 +1,8 @@
 ---
 date: 2023-10-25T00:30:00.000-07:00
-years: 2023
-months: 2023-10
-days: 2023-10-25
+year: 2023
+month: 2023-10
+day: 2023-10-25
 place: Oakland
 country: United States
 tags: ["The Thinking Method"]

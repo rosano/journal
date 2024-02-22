@@ -1,8 +1,8 @@
 ---
 date: 2023-10-21T10:01:40.830-06:00
-years: 2023
-months: 2023-10
-days: 2023-10-21
+year: 2023
+month: 2023-10
+day: 2023-10-21
 place: Denver
 country: United States
 tags: ["The Thinking Method"]

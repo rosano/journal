@@ -1,8 +1,8 @@
 ---
 date: 2024-02-16T18:50:43.062-05:00
-years: 2024
-months: 2024-02
-days: 2024-02-16
+year: 2024
+month: 2024-02
+day: 2024-02-16
 place: Toronto
 country: Canada
 link: https://jzhao.xyz/posts/a-failure-resume

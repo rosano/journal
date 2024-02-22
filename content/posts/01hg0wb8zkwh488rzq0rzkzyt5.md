@@ -1,8 +1,8 @@
 ---
 date: 2023-11-24T11:39:38.995-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-24
+year: 2023
+month: 2023-11
+day: 2023-11-24
 place: Recife
 country: Brazil
 link: https://www.linkedin.com/posts/yasin-mammeri_job-interview-name-activity-7119942832072577024-n2i9

@@ -1,8 +1,8 @@
 ---
 date: 2023-07-06T21:12:00.000-04:00
-years: 2023
-months: 2023-07
-days: 2023-07-06
+year: 2023
+month: 2023-07
+day: 2023-07-06
 place: Toronto
 country: Canada
 link: https://www.theverge.com/23778253/google-reader-death-2013-rss-social

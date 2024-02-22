@@ -1,8 +1,8 @@
 ---
 date: 2022-02-15T21:52:48.248-05:00
-years: 2022
-months: 2022-02
-days: 2022-02-15
+year: 2022
+month: 2022-02
+day: 2022-02-15
 place: Toronto
 country: Canada
 tags: ["music"]

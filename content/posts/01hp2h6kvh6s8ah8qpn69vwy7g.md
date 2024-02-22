@@ -1,8 +1,8 @@
 ---
 date: 2023-10-30T09:38:15.847-07:00
-years: 2023
-months: 2023-10
-days: 2023-10-30
+year: 2023
+month: 2023-10
+day: 2023-10-30
 place: Los Angeles
 country: United States
 categories: ["thought"]

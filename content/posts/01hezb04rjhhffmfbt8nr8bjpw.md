@@ -1,8 +1,8 @@
 ---
 date: 2023-11-08T09:10:00.000-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-08
+year: 2023
+month: 2023-11
+day: 2023-11-08
 place: Belo Horizonte
 country: Brazil
 link: https://www.instagram.com/p/Cd5n0guu8cI/

@@ -1,8 +1,8 @@
 ---
 date: 2023-10-17T04:54:55.691-04:00
-years: 2023
-months: 2023-10
-days: 2023-10-17
+year: 2023
+month: 2023-10
+day: 2023-10-17
 place: Fuquay-Varina
 country: United States
 categories: ["thought"]

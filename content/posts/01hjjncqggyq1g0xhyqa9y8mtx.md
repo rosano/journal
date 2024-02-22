@@ -1,8 +1,8 @@
 ---
 date: 2023-12-26T05:55:50.032-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-26
+year: 2023
+month: 2023-12
+day: 2023-12-26
 place: Brasilia
 country: Brazil
 tags: ["interop"]

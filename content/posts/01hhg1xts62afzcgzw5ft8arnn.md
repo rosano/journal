@@ -1,8 +1,8 @@
 ---
 date: 2023-12-12T19:21:28.230-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-12
+year: 2023
+month: 2023-12
+day: 2023-12-12
 place: Brasilia
 country: Brazil
 categories: ["talk"]

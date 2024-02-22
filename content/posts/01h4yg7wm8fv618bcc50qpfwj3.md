@@ -1,8 +1,8 @@
 ---
 date: 2023-07-09T19:36:56.200-04:00
-years: 2023
-months: 2023-07
-days: 2023-07-09
+year: 2023
+month: 2023-07
+day: 2023-07-09
 place: Toronto
 country: Canada
 categories: ["talk"]

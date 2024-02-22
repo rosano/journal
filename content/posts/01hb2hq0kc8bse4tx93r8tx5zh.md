@@ -1,8 +1,8 @@
 ---
 date: 2023-09-23T22:53:49.036-04:00
-years: 2023
-months: 2023-09
-days: 2023-09-23
+year: 2023
+month: 2023-09
+day: 2023-09-23
 place: Toronto
 country: Canada
 tags: ["music"]

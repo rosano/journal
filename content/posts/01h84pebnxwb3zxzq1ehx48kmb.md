@@ -1,8 +1,8 @@
 ---
 date: 2023-08-18T12:07:51.741-04:00
-years: 2023
-months: 2023-08
-days: 2023-08-18
+year: 2023
+month: 2023-08
+day: 2023-08-18
 place: Toronto
 country: Canada
 tags: ["lingo"]

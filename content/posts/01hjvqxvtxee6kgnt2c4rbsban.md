@@ -1,8 +1,8 @@
 ---
 date: 2023-12-29T18:33:18.556-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-29
+year: 2023
+month: 2023-12
+day: 2023-12-29
 place: Guarulhos
 country: Brazil
 categories: ["thought"]

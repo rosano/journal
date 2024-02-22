@@ -1,8 +1,8 @@
 ---
 date: 2023-11-01T16:50:46.735-03:00
-years: 2023
-months: 2023-11
-days: 2023-11-01
+year: 2023
+month: 2023-11
+day: 2023-11-01
 place: Belo Horizonte
 country: Brazil
 tags: ["Why are we yelling?"]

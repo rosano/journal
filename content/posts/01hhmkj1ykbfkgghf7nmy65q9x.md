@@ -1,8 +1,8 @@
 ---
 date: 2023-12-14T13:46:34.451-03:00
-years: 2023
-months: 2023-12
-days: 2023-12-14
+year: 2023
+month: 2023-12
+day: 2023-12-14
 place: Brasilia
 country: Brazil
 link: https://jamesg.blog/2023/12/10/deprecating-content/
