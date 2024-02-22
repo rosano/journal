@@ -5,7 +5,11 @@
 {{ with .Params.link }}
 <div class="embed" data-link="{{ . }}"></div>
 {{ end }}
-<article class="content">{{ .Content }}</article>
+
+{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}<div>{{- else -}}<article>{{- end }}
+{{ .Content }}
+{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}</div>{{- else -}}</article>{{- end }}
+
 <span class="metadata">
 	<small>
 		{{ $t := time.AsTime .Params.localtime }}

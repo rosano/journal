@@ -1,4 +1,4 @@
-<article class="post-list">
+<div class="post-list">
 {{ $isDay := (and (eq .Kind "term") (eq .Data.Plural "days")) }}
 
 {{ range .Paginator.Pages.GroupByPublishDate "2006-01-02" "desc" }}
@@ -11,12 +11,12 @@
 
 	{{ end }}
 
-	<div class="content">
+	<article>
 		{{ range .Pages.ByDate.Reverse }}
 			{{ .Scratch.Set "kScope" "kScopeList" }}
 			{{- partial "items-singular.html" . -}}
 			{{ .Scratch.Delete "kScope" }}
 		{{ end }}
-	</div>
+	</article>
 {{ end }}
-</article>
+</div>
