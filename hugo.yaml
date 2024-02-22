@@ -13,6 +13,7 @@ taxonomies:
   day: day
   place: place
   country: country
+  series: series
 
 disableKinds:
 - taxonomy

@@ -10,6 +10,8 @@
 {{ .Content }}
 {{ if eq (.Scratch.Get "kScope") "kScopeList" -}}</div>{{- else -}}</article>{{- end }}
 
+{{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small>{{- end -}}
+
 <span class="metadata">
 	<small>
 		{{ $t := time.AsTime .Date }}
