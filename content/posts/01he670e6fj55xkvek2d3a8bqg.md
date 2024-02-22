@@ -6,7 +6,7 @@ day: 2023-11-01
 place: Belo Horizonte
 country: Brazil
 categories: ["book"]
-series: Why are we yelling?
+series: "Why are we yelling?"
 ---
 > [Propose to 'disagree and commit' when nobody will have the ideal information anyway, especially if reversible. Try to recognize misalignment and correct quickly.]
 

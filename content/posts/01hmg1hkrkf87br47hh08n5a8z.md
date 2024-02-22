@@ -6,7 +6,7 @@ day: 2024-01-19
 place: Toronto
 country: Canada
 categories: ["book"]
-series: An Everlasting Meal
+series: "An Everlasting Meal"
 tags: ["food"]
 ---
 > Only by tasting can you learn to connect the decisions you make with their outcomes.

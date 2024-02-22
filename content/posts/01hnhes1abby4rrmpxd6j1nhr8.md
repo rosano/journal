@@ -6,7 +6,7 @@ day: 2024-01-31
 place: Toronto
 country: Canada
 categories: ["book"]
-series: An Everlasting Meal
+series: "An Everlasting Meal"
 tags: ["food"]
 ---
 > [Make rice without an occasion, because you'll eventually be hungry.]

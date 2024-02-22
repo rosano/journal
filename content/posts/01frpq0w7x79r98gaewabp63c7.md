@@ -6,7 +6,7 @@ day: 2022-01-05
 place: Toronto
 country: Canada
 categories: ["book"]
-series: Tantra: The Supreme Understanding
+series: "Tantra: The Supreme Understanding"
 ---
 > [Do whatever you like, but take each action with full awareness.]
 

@@ -6,7 +6,7 @@ day: 2022-01-03
 place: Toronto
 country: Canada
 categories: ["book"]
-series: Tantra: The Supreme Understanding
+series: "Tantra: The Supreme Understanding"
 ---
 > [The sense organs are windows, not projectors.]
 

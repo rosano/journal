@@ -6,7 +6,7 @@ day: 2024-01-16
 place: Toronto
 country: Canada
 categories: ["book"]
-series: An Everlasting Meal
+series: "An Everlasting Meal"
 tags: ["food"]
 ---
 > Good olive oil gets bitter when it's broken by blades.

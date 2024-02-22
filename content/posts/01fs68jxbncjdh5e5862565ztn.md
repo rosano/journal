@@ -6,7 +6,7 @@ day: 2022-01-11
 place: Toronto
 country: Canada
 categories: ["book"]
-series: Tantra: The Supreme Understanding
+series: "Tantra: The Supreme Understanding"
 ---
 > [If someone says 'there is no time to rest because it compromises a goal', tantra says running and being in a hurry causes one to miss.]
 

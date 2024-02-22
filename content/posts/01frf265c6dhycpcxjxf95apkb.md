@@ -6,7 +6,7 @@ day: 2022-01-02
 place: Toronto
 country: Canada
 categories: ["book"]
-series: Tantra: The Supreme Understanding
+series: "Tantra: The Supreme Understanding"
 ---
 > [The root is never above ground: attacking the visible is like fighting shadows.]
 

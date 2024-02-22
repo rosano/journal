@@ -6,6 +6,6 @@ day: 2022-01-20
 place: Toronto
 country: Canada
 categories: ["book"]
-series: Tantra: The Supreme Understanding
+series: "Tantra: The Supreme Understanding"
 ---
 > [Response is from the situation whereas reaction is from habit.]

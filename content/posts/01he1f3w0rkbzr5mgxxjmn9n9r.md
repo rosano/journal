@@ -6,7 +6,7 @@ day: 2023-10-28
 place: Los Angeles
 country: United States
 categories: ["book"]
-series: The Thinking Method
+series: "The Thinking Method"
 tags: ["learn"]
 ---
 > [Recaps can help ease tension contours after intense learning.]

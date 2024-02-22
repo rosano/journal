@@ -6,7 +6,7 @@ day: 2024-01-14
 place: Toronto
 country: Canada
 categories: ["book"]
-series: An Everlasting Meal
+series: "An Everlasting Meal"
 tags: ["food"]
 ---
 > [Cooking seems like something to juggle amongst life's many complications rather than a clear path through them.]
