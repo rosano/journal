@@ -25,9 +25,9 @@ permalinks:
     tags: /tag/:slug/
     place: /place/:slug/
     country: /country/:slug/
-    years: /:year/
-    months: /:year/:month/
-    days: /:year/:month/:day/
+    year: /:year/
+    month: /:year/:month/
+    day: /:year/:month/:day/
 
 services:
   rss:

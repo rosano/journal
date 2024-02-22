@@ -12,7 +12,7 @@
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "css/_gather.scss" | resources.ToCSS $options }}
 <link rel="stylesheet" href="{{ $style.Permalink }}" />
-{{ if not (and (eq .Kind "term") (or (eq .Data.Plural "years") (eq .Data.Plural "months") (eq .Data.Plural "days"))) }}
+{{ if not (and (eq .Kind "term") (or (eq .Data.Singular "year") (eq .Data.Singular "month") (eq .Data.Singular "day"))) }}
 	{{ range .AlternativeOutputFormats -}}
 	  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
 	{{ end }}
@@ -67,11 +67,11 @@
 {{ $month := "" }}
 {{ $day := "" }}
 
-{{ if (and (eq .Kind "term") (eq .Data.Plural "days")) }}
+{{ if (and (eq .Kind "term") (eq .Data.Singular "day")) }}
 	{{ $timeContext = time.AsTime .Data.Term }}
-{{ else if (and (eq .Kind "term") (eq .Data.Plural "months")) }}
+{{ else if (and (eq .Kind "term") (eq .Data.Singular "month")) }}
 	{{ $timeContext = time.AsTime (delimit (slice .Data.Term "01") "-") }}
-{{ else if (and (eq .Kind "term") (eq .Data.Plural "years")) }}
+{{ else if (and (eq .Kind "term") (eq .Data.Singular "year")) }}
 	{{ $timeContext = time.AsTime (delimit (slice .Data.Term "01-01") "-") }}
 {{ else if eq .Section "posts" }}
 	{{ $timeContext = time.AsTime .Date }}
@@ -88,13 +88,13 @@
 <span>·</span>
 
 {{ if not $timeContext }}
-	{{ range .Site.Taxonomies.years }}
+	{{ range .Site.Taxonomies.year }}
 		<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
 	{{ end }}
 {{ end }}
 
-{{ if (or (in (slice "years" "months" "days") .Section) .IsPage) }}
-	{{ if eq .Section "years" }}
+{{ if (or (in (slice "year" "month" "day") .Section) .IsPage) }}
+	{{ if eq .Section "year" }}
 		<span>{{ $year }}</span>
 	{{ else }}
 		<a href="/{{ $year }}">{{ $year }}</a>
@@ -102,8 +102,8 @@
 	
 	<span>·</span>
 
-	{{ if eq .Section "years" }}
-		{{ range .Site.Taxonomies.months }}
+	{{ if eq .Section "year" }}
+		{{ range .Site.Taxonomies.month }}
 			{{ if strings.Contains .Page.Title $year }}
 				{{ $t := time.AsTime (delimit (slice .Page.Title "01") "-") }}
 				<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
@@ -112,10 +112,10 @@
 	{{ end }}
 {{ end }}
 
-{{ if (or (in (slice "months" "days") .Section) .IsPage) }}
+{{ if (or (in (slice "month" "day") .Section) .IsPage) }}
 	{{ $format := time.Format "January" $timeContext }}
 
-	{{ if eq .Section "months" }}
+	{{ if eq .Section "month" }}
 		<span>{{ $format }}</span>
 	{{ else }}
 		<a href="/{{ $year }}/{{ $month }}">{{ $format }}</a>
@@ -123,8 +123,8 @@
 	
 	<span>·</span>
 
-	{{ if eq .Section "months" }}
-		{{ range .Site.Taxonomies.days }}
+	{{ if eq .Section "month" }}
+		{{ range .Site.Taxonomies.day }}
 			{{ if strings.Contains .Page.Title (delimit (slice $year $month) "-") }}
 				<a href="{{ .Page.Permalink }}">{{ humanize (time.Format "2" (time.AsTime .Page.Title))  }}</a>
 			{{ end }}
@@ -132,10 +132,10 @@
 	{{ end }}
 {{ end }}
 
-{{ if (or (in (slice "days") .Section) .IsPage) }}
+{{ if (or (in (slice "day") .Section) .IsPage) }}
 	{{ $format := humanize (time.Format "2" $timeContext)  }}
 
-	{{ if eq .Section "days" }}
+	{{ if eq .Section "day" }}
 		<span>{{ $format }}</span>
 	{{ else }}
 		<a href="/{{ $year }}/{{ $month }}/{{ $day }}">{{ $format }}</a>

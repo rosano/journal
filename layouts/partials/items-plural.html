@@ -1,7 +1,7 @@
 <div class="post-list">
-{{ $isDay := (and (eq .Kind "term") (eq .Data.Plural "days")) }}
+{{ $isDay := (and (eq .Kind "term") (eq .Data.Singular "day")) }}
 
-{{ range .Paginator.Pages.GroupByParam "days" "desc" }}
+{{ range .Paginator.Pages.GroupByParam "day" "desc" }}
 
 	{{ if not $isDay }}
 
