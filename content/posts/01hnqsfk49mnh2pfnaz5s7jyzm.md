@@ -5,6 +5,7 @@ month: 2024-02
 day: 2024-02-03
 place: Toronto
 country: Canada
+tags: ["relate"]
 link: https://podviaznikov.com/beliefs
 categories: ["article"]
 ---

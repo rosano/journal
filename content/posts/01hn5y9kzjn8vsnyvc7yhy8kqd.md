@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-27
 place: Toronto
 country: Canada
+via: https://twitter.com/bmann/status/1750370107673518241
 link: https://www.furia.com/page.cgi?type=log&id=473
 categories: ["article"]
 ---
@@ -17,5 +18,3 @@ categories: ["article"]
 > The key to these flexibilities, as we have understood at least since Henry Ford, is to formalize the operational roles so that their function in the overall system is symbolic and anonymous. As long as people are just units inserted into well-defined slots, the machinery doesn't need to care who they are.
 
 > The secret truth of business advice is that it's mostly about how to grimly extract residual value from the luck you already had, and the unearned love you were already unguardedly given, because there's really no method for making more of it.
-
-via [twitter.com](https://twitter.com/bmann/status/1750370107673518241)

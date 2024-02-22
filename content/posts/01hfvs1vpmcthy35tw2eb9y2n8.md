@@ -5,7 +5,6 @@ month: 2023-11
 day: 2023-11-21
 place: Recife
 country: Brazil
-tags: ["interface"]
 categories: ["project"]
 link: https://youtu.be/mGnez4lA9f4
 ---

@@ -5,8 +5,7 @@ month: 2024-02
 day: 2024-02-10
 place: Toronto
 country: Canada
+via: Bluebear
 categories: ["thought"]
 ---
 > [RSS turns the web into tapas.]
-
-via Bluebear

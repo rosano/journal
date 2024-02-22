@@ -5,6 +5,7 @@ month: 2024-02
 day: 2024-02-08
 place: Toronto
 country: Canada
+via: https://mastodon.xyz/@douginamug/111256404862696232
 categories: ["project"]
 tags: ["idea"]
 ---
@@ -21,5 +22,3 @@ Their [design patterns library](https://wiki.hackerspaces.org/Design_Patterns) i
 [The Infrastructure Pattern](https://wiki.hackerspaces.org/The_Infrastructure_Pattern):
 
 > [Infrastructure first or projects first? By making everything infrastructure-driven, people will come up with contributions you would have never thought about.]
-
-via [mastodon.xyz](https://mastodon.xyz/@douginamug/111256404862696232)

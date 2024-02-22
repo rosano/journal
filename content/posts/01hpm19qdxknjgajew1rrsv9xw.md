@@ -5,7 +5,7 @@ month: 2024-02
 day: 2024-02-14
 place: Toronto
 country: Canada
-tags: ["love","humans"]
+tags: ["relate"]
 link: https://sarahsteinlubrano.substack.com/p/the-poor-cant-afford-the-benefits
 categories: ["article"]
 ---

@@ -6,7 +6,7 @@ day: 2023-11-23
 place: Recife
 country: Brazil
 categories: ["code"]
-tags: ["security"]
+tags: ["privacy"]
 link: https://plausible.io/data-policy
 ---
 [Plausible: GDPR, CCPA and cookie law compliant site analytics](https://plausible.io/data-policy)
