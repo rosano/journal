@@ -12,7 +12,7 @@
 
 <span class="metadata">
 	<small>
-		{{ $t := time.AsTime .Params.localtime }}
+		{{ $t := time.AsTime .Date }}
 
 		<a href="{{ .Permalink }}"><time datetime="{{ $t }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}
 			{{- $t.Format "15h04" -}}
