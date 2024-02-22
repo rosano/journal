@@ -6,6 +6,7 @@ days: 2023-05-03
 place: Chiang Mai
 country: Thailand
 localtime: 2023-05-04T01:13:14.952+07:00
+tags: ["music","lingo"]
 categories: ["thought"]
 ---
 Similar to language, it might be useful to perform songs slightly under-prepared so that you can start accommodating shortcomings sooner.

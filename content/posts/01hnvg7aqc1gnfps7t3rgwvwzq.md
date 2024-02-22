@@ -6,7 +6,7 @@ days: 2024-02-05
 place: Toronto
 country: Canada
 localtime: 2024-02-04T21:05:45.580-05:00
-categories: ["music"]
+categories: ["sound"]
 link: https://pyramidprojectfeatcontours.bandcamp.com/track/driver-feat-juma-tutu-lastas-afro-disco-remix
 ---
 [DRIVER feat Juma Tutu (LASTA's Afro Disco Remix) | PYRAMID PROJECT feat Contours](https://pyramidprojectfeatcontours.bandcamp.com/track/driver-feat-juma-tutu-lastas-afro-disco-remix)

@@ -6,7 +6,7 @@ days: 2024-02-20
 place: Toronto
 country: Canada
 localtime: 2024-02-20T18:06:59.146-05:00
-categories: ["music"]
+categories: ["sound"]
 link: https://adrianholovaty.bandcamp.com/album/melodic-guitar-music
 ---
 [Adrian Holovaty: Melodic Guitar Music (2023)](https://adrianholovaty.bandcamp.com/album/melodic-guitar-music)

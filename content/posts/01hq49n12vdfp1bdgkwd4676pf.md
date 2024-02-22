@@ -6,7 +6,7 @@ days: 2024-02-20
 place: Toronto
 country: Canada
 localtime: 2024-02-20T17:19:46.139-05:00
-categories: ["music"]
+categories: ["sound"]
 link: https://www.youtube.com/watch?v=pyqFTZwoIkM&list=OLAK5uy_m8TNdQtLndjcK-ZRzmRIY3Y-Us_0zMrzo
 ---
 [Marta Gómez: Canciones de sol (2016)](https://www.youtube.com/watch?v=pyqFTZwoIkM&list=OLAK5uy_m8TNdQtLndjcK-ZRzmRIY3Y-Us_0zMrzo)
