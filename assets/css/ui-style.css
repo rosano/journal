@@ -153,11 +153,15 @@ footer {
 
 }
 
-.paginator .newer {
-	align-self: flex-end;
+.paginator > * {
+	flex-grow: 1;
 }
 
-footer small {
+.paginator :last-child {
+	text-align: end;
+}
+
+footer small:not(.paginator small) {
 	padding: 5px;
 	display: block;
 
