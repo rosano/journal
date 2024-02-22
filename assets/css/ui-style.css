@@ -109,6 +109,7 @@ hr {
 
 .post .metadata {
 	display: flex;
+	align-items: end;
 }
 
 .post .metadata > :first-child {
