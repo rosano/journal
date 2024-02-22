@@ -36,9 +36,15 @@
 		<span>, tags: </span> 
 		<span>
 			{{- range $index, $element := . -}}
-				{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
+				{{- if $index }} / {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{- end -}}
 		</span>
+		{{- if $isRSS -}}, {{- end -}}
+		{{ end }}
+
+		{{- with .Param "via" -}}
+		<span>, via: </span> 
+		<span>{{- if strings.Contains . "http" }}<a href="{{ . }}">{{ (urls.Parse .).Hostname }}</a>{{ else }}{{ . }}{{ end }}</span>
 		{{- if $isRSS -}}, {{- end -}}
 		{{ end }}
 	</small>
