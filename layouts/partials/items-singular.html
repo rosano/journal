@@ -14,7 +14,7 @@
 	<small>
 		{{ $t := time.AsTime .Date }}
 
-		<a href="{{ .Permalink }}"><time datetime="{{ $t }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}
+		<a href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if eq (.Scratch.Get "kScope") "kScopeList" -}}
 			{{- $t.Format "15h04" -}}
 		{{- else -}}
 			{{- $t.Format "Jan 02 2006, 15h04" -}}
