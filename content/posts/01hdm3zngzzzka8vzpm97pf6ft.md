@@ -5,8 +5,9 @@ month: 2023-10
 day: 2023-10-25
 place: Oakland
 country: United States
-tags: ["The Thinking Method"]
 categories: ["book"]
+series: The Thinking Method
+tags: ["learn"]
 ---
 > [If you teach well, people might pay you to help them with things you're skilled at, even without expertise.]
 

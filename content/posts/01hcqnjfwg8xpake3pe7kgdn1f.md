@@ -5,7 +5,8 @@ month: 2023-10
 day: 2023-10-14
 place: NYC
 country: United States
-tags: ["The Thinking Method"]
 categories: ["book"]
+series: The Thinking Method
+tags: ["learn"]
 ---
 > [Moving at the speed of trust.]

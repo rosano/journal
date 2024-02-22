@@ -5,8 +5,8 @@ month: 2023-12
 day: 2023-12-31
 place: Toronto
 country: Canada
-tags: ["Why are we yelling?"]
 categories: ["book"]
+series: Why are we yelling?
 ---
 > [The voice of reason makes sense of things by connecting to all the other things that give authority and power to its wielder.]
 

@@ -5,7 +5,7 @@ month: 2023-11
 day: 2023-11-01
 place: Belo Horizonte
 country: Brazil
-tags: ["Why are we yelling?"]
 categories: ["book"]
+series: Why are we yelling?
 ---
 > [Depersonalize points of view so that people feel free to try out other ones. Plot them on a quadrant of agreement against potential to change.]

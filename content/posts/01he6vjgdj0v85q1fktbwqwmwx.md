@@ -5,7 +5,7 @@ month: 2023-11
 day: 2023-11-01
 place: Belo Horizonte
 country: Brazil
-tags: ["Why are we yelling?"]
 categories: ["book"]
+series: Why are we yelling?
 ---
 > [The voice of possibility doesn't need to immediately decide whether something is true, and can accept contradictory arguments simultaneously.]

@@ -6,7 +6,7 @@ day: 2022-01-10
 place: Toronto
 country: Canada
 categories: ["book"]
-tags: ["Tantra: The Supreme Understanding"]
+series: Tantra: The Supreme Understanding
 ---
 > [The parable of the prodigal son] means that if you remain on the right path, you will not be celebrated by existence. You will be a simpleton, you will not be enriched by life. You will not have any salt in you; you may be nutritious, but no spices. You will be very simple, good, but your goodness will not have a complex harmony in it. You will be a single note, not millions of notes falling into a melody. You will be a straight line, with no curves and no corners. Those curves and corners give a beauty, they make life more mysterious, they give depth. You will be shallow in your sainthood, you will not have any depth in you.
 

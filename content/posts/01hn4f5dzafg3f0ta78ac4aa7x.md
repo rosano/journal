@@ -5,8 +5,9 @@ month: 2024-01
 day: 2024-01-26
 place: Toronto
 country: Canada
-tags: ["An Everlasting Meal","food"]
 categories: ["book"]
+series: An Everlasting Meal
+tags: ["food"]
 ---
 > [Chop fresh herbs to bash with oil, or press into butter, or flavour plain yogurt into a sauce.]
 

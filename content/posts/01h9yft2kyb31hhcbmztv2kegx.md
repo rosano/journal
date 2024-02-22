@@ -5,8 +5,9 @@ month: 2023-09
 day: 2023-09-09
 place: Toronto
 country: Canada
-tags: ["The Thinking Method","lingo"]
 categories: ["book"]
+series: The Thinking Method
+tags: ["lingo"]
 ---
 > I have taken few steps to simplify its content, deeming any simplification a complication in waiting.
 

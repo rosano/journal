@@ -6,7 +6,7 @@ day: 2022-01-16
 place: Toronto
 country: Canada
 categories: ["book"]
-tags: ["Tantra: The Supreme Understanding"]
+series: Tantra: The Supreme Understanding
 ---
 > [Bliss is just a word: you can desire it but not know what it is. Only one who has tasted it can give it to you, and without doing anything: from their presence alone the unknown flows toward you.]
 

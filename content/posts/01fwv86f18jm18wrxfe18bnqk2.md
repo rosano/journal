@@ -6,7 +6,7 @@ day: 2022-02-26
 place: Toronto
 country: Canada
 categories: ["book"]
-tags: ["Tantra: The Supreme Understanding"]
+series: Tantra: The Supreme Understanding
 ---
 > [To become so centered that anyone coming to you with an opinion simply forgets. You can kill Jesus or Buddha but not push them.]
 

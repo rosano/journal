@@ -6,7 +6,7 @@ day: 2022-01-25
 place: Toronto
 country: Canada
 categories: ["book"]
-tags: ["Tantra: The Supreme Understanding"]
+series: Tantra: The Supreme Understanding
 ---
 > [Perfection without future evolution is dead.]
 
