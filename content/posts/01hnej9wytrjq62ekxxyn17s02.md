@@ -6,6 +6,7 @@ day: 2024-01-30
 place: Toronto
 country: Canada
 categories: ["project"]
+tags: ["wellness"]
 link: https://apps.apple.com/app/id1096545820
 ---
 [NIOSH Sound Level Meter](https://apps.apple.com/app/id1096545820)

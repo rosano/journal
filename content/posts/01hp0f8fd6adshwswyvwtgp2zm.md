@@ -5,7 +5,7 @@ month: 2024-02
 day: 2024-02-06
 place: Toronto
 country: Canada
-tags: ["idea"]
+tags: ["idea","succeed"]
 link: https://tomcritchlow.com/2023/02/10/riffs
 categories: ["article"]
 ---

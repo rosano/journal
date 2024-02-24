@@ -6,6 +6,7 @@ day: 2024-01-16
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/C2Lb22TudFL/
 ---
 [handling insults](https://www.instagram.com/reel/C2Lb22TudFL/)

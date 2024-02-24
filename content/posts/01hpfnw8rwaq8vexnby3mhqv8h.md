@@ -12,4 +12,4 @@ link: https://taylor.town/-10x
 
 > Mock function calls until no original code runs.
 
-Oh wow do I need to change my approach.
+Wow, do I need to change my approach!

@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-14
 place: Brasilia
 country: Brazil
+tags: ["contribute","learn"]
 link: https://jamesg.blog/2023/12/10/deprecating-content/
 categories: ["article"]
 ---

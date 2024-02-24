@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-30
 place: Toronto
 country: Canada
+tags: ["digital","wellness"]
 link: https://gkeenan.co/avgb/im-turning-off-my-website-analytics-because-im-very-brave-and-i-promise-i-truly-do-not-care-about-the-numbers
 categories: ["article"]
 ---

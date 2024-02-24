@@ -5,8 +5,8 @@ month: 2024-01
 day: 2024-01-19
 place: Toronto
 country: Canada
-tags: ["hack"]
 categories: ["talk"]
+tags: ["wellness"]
 link: https://www.instagram.com/reel/C2SwIS5LLU8/
 ---
 [More clean hacks because so many of you asked for it!](https://www.instagram.com/reel/C2SwIS5LLU8/)

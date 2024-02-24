@@ -6,6 +6,7 @@ day: 2024-01-27
 place: Toronto
 country: Canada
 categories: ["article","project"]
+tags: ["digital","wellness","idea"]
 link: https://jon.bo/posts/new-tab/
 ---
 [in search of a new tab](https://jon.bo/posts/new-tab/)

@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-01
 place: Toronto
 country: Canada
+tags: ["wellness","relate"]
 link: https://sarahsteinlubrano.substack.com/p/be-kind-everyone-is-fighting-a-social
 categories: ["article"]
 ---

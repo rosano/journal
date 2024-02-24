@@ -6,6 +6,7 @@ day: 2024-01-27
 place: Toronto
 country: Canada
 categories: ["article","project"]
+tags: ["contribute","relate"]
 link: https://newpublic.org/interactive
 ---
 [The Signals: A Guided Primer](https://newpublic.org/interactive)

@@ -6,6 +6,7 @@ day: 2024-01-31
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/C2yJOv9MqeS/
 ---
 [how to respond to passive aggression](https://www.instagram.com/reel/C2yJOv9MqeS/)

@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 via: https://mastodon.xyz/@douginamug/111256404862696232
 categories: ["project"]
-tags: ["idea"]
+tags: ["idea","succeed","relate"]
 ---
 I've been to the Hackerspace Wiki before to find local places while travelling. I didn't know they had [hackerspace apps listing](https://wiki.hackerspaces.org/Hackerspace_Software), [software wishlists](https://wiki.hackerspaces.org/Software_Wish_List).
 

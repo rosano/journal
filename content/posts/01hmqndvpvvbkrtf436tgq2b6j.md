@@ -6,6 +6,7 @@ day: 2024-01-21
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["power"]
 link: https://www.youtube.com/watch?v=sLBrUSUMOS8
 ---
 [Let's talk about Biden, banking, and overdrafts....](https://www.youtube.com/watch?v=sLBrUSUMOS8)

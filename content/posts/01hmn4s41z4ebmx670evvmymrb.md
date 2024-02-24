@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-20
 place: Toronto
 country: Canada
+tags: ["digital"]
 categories: ["thought"]
 ---
 The difference between a blog and journal is the title field.

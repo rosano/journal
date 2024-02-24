@@ -5,7 +5,7 @@ month: 2024-02
 day: 2024-02-04
 place: Toronto
 country: Canada
-tags: ["idea"]
+tags: ["idea","succeed"]
 link: https://taylor.town/hire-me
 categories: ["article"]
 ---

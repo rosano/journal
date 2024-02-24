@@ -6,6 +6,7 @@ day: 2023-08-11
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.youtube.com/watch?v=bv-jvrfrRJk
 ---
 [The roads to dating advice for men....](https://www.youtube.com/watch?v=bv-jvrfrRJk)

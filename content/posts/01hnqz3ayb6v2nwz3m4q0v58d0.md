@@ -6,7 +6,7 @@ day: 2024-02-03
 place: Toronto
 country: Canada
 categories: ["project"]
-tags: ["idea"]
+tags: ["idea","digital"]
 link: https://potato.cheap
 ---
 [The Cheap Web](https://potato.cheap)

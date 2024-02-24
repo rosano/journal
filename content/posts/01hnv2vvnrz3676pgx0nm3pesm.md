@@ -5,6 +5,7 @@ month: 2024-02
 day: 2024-02-04
 place: Toronto
 country: Canada
+tags: ["succeed","digital"]
 link: https://taylor.town/dollar-per-hour
 categories: ["article"]
 ---

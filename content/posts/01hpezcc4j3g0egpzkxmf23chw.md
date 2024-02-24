@@ -7,4 +7,4 @@ place: Toronto
 country: Canada
 categories: ["thought"]
 ---
-Our current dominant political system used to impress people like old infomercials, but now we see it for the lousy sales pitch that it is.
+Our current dominant political system used to impress people like old infomercials, but now we see it for the phony sales pitch that it is.

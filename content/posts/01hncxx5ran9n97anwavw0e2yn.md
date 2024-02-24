@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-30
 place: Toronto
 country: Canada
+tags: ["digital"]
 link: https://rachsmith.com/i-turned-off-analytics/
 categories: ["article"]
 ---

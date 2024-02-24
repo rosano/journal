@@ -5,6 +5,7 @@ month: 2023-10
 day: 2023-10-09
 place: Ithaca
 country: United States
+tags: ["relate"]
 link: https://chelseatroy.com/2020/05/14/so-you-have-to-do-a-layoff/
 categories: ["article"]
 ---

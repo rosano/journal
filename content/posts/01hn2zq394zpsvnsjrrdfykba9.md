@@ -6,7 +6,7 @@ day: 2024-01-26
 place: Toronto
 country: Canada
 via: https://twitter.com/richdecibels/status/1712375858910970041
-tags: ["idea"]
+tags: ["idea","succeed"]
 categories: ["thought"]
 ---
 > [Share a list of ways you can help as a consultant, then offer a sliding scale of hourly rates.]

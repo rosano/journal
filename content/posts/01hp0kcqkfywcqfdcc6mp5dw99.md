@@ -5,6 +5,7 @@ month: 2024-02
 day: 2024-02-06
 place: Toronto
 country: Canada
+tags: ["succeed"]
 link: https://radreads.co/10k-work
 categories: ["article"]
 ---
@@ -14,4 +15,4 @@ categories: ["article"]
 
 > [Increase your anti-fragility by honing keystone skills: public speaking, writing, sales, technical sensibility, design, and negotiation.] 
 
-> [$10,000/hour work is invisible and may produce no results for years or decades.]
+> [$10,000 per hour work is invisible and may produce no results for years or decades.]

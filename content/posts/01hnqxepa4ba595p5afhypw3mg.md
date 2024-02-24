@@ -6,6 +6,7 @@ day: 2024-02-03
 place: Toronto
 country: Canada
 categories: ["project"]
+tags: ["idea"]
 link: https://busterbenson.com/life-in-weeks
 ---
 [Life in Weeks](https://busterbenson.com/life-in-weeks)

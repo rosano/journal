@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-16
 place: Toronto
 country: Canada
+tags: ["power"]
 categories: ["thought"]
 ---
 respect for construction over destruction

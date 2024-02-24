@@ -5,8 +5,8 @@ month: 2024-02
 day: 2024-02-02
 place: Toronto
 country: Canada
+categories: ["code"]
 link: https://github.com/sveltejs/svelte/discussions/10085#discussion-6029409
-categories: ["article"]
 ---
 [Tenets](https://github.com/sveltejs/svelte/discussions/10085#discussion-6029409)
 

@@ -6,6 +6,7 @@ day: 2024-01-25
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["wellness"]
 link: https://www.instagram.com/reel/C2hAGMxIIxR/
 ---
 [How to save money and making a homemade cleaning spray out of lime peels!](https://www.instagram.com/reel/C2hAGMxIIxR/)
