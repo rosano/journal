@@ -5,6 +5,7 @@ month: 2022-02
 day: 2022-02-09
 place: Toronto
 country: Canada
+tags: ["relate","travel"]
 categories: ["thought"]
 ---
 > You remove the clothes of your soul when traveling.

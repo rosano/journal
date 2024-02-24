@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-07
 place: Brasilia
 country: Brazil
+tags: ["digital"]
 link: https://www.cnet.com/tech/mobile/features/how-close-is-that-photo-to-the-truth-what-to-know-in-the-age-of-ai/
 categories: ["article"]
 ---

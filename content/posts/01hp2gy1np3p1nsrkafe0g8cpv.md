@@ -5,6 +5,7 @@ month: 2023-09
 day: 2023-09-05
 place: Toronto
 country: Canada
+tags: ["relate","power"]
 categories: ["thought"]
 ---
 first they laugh,

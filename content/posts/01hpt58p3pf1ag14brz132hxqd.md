@@ -5,6 +5,7 @@ month: 2024-02
 day: 2024-02-16
 place: Toronto
 country: Canada
+tags: ["succeed"]
 link: https://jzhao.xyz/posts/a-failure-resume
 categories: ["article"]
 ---

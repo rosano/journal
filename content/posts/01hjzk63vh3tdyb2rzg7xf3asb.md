@@ -7,6 +7,7 @@ place: Toronto
 country: Canada
 categories: ["book"]
 series: "Why are we yelling?"
+tags: ["relate"]
 ---
 > What is your relationship to the unknown? What is it like to have sensitivity to nature and spirits?
 

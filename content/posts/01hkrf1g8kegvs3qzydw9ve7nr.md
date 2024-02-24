@@ -6,6 +6,7 @@ day: 2024-01-09
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/C15cB6jOhsa/
 ---
 [what triggers you, teaches you.](https://www.instagram.com/reel/C15cB6jOhsa/)

@@ -5,6 +5,6 @@ month: 2022-07
 day: 2022-07-15
 place: Berlin
 country: Germany
-categories: ["thought"]
+categories: ["move"]
 ---
 Capoeira movements as drawing the form of their body through your movements. Maximize awareness of your self with surroundings. Maximize control (!) of your gestures.

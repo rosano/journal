@@ -5,8 +5,9 @@ month: 2023-11
 day: 2023-11-21
 place: Recife
 country: Brazil
+categories: ["code"]
+tags: ["learn"]
 link: https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle
-categories: ["article"]
 ---
 [ChatGPT as muse, not oracle](https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle)
 

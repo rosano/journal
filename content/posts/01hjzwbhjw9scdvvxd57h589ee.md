@@ -7,6 +7,7 @@ place: Toronto
 country: Canada
 categories: ["book"]
 series: "Why are we yelling?"
+tags: ["relate"]
 ---
 > [To any disagreement, you can ask: What's really at stake here? If true, what happens? What truth would cause you to change your mind? If this were no longer a problem, how would we get there?]
 

@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-13
 place: Toronto
 country: Canada
+tags: ["power","relate"]
 link: https://kktoronto.ca
 categories: ["article"]
 ---

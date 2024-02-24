@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-20
 place: Brasilia
 country: Brazil
+tags: ["power"]
 link: https://brettscott.substack.com/p/the-war-on-informality
 categories: ["article"]
 ---

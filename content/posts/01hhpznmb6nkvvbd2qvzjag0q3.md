@@ -5,7 +5,7 @@ month: 2023-11
 day: 2023-11-29
 place: Recife
 country: Brazil
-tags: ["interop"]
+tags: ["interop","digital"]
 link: https://github.com/solid/data-interoperability-panel/blob/main/problems-and-goals.md
 categories: ["article"]
 ---

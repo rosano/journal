@@ -5,7 +5,7 @@ month: 2024-02
 day: 2024-02-14
 place: Toronto
 country: Canada
-tags: ["privacy"]
+tags: ["safety","digital"]
 categories: ["thought"]
 ---
 Putting something on the internet is unfortunately default public (insecure / opt-out) unless you can personally verify that it's not, which might be impossible.

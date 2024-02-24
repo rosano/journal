@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-13
 place: Toronto
 country: Canada
+tags: ["relate"]
 categories: ["thought"]
 ---
 We're not saying what we're saying, we're saying what we're not saying.

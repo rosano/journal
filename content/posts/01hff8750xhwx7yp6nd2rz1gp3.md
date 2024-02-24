@@ -6,6 +6,7 @@ day: 2023-11-17
 place: Belo Horizonte
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/CzuXp9Uuhn8/
 ---
 [don’t feed the complaint, funnel it out.](https://www.instagram.com/reel/CzuXp9Uuhn8/)

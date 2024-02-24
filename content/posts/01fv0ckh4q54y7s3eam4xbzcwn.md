@@ -6,6 +6,7 @@ day: 2022-02-03
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["contribute"]
 link: https://m.youtube.com/watch?v=Gw0gt6Ao_yk
 ---
 [The roads to funding your community network projects....](https://m.youtube.com/watch?v=Gw0gt6Ao_yk)

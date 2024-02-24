@@ -5,6 +5,7 @@ month: 2023-11
 day: 2023-11-07
 place: Belo Horizonte
 country: Brazil
+tags: ["relate"]
 link: https://www.instagram.com/p/CzVvFt2rqrW/
 categories: ["article"]
 ---

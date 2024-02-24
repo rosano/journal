@@ -7,6 +7,7 @@ place: Toronto
 country: Canada
 categories: ["book"]
 series: "Why are we yelling?"
+tags: ["relate"]
 ---
 > [A given name like 'honour killings' portrays that violence as somehow different than in the occidental nations: more barbaric and primitive. Is ours any better?]
 

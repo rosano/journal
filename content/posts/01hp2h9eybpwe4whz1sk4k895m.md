@@ -5,6 +5,7 @@ month: 2023-11
 day: 2023-11-11
 place: Belo Horizonte
 country: Brazil
+tags: ["relate"]
 categories: ["thought"]
 ---
-having something to say feels more effortless the more i can pay attention to observations or observe where my attention is
+The more I pay attention to observations or notice where my attention is, the less effort it takes to have something to say.

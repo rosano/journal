@@ -6,6 +6,7 @@ day: 2023-11-22
 place: Recife
 country: Brazil
 categories: ["talk"]
+tags: ["contribute"]
 link: https://www.youtube.com/watch?v=V74AxCqOTvg
 ---
 [How to start a movement | Derek Sivers](https://www.youtube.com/watch?v=V74AxCqOTvg)

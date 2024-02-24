@@ -5,6 +5,6 @@ month: 2023-11
 day: 2023-11-21
 place: Recife
 country: Brazil
-categories: ["thought"]
+categories: ["move"]
 ---
-The more my practice is an own connection with body, the less I need to take classes or achieve a standard. In this sense I may never need to take another capoeira lesson. My progress can be personal and infinite, adapted to my context.
+The more my practice is an own connection with body, the less I need to take classes or achieve a standard. In this sense I may never need to take another movement class. My progress can be personal and infinite, adapted to my context.

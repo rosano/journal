@@ -6,6 +6,7 @@ day: 2024-02-15
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/C3YundjM5PI/
 ---
 [for when something feels off](https://www.instagram.com/reel/C3YundjM5PI/)

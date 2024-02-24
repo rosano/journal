@@ -5,6 +5,7 @@ month: 2024-02
 day: 2024-02-12
 place: Toronto
 country: Canada
+tags: ["power"]
 categories: ["thought"]
 ---
 Our current dominant political system used to impress people like old infomercials, but now we see it for the phony sales pitch that it is.

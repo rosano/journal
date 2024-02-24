@@ -6,6 +6,7 @@ day: 2024-02-10
 place: Toronto
 country: Canada
 via: Bluebear
+tags: ["digital"]
 categories: ["thought"]
 ---
 > [RSS turns the web into tapas.]

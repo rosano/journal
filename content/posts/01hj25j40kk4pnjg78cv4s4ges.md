@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-19
 place: Brasilia
 country: Brazil
+tags: ["digital"]
 link: https://future.com/the-future-of-search-is-boutique/
 categories: ["article"]
 ---

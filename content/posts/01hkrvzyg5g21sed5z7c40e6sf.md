@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-10
 place: Toronto
 country: Canada
+tags: ["learn"]
 categories: ["thought"]
 ---
 Reading is more about picking out ideas than passing over each word.

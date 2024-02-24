@@ -5,6 +5,7 @@ month: 2023-09
 day: 2023-09-28
 place: Toronto
 country: Canada
+tags: ["learn"]
 categories: ["thought"]
 ---
 teach me a song
