@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-07
 place: Brasilia
 country: Brazil
+tags: ["succeed"]
 link: https://marijnhaverbeke.nl/blog/sustainable-maintenance.html
 categories: ["article"]
 ---

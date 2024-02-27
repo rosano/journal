@@ -6,13 +6,14 @@ day: 2023-11-05
 place: Belo Horizonte
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://youtu.be/FdI_ayaAXDE
 ---
 [Daryl Davis on Reforming Over 200 ‘Ku Klux Klan’ Members - by Befriending Them](https://youtu.be/FdI_ayaAXDE)
 
 > [Five core universal values underlie human interaction: to be loved, respected, heard, treated fair, and to want the same for one's family.]
 
-> [Treating Neo-nazism as a culture without justifying it enables you to approach the people as with any other culture.]
+> [Treating neo-Nazism as a culture without justifying it enables you to approach the people as with any other culture.]
 
 > [Avoid focusing on destruction, hate, or fear as they are symptoms. The root cause of ignorance, cured through education and exposure, will get symptoms under control.]
 

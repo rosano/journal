@@ -5,8 +5,9 @@ month: 2023-12
 day: 2023-12-15
 place: Brasilia
 country: Brazil
+categories: ["code"]
+tags: ["interop"]
 link: https://ruben.verborgh.org/blog/2023/11/10/no-more-raw-data/
-categories: ["article"]
 ---
 [No more raw data](https://ruben.verborgh.org/blog/2023/11/10/no-more-raw-data/)
 

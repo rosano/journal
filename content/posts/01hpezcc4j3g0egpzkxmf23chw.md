@@ -8,4 +8,4 @@ country: Canada
 tags: ["power"]
 categories: ["thought"]
 ---
-Our current dominant political system used to impress people like old infomercials, but now we see it for the phony sales pitch that it is.
+Our current dominant political system used to impress people like old infomercials, but now it's understood as the phony sales pitch that it is.

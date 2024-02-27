@@ -6,6 +6,7 @@ day: 2023-11-07
 place: Belo Horizonte
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.jordanoconnor.com/podcast/episode/b8eb5f71/conflict-is-potential
 ---
 [Conflict is potential](https://www.jordanoconnor.com/podcast/episode/b8eb5f71/conflict-is-potential)

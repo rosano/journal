@@ -5,6 +5,7 @@ month: 2023-11
 day: 2023-11-12
 place: Belo Horizonte
 country: Brazil
+tags: ["digital"]
 link: https://sublimeinternet.substack.com/p/principles-for-sharing-on-the-internet
 categories: ["article"]
 ---

@@ -6,6 +6,7 @@ day: 2023-11-09
 place: Belo Horizonte
 country: Brazil
 categories: ["talk"]
+tags: ["power"]
 link: https://www.youtube.com/watch?v=FhbKaxHT4-w
 ---
 [Let's talk about what peace will look like and news for the next generation....](https://www.youtube.com/watch?v=FhbKaxHT4-w)

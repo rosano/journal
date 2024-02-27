@@ -6,6 +6,7 @@ day: 2023-11-06
 place: Belo Horizonte
 country: Brazil
 categories: ["talk"]
+tags: ["digital","power"]
 link: https://www.youtube.com/watch?v=remNAoBgC5g
 ---
 [The Roads to Reaction and Response](https://www.youtube.com/watch?v=remNAoBgC5g)

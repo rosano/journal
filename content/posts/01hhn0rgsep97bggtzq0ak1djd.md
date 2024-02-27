@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-14
 place: Brasilia
 country: Brazil
+tags: ["succeed"]
 link: https://blog.gardeviance.org/2023/12/how-to-organise-yourself-dangerous-path.html
 categories: ["article"]
 ---

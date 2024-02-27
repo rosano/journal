@@ -6,6 +6,7 @@ day: 2023-12-02
 place: Recife
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/C0VCAAOO1OE/
 ---
 [flip the power dynamic with the high ground.](https://www.instagram.com/reel/C0VCAAOO1OE/)

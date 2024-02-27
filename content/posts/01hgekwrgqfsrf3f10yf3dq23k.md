@@ -6,6 +6,7 @@ day: 2023-11-29
 place: Recife
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/C0NSb-NMGea/
 ---
 [venting has a purpose.](https://www.instagram.com/reel/C0NSb-NMGea/)

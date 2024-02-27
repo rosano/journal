@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-26
 place: Brasilia
 country: Brazil
+tags: ["digital"]
 link: https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning
 categories: ["article"]
 ---

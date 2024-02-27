@@ -6,6 +6,7 @@ day: 2023-11-23
 place: Recife
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.instagram.com/reel/Cz7PcHlO61U/
 ---
 [Is this something we have to agree on?](https://www.instagram.com/reel/Cz7PcHlO61U/)

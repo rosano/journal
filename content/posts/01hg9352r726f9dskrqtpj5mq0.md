@@ -6,6 +6,7 @@ day: 2023-11-27
 place: Recife
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://m.youtube.com/watch?v=kSMhIht40YY
 ---
 [Let's talk about changing times and minds....](https://m.youtube.com/watch?v=kSMhIht40YY)

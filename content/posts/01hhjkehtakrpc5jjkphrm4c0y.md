@@ -6,6 +6,7 @@ day: 2023-12-13
 place: Brasilia
 country: Brazil
 categories: ["talk"]
+tags: ["power"]
 link: https://www.tiktok.com/@watchfulcoyote/video/7311503851977215274
 ---
 [Why don’t the Democrats adopt the obvious winning strategies?](https://www.tiktok.com/@watchfulcoyote/video/7311503851977215274)

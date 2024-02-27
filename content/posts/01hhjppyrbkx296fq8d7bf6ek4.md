@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-13
 place: Brasilia
 country: Brazil
+tags: ["digital"]
 link: https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier
 categories: ["article"]
 ---

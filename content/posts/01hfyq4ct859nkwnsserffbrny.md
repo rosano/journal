@@ -6,6 +6,7 @@ day: 2023-11-23
 place: Recife
 country: Brazil
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.youtube.com/watch?v=OspMIhmbn8Q
 ---
 [The Roads to Ruining Thanksgiving....](https://www.youtube.com/watch?v=OspMIhmbn8Q)

@@ -6,6 +6,7 @@ day: 2023-11-21
 place: Recife
 country: Brazil
 categories: ["project"]
+tags: ["interop"]
 link: https://youtu.be/mGnez4lA9f4
 ---
 [Embark - Dynamic documents for making plans](https://youtu.be/mGnez4lA9f4)
