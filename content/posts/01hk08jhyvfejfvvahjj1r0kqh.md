@@ -6,7 +6,7 @@ day: 2023-12-30
 place: Guarulhos
 country: Brazil
 categories: ["talk"]
-tags: ["safety"]
+tags: ["safety","relate"]
 link: https://www.youtube.com/watch?v=CcnCYdZw72k
 ---
 [Let's talk about balance and advice for the unvaccinated....](https://www.youtube.com/watch?v=CcnCYdZw72k)

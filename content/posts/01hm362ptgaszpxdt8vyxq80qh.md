@@ -11,7 +11,7 @@ tags: ["wellness"]
 ---
 > [Cooking seems like something to juggle amongst life's many complications rather than a clear path through them.]
 
-> [Fast-and-easy recipe books try to sell us akin to 'breathing air more rapidly' while pasta is already 'boil then toss' and omelette are already a minute away.]
+> [Fast-and-easy recipe books try to sell us akin to 'breathing air more rapidly' while pasta is already 'boil then toss' and omelettes are already a minute away.]
 
 > [Cooking is transformation, and transformation is human.]
 

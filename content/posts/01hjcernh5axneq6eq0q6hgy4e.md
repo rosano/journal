@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-23
 place: Brasilia
 country: Brazil
+tags: ["succeed"]
 link: https://tomcritchlow.com/consulting/
 categories: ["article"]
 ---

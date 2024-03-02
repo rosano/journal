@@ -6,6 +6,7 @@ day: 2023-12-30
 place: Toronto
 country: Canada
 categories: ["talk"]
+tags: ["relate"]
 link: https://www.youtube.com/watch?v=kKx6yhN13fU
 ---
 [Let's talk about a New Year's resolution, a message, and change....](https://www.youtube.com/watch?v=kKx6yhN13fU)

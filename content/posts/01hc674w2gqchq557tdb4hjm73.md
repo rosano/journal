@@ -7,4 +7,4 @@ place: Chicago
 country: United States
 categories: ["thought"]
 ---
-What are the messages that only I could write? What are the experiences and stories that only i could share? What can be seen only from where I'm standing?
+What are the messages that only I could write? What are the experiences and stories that only I could share? What can be seen only from where I'm standing?

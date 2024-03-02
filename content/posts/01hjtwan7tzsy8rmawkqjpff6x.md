@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-29
 place: Guarulhos
 country: Brazil
+tags: ["digital"]
 link: https://pluralistic.net/2023/01/21/potemkin-ai/
 categories: ["article"]
 ---

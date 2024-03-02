@@ -6,6 +6,7 @@ day: 2023-12-23
 place: Brasilia
 country: Brazil
 categories: ["project"]
+tags: ["succeed"]
 link: https://github.com/ralphtheninja/open-funding
 ---
 [open-funding](https://github.com/ralphtheninja/open-funding)

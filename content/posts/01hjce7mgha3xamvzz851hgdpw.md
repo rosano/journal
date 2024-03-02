@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-23
 place: Brasilia
 country: Brazil
+tags: ["digital"]
 link: https://sublime.app/fd45a7a1-2d48-477f-bf0e-499d7caa068e
 categories: ["article"]
 ---

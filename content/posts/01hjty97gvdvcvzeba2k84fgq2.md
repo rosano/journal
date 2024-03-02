@@ -5,6 +5,7 @@ month: 2023-12
 day: 2023-12-29
 place: Guarulhos
 country: Brazil
+tags: ["relate"]
 link: https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy
 categories: ["article"]
 ---

@@ -6,6 +6,7 @@ day: 2023-12-23
 place: Brasilia
 country: Brazil
 categories: ["project"]
+tags: ["succeed"]
 link: https://github.com/nayafia/lemonade-stand
 ---
 [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)

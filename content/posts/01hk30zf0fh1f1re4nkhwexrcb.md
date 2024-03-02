@@ -5,6 +5,7 @@ month: 2024-01
 day: 2024-01-01
 place: Toronto
 country: Canada
+tags: ["power"]
 link: https://chrishedges.substack.com/p/israels-genocide-betrays-the-holocaust
 categories: ["article"]
 ---

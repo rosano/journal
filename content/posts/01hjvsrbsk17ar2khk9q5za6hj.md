@@ -6,6 +6,7 @@ day: 2023-12-29
 place: Guarulhos
 country: Brazil
 categories: ["talk"]
+tags: ["relate","power"]
 link: https://www.instagram.com/reel/C1VlpbuMOLQ/
 ---
 [@danielbmate x @thedandelionking](https://www.instagram.com/reel/C1VlpbuMOLQ/)

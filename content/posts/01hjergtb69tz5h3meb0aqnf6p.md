@@ -6,6 +6,7 @@ day: 2023-12-24
 place: Brasilia
 country: Brazil
 categories: ["talk"]
+tags: ["digital","relate","power"]
 link: https://www.instagram.com/reel/CyJ-_coMTrV/
 ---
 [On a whim, but a deeply felt one, I went live to share some impromptu thoughts on Israel, Palestine, condemnation, and context. Thanks for tuning in and considering.](https://www.instagram.com/reel/CyJ-_coMTrV/)
