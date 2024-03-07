@@ -10,4 +10,4 @@ link: https://aboutfeeds.com
 ---
 [About Feeds](https://aboutfeeds.com)
 
-Getting started guide to RSS.
+> [Getting started guide to RSS.]

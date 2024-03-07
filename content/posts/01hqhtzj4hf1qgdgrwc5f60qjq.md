@@ -8,4 +8,4 @@ country: Canada
 tags: ["digital"]
 categories: ["thought"]
 ---
-Showing your digital notes graph suffers from the same 'infinitely expanding list' problem of most software, and the solution is similar: break larger lists around human short-term memory limits (5-12 things) and add more context.
+Showing your digital notes graph suffers from the same 'infinitely expanding list' problem of most ware: better to break things up around human fuzzy memory limits (maybe 5–12 things).

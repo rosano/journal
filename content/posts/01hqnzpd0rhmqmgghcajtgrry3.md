@@ -12,4 +12,4 @@ link: https://en.nearbywiki.org/map/#14/43.7345/-79.2626
 ---
 [NearbyWiki](https://en.nearbywiki.org/map/#14/43.7345/-79.2626)
 
-Wikipedia places nearby you on a map.
+> Wikipedia places nearby you on a map.
