@@ -14,4 +14,4 @@ categories: ["article"]
 
 ---
 
-I've been trying to articulate the false sense of pioneering characterized in the fintech reference at the end: the story that businesses tell themselves and the world about 'heading towards the future' while essentially anchoring us deeper into this monetary system. Today's version in my head is "There are no leftist startups." Yes to acknowledging where we are. 👍🏽
+I've been trying to articulate the false sense of pioneering characterized in the fintech reference at the end: the story that businesses tell themselves and the world about 'heading towards the future' while essentially anchoring us deeper into this monetary system; today's version in my head is "There are no leftist startups." Yes to acknowledging where we are. 👍🏽
