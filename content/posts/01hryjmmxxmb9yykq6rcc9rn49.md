@@ -5,8 +5,8 @@ month: 2024-03
 day: 2024-03-14
 place: Toronto
 country: Canada
+categories: ["talk"]
 link: https://www.instagram.com/reel/C4fbdDfIp6T/
-categories: ["article"]
 ---
 [Genius way to clean carpets / couches!](https://www.instagram.com/reel/C4fbdDfIp6T/)
 
