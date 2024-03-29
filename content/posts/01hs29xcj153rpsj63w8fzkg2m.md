@@ -10,4 +10,4 @@ link: https://louiscole.bandcamp.com/track/palmdale-cruisin
 ---
 [Louis cole: Palmdale Cruisin'](https://louiscole.bandcamp.com/track/palmdale-cruisin)
 
-phrasing feels vaguely baroque, harmonies giant steps, solid groovy beat, bought this rigtht away
+melodic phrasing feels vaguely baroque; harmonies make giant steps; solid groovy beat; bought this rigtht away

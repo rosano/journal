@@ -7,4 +7,4 @@ place: Toronto
 country: Canada
 categories: ["thought"]
 ---
-Avoid social structures that require a calculator.
+Avoid social structures that use a calculator.

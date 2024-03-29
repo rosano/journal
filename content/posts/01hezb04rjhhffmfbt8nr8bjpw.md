@@ -7,7 +7,7 @@ place: Belo Horizonte
 country: Brazil
 tags: ["contribute"]
 link: https://www.instagram.com/p/Cd5n0guu8cI/
-categories: ["article"]
+categories: ["talk"]
 ---
 [Callings & Roles for Collective Liberation | Slow Factory 🌍](https://www.instagram.com/p/Cd5n0guu8cI/)
 

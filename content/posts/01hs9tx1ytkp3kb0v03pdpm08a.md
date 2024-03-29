@@ -19,7 +19,7 @@ cloudron login my.example.com
 
 ## 2. Setup build tools
 
-One-click install the [Docker Registry App](https://docs.cloudron.io/apps/docker-registry/) (replace `alfa.bravo` below with this app domain) and [Build Service App](https://docs.cloudron.io/apps/build-service/) (replace `charlie.delta` below with this app domain) via your Cloudron App Store. Configure the latter's credentials in `/app/data/docker.json`
+One-click install the [Docker Registry App](https://docs.cloudron.io/apps/docker-registry/) (replace `alfa.bravo` below with this app domain) and [Build Service App](https://docs.cloudron.io/apps/build-service/) (replace `charlie.delta` below with this app domain) via your Cloudron App Store. Configure the latter's credentials in `/app/data/docker.json` via the File Manager
 
 ```json
 {

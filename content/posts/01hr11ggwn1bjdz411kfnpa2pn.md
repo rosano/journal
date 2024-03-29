@@ -5,8 +5,8 @@ month: 2024-03
 day: 2024-03-02
 place: Toronto
 country: Canada
+categories: ["talk"]
 link: https://www.youtube.com/watch?v=bqloPw5wp48
-categories: ["article"]
 ---
 [Twilight](https://www.youtube.com/watch?v=bqloPw5wp48)
 

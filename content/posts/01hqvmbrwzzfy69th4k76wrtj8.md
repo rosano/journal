@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 tags: ["relate"]
 link: https://www.instagram.com/reel/C38y7lvM6yD/
-categories: ["article"]
+categories: ["talk"]
 ---
 [for the chronic criticizers](https://www.instagram.com/reel/C38y7lvM6yD/)
 

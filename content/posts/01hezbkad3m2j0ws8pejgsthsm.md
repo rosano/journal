@@ -7,7 +7,7 @@ place: Belo Horizonte
 country: Brazil
 tags: ["relate"]
 link: https://www.instagram.com/p/CzVvFt2rqrW/
-categories: ["article"]
+categories: ["talk"]
 ---
 [What Great Listeners Actually Do - A Visual Guide](https://www.instagram.com/p/CzVvFt2rqrW/)
 

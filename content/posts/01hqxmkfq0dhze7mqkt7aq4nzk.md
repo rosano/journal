@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 tags: ["wellness"]
 link: https://www.instagram.com/reel/C3-yEaVrXqP/
-categories: ["article"]
+categories: ["talk"]
 ---
 [How to make the most of the garlic you buy from the store!](https://www.instagram.com/reel/C3-yEaVrXqP/)
 

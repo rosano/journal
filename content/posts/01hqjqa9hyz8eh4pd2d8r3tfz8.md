@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 tags: ["power"]
 link: https://www.instagram.com/p/C3zLIxVrf3A/
-categories: ["article"]
+categories: ["talk"]
 ---
 [all of it.](https://www.instagram.com/p/C3zLIxVrf3A/)
 
