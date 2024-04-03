@@ -1,4 +1,4 @@
-{{- if (eq .Kind "term") }}entries {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" "for") }} {{ end }}
+{{- if (eq .Kind "term") }}{{ .Pages | len }} entries {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" "for") }} {{ end }}
 
 {{- if (and (eq .Kind "term") (eq .Data.Singular "day")) }}
 	{{ $t := time.AsTime .Data.Term }}
