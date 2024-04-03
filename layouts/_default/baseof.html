@@ -30,9 +30,10 @@
 {{- block "main" . }}{{- end }}
 
 <footer>
-	
-{{ if (and .Paginator (ne .Paginator.TotalPages 0)) }}
 
+{{- block "404-start" . }}{{- end }}
+{{ if (and .Paginator (ne .Paginator.TotalPages 0) (ne (.Scratch.Get "k404") "yes")) }}
+	
 <div class="paginator">
 	<span>
 		{{ if .Paginator.HasNext }}
@@ -49,6 +50,7 @@
 </div>
 
 {{ end }}
+{{- block "404-end" . }}{{- end }}
 
 <small class="types">
 	<a href="{{ .Site.BaseURL }}">all</a>

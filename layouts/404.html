@@ -2,3 +2,11 @@
 <h1>404: Page not found</h1>
 <p>Try going back to the <a href="/">root</a>.</p>
 {{ end }}
+
+{{ define "404-start" }}
+{{ .Scratch.Set "k404" "yes" }}
+{{ end }}
+
+{{ define "404-end" }}
+{{ .Scratch.Delete "k404" }}
+{{ end }}
