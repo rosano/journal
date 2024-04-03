@@ -41,7 +41,6 @@
 				{{- if $index }} / {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{- end -}}
 		</span>
-		{{- if $isRSS -}}, {{- end -}}
 		{{ end }}
 
 		{{- with .Param "via" -}}
@@ -52,7 +51,7 @@
 	</small>
 
 {{ with .GetTerms "categories" }}
-	{{ if $isRSS }}<small>type: {{- end -}}
+	{{ if $isRSS }}<small>, type: {{- end -}}
 	<span class="types">
 		{{- range . -}}
 			<a href="{{ .Permalink }}">{{ .Title }}</a>
