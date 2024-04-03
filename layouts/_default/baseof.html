@@ -58,7 +58,9 @@
 	<span>·</span>
 	
 	{{ range .Site.Taxonomies.categories.ByCount }}
+	{{ if ne .Page.Title "move" }}
 		<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+	{{ end }}
 	{{ end }}
 </small>
 
