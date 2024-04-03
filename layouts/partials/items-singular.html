@@ -53,9 +53,7 @@
 {{ with .GetTerms "categories" }}
 	{{ if $isRSS }}<small>, type: {{ end -}}
 	<span class="types">
-		{{- range . -}}
-			<a href="{{ .Permalink }}">{{ .Title }}</a>
-		{{- end -}}
+		{{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}
 	</span>
 	{{- if $isRSS }}</small>{{end}}
 {{ end }}
