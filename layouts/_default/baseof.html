@@ -7,7 +7,9 @@
 <meta name="mobile-web-app-capable" content="yes" />
 <link rel="icon" href="https://static.rosano.ca/rcreativ/touch.png" type="image/png">
 
+{{ .Scratch.Set "kIsTitle" "true" }}
 <title>{{- partial "page-title.html" . -}}</title>
+{{ .Scratch.Delete "kIsTitle" }}
 
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "css/_gather.scss" | resources.ToCSS $options }}
