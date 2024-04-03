@@ -12,7 +12,7 @@
 
 		const metadata = {};
 		try {
-			Object.assign(metadata, await (await fetch(OLSKEmbed.OLSKEmbedFetchURL(endpoint, link))).json());
+			OLSKEmbed.OLSKEmbedGenerateProperties(Object.assign(metadata, await (await fetch(OLSKEmbed.OLSKEmbedFetchURL(endpoint, link))).json()));
 		} catch (e) {
 			console.log(e);
 		};
@@ -21,7 +21,7 @@
 			Object.assign(metadata, OLSKDOM.OLSKDOMMetadata(await (await fetch('https://cors.rosano.ca/' + link)).text()));
 		}
 
-		const embed = metadata.html ? metadata.html.match(/src=\u0022(\S*)\u0022/)[1] : [
+		const embed = metadata.OLSKEmbedFrameURL || [
 			'og:video:secure_url',
 			'og:video:url',
 			'og:video',
@@ -34,7 +34,7 @@
 			return;
 		}
 
-		e.innerHTML = `<iframe width="100%" height="${ metadata['og:video:height'] }" src="${ embed.replace('youtube.com', 'youtube-nocookie.com') }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+		e.innerHTML = `<iframe width="100%" height="${ metadata['og:video:height'] || metadata.OLSKEmbedHeight }" src="${ embed }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 	});
 })();
 </script>
