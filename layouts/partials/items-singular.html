@@ -59,4 +59,14 @@
 {{ end }}
 </span>
 
+{{ if (and (not $isList) (not $isRSS)) -}}
+<hr>
+
+<small class="metadata">
+	<span>
+		<a href="https://github.com/rosano/home/edit/master/content/{{ .Page.File.Path }}">Improve</a>.
+	</span>
+</small>
+{{- end }}
+
 </div>
