@@ -3,15 +3,6 @@ languageCode: en-ca
 title: Journal
 canonifyURLs: true
 
-mediaTypes:
-  application/rss:
-    suffix: ""
-    delimiter: ""
-outputFormats:
-  RSS:
-    mediatype: "application/rss"
-    baseName: "feed"
-
 paginate: 20
 
 taxonomies:
@@ -42,3 +33,12 @@ permalinks:
 services:
   rss:
     limit: 90
+
+mediaTypes:
+  application/rss:
+    suffix: ""
+    delimiter: ""
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "feed"
