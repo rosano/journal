@@ -7,7 +7,7 @@
 {{- $pages := where $pages "Key" "ne" (time.Now.Format "2006-01-02") }}
 
 {{ range $pages }}
-{{ $t := time.AsTime .Key }}
+{{ $t := time.AsTime (delimit (slice .Key "T" "12:00:00Z") "") }}
 {{ $date := time.Format "2006/01/02/" $t }}
 <item>
 
