@@ -7,4 +7,4 @@ place: Toronto
 country: Canada
 categories: ["thought"]
 ---
-Spreadsheets are like functions where most meaningful inputs and outputs visualized.
+Spreadsheets are like functions with built-in visualization of meaningful inputs and outputs.

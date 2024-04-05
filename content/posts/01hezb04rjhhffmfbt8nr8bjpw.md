@@ -6,8 +6,8 @@ day: 2023-11-08
 place: Belo Horizonte
 country: Brazil
 tags: ["contribute"]
+categories: ["article"]
 link: https://www.instagram.com/p/Cd5n0guu8cI/
-categories: ["talk"]
 ---
 [Callings & Roles for Collective Liberation | Slow Factory 🌍](https://www.instagram.com/p/Cd5n0guu8cI/)
 

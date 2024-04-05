@@ -7,4 +7,4 @@ place: Toronto
 country: Canada
 categories: ["thought"]
 ---
-Basic building layers: data, identity, and aggregation.
+Basic building layers: data, identity, aggregation, search.

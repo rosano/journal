@@ -6,8 +6,8 @@ day: 2023-11-07
 place: Belo Horizonte
 country: Brazil
 tags: ["relate"]
+categories: ["article"]
 link: https://www.instagram.com/p/CzVvFt2rqrW/
-categories: ["talk"]
 ---
 [What Great Listeners Actually Do - A Visual Guide](https://www.instagram.com/p/CzVvFt2rqrW/)
 

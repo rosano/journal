@@ -6,8 +6,8 @@ day: 2024-02-26
 place: Toronto
 country: Canada
 tags: ["power"]
+categories: ["article"]
 link: https://www.instagram.com/p/C3zLIxVrf3A/
-categories: ["talk"]
 ---
 [all of it.](https://www.instagram.com/p/C3zLIxVrf3A/)
 
