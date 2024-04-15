@@ -11,4 +11,4 @@ link: https://jan.ai
 ---
 [Jan](https://jan.ai)
 
-Run AI LLMs locally on your computer
+> [Run AI LLMs locally on your computer]

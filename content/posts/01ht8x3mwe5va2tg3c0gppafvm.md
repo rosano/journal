@@ -10,4 +10,4 @@ link: https://soundcloud.com/joshuacitarella/yancey-03
 ---
 [Yancey Strickler on Metalabel and Post-Individualism](https://soundcloud.com/joshuacitarella/yancey-03)
 
-> [Revolutions inspired by Catholic church forbidding intra-family marriage gave rise to cities, universities, guilds as ways for people unrealted by blood to meet eachother.]
+> [Revolutions inspired by Catholic church forbidding intra-family marriage gave rise to cities, universities, guilds as ways for people related by blood to meet eachother.]
