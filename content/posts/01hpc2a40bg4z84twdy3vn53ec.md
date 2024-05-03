@@ -5,6 +5,6 @@ month: 2024-02
 day: 2024-02-11
 place: Toronto
 country: Canada
-categories: ["code"]
+categories: ["code","thought"]
 ---
 People don't like build systems but they love static-site generators.

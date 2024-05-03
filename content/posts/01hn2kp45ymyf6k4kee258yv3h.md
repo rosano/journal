@@ -5,6 +5,6 @@ month: 2024-01
 day: 2024-01-26
 place: Toronto
 country: Canada
-categories: ["code"]
+categories: ["code","thought"]
 ---
 At this point I basically upgrade iOS when there are new Progressive Web App features.

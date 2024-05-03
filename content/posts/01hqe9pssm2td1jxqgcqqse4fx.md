@@ -6,6 +6,6 @@ day: 2024-02-23
 place: Toronto
 country: Canada
 tags: ["digital"]
-categories: ["code"]
+categories: ["code","thought"]
 ---
 How many HTTP requests does it take to read a blog post versus a thread? What does it mean when it matters? What does it mean when it doesn't?
