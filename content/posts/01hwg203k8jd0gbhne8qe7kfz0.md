@@ -1,10 +1,10 @@
 ---
-date: 2024-04-27T11:15:22.856-04:00
+date: 2024-04-27T16:15:22.856+01:00
 year: 2024
 month: 2024-04
 day: 2024-04-27
-place: Toronto
-country: Canada
+place: Porto
+country: Portugal
 link: https://www.youtube.com/watch?v=XZ3w_jec1v8
 categories: ["talk"]
 ---
