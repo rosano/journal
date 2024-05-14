@@ -1,0 +1,19 @@
+---
+date: 2024-05-07T22:23:29.912+02:00
+year: 2024
+month: 2024-05
+day: 2024-05-07
+place: Wurzen
+country: Germany
+link: https://waitbutwhy.com/2019/12/political-disney-world.html
+categories: ["article"]
+---
+[Political Disney World](https://waitbutwhy.com/2019/12/political-disney-world.html)
+
+> [Progressivism creates and strengthen. Conservatism preserves and protects.]
+
+> [Between 'what is', 'what should be', and 'how to get there', people aligned or unaligned regardless of their viewpoint.]
+
+> [People are not 'progressive' or 'conservative' either in opposition to the other by definition: they can think in certain ways.]
+
+> [Political Disney World is interpreting people as always bad or always good like characters in a fictional story rather than complex and inconsistent as messy humans can be.]
