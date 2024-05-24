@@ -5,8 +5,8 @@ month: 2024-05
 day: 2024-05-18
 place: Wiesenburg (Mark)
 country: Germany
+categories: ["talk"]
 link: https://weirdeconomies.com/contributions/exploits-of-play-the-cheating-other
-categories: ["article"]
 ---
 [Exploits of Play: The Cheating Other](https://weirdeconomies.com/contributions/exploits-of-play-the-cheating-other)
 
