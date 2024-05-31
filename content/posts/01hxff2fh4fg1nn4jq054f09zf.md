@@ -7,4 +7,4 @@ place: Wurzen
 country: Germany
 categories: ["thought"]
 ---
-"No need to own my data when it's okay to lose things."
+> No need to own my data when it's okay to lose things.

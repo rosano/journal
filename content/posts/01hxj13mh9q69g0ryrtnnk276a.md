@@ -7,4 +7,4 @@ place: Wurzen
 country: Germany
 categories: ["thought"]
 ---
-"People think that co-living community rules are whatever the first person told them."
+> People think that co-living community rules are whatever the first person told them.

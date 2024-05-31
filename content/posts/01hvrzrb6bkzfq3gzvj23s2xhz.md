@@ -7,4 +7,4 @@ place: Toronto
 country: Canada
 categories: ["thought"]
 ---
-"in it, but not *of* it"
+> in it, but not *of* it
