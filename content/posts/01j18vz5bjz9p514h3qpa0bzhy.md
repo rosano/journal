@@ -1,10 +1,10 @@
 ---
-date: 2024-06-26T01:33:48.529+02:00
+date: 2024-06-25T19:33:48.529-04:00
 year: 2024
 month: 2024-06
-day: 2024-06-26
-place: Berlin
-country: Germany
+day: 2024-06-25
+place: Toronto
+country: Canada
 categories: ["book"]
 series: "It's OK That You're Not OK"
 ---

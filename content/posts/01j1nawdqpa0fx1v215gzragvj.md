@@ -1,10 +1,10 @@
 ---
-date: 2024-06-30T21:45:20.629+02:00
+date: 2024-06-30T15:45:20.629-04:00
 year: 2024
 month: 2024-06
 day: 2024-06-30
-place: Berlin
-country: Germany
+place: Toronto
+country: Canada
 categories: ["book"]
 series: "The Last Act"
 ---

@@ -1,10 +1,10 @@
 ---
-date: 2024-06-15T14:43:21.181+02:00
+date: 2024-06-15T08:43:21.181-04:00
 year: 2024
 month: 2024-06
 day: 2024-06-15
-place: Berlin
-country: Germany
+place: Toronto
+country: Canada
 link: https://www.tiktok.com/@watchfulcoyote/video/7380396223871733022
 categories: ["talk"]
 ---

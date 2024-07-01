@@ -1,10 +1,10 @@
 ---
-date: 2024-06-27T16:23:41.760+02:00
+date: 2024-06-27T10:23:41.760-04:00
 year: 2024
 month: 2024-06
 day: 2024-06-27
-place: Berlin
-country: Germany
+place: Toronto
+country: Canada
 via: Alessandro
 categories: ["thought"]
 ---
