@@ -7,7 +7,7 @@ place: Toronto
 country: Canada
 categories: ["code"]
 ---
-Tried to understand why my Kobo doesn't mount to the computer when connecting via cable.
+Tried to understand why my Kobo doesn't mount to the computer when connecting via cable. Best solution I've found is to try a different computer.
 
 ---
 
