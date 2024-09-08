@@ -4,7 +4,7 @@ year: 2024
 month: 2024-08
 day: 2024-08-05
 place: London
-country: United Kingdom
+country: England
 categories: ["sound"]
 link: https://www.youtube.com/playlist?list=OLAK5uy_n9C2qWpdgcjCVwFcR1TwXEONjwqNy1vfg
 ---

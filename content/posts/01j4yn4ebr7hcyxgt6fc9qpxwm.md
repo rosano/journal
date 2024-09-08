@@ -4,7 +4,7 @@ year: 2024
 month: 2024-08
 day: 2024-08-10
 place: London
-country: United Kingdom
+country: England
 categories: ["thought"]
 ---
 > [Scoping out a scene that isn't aware of itself.]

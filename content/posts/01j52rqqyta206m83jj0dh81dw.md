@@ -4,7 +4,7 @@ year: 2024
 month: 2024-08
 day: 2024-08-12
 place: London
-country: United Kingdom
+country: England
 link: https://www.youtube.com/watch?v=8LMF_Qj_7PA
 categories: ["talk"]
 ---
