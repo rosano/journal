@@ -5,8 +5,8 @@ month: 2024-09
 day: 2024-09-08
 place: Berlin
 country: Germany
+categories: ["talk"]
 link: https://www.jeffersonfisher.com/podcast/How-to-Increase-Your-Emotional-Intelligence
-categories: ["article"]
 ---
 [How to Increase Your Emotional Intelligence](https://www.jeffersonfisher.com/podcast/How-to-Increase-Your-Emotional-Intelligence)
 
