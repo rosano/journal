@@ -5,6 +5,7 @@ month: 2024-06
 day: 2024-06-20
 place: Toronto
 country: Canada
-categories: ["thought"]
+categories: ["book"]
+series: "It's OK That You're Not OK"
 ---
 > [Grief also involves mourning your old life.]
