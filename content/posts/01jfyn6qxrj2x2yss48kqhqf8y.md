@@ -7,4 +7,4 @@ place: Mumbai
 country: India
 categories: ["thought"]
 ---
-There is no language without a listener who can understand what is being said.
+there is no language without a listener who can understand what is being said.
